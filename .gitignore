@@ -1,0 +1,9 @@
+_build/
+__pycache__
+*.pyc
+
+# Finder (MacOS) makes these automatically.
+.DS_Store
+
+# And Windows keeps creating these.
+Thumbs.db
