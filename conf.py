@@ -187,6 +187,8 @@ html_show_sourcelink = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ReadtheDocsTemplatedoc'
 
+# Numbering figures
+numfig = True
 
 # -- Options for LaTeX output ---------------------------------------------
 
