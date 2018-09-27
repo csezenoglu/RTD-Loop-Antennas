@@ -12,3 +12,8 @@
   }
 
 }
+
+/* math equation number position  */
+span.eqno {
+    float: right;
+}
