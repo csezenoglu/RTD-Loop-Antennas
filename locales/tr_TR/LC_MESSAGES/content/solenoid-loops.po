@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 10c6da6af4544736b7f2aa3badfdb422
+#: ../../content/solenoid-loops.rst:3
+msgid "Solenoid Loops"
+msgstr ""
+
+# d3acb86febac4bb0a54e23e9c40489db
+#: ../../content/solenoid-loops.rst:5
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum "
+"nulla vel neque venenatis, nec placerat lorem placerat. Cras purus eros, "
+"gravida vitae tincidunt id, vehicula nec nulla. Fusce aliquet auctor "
+"cursus. Phasellus ex neque, vestibulum non est vitae, viverra fringilla "
+"tortor."
+msgstr ""
+
+# a8986108642742ff956b1db8769d1909
+#: ../../content/solenoid-loops.rst:9
+msgid ""
+"For more information about Paragraph Level Markup: `Have a look here "
+"<https://rtd-sphinx-theme.readthedocs.io/en/latest/demo/demo.html>`_."
+msgstr ""
+

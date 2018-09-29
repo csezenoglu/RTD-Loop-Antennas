@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 7b98cea84bf3432bb45252eee4e8ff9e
+#: ../../index.rst:7
+msgid "Loop Antennas"
+msgstr ""
+
+# ce81b9593b8f469cbad9ee30173964db
+#: ../../index.rst:9
+msgid "Table of Contents:"
+msgstr ""
+
+# cd46299a6bf8426f9cff9fbba7c54e87
+#: ../../index.rst:24
+msgid "Appendix:"
+msgstr ""
+
+# 6687a9533a254f5f834b4dd09cfc6f5b
+#: ../../index.rst:32
+msgid ""
+"In the case of loop antennas, the dipole consists of a usually circular "
+"or rectangular current loop which acts like a coil and functions in "
+"response to the magnetic component of the electromagnetic field "
+":cite:`rohner:2006`."
+msgstr ""
+
+# 5e754a54ccb0422b8b6da9c99106d4fe
+#: ../../index.rst:34
+msgid ""
+"A small loop (circular or square) is equivalent to an infinitesimal "
+"magnetic dipole whose axis is perpendicular to the plane of the loop. "
+"That is, the fields radiated by an electrically small circular or square "
+"loop are of the same mathematical form as those radiated by an "
+"infinitesimal magnetic dipole :cite:`balanis:2005`."
+msgstr ""
+

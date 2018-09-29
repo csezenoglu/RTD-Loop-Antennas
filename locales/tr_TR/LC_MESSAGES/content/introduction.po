@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# f5cf2c807e4248fea20c4c9b86b24e9c
+#: ../../content/introduction.rst:3
+msgid "Introduction"
+msgstr ""
+
+# 74a3c34267684a43859dad126aca742a
+#: ../../content/introduction.rst:5
+msgid ""
+"Loop antennas can be seperated into two categories: small loops and large"
+" loops, as seen in :numref:`loop_antennas_en`."
+msgstr ""
+
+# a4269ddfab76424fb22087e096a9990d
+#: ../../content/introduction.rst:12
+msgid ": Loop Antennas"
+msgstr ""
+
+# cd39c637510e412e8e97c4cb6ae326fd
+#: ../../content/introduction.rst:14
+msgid ""
+"**Electrically small loops:** overall length (circumference) less than "
+"about one-tenth of a wavelength."
+msgstr ""
+
+# 84616c01515f44fb8c9116f29cb4d117
+#: ../../content/introduction.rst:16
+msgid ""
+"Small radiation resistance that are usually smaller than their loss "
+"resistances. They are very poor radiators and usually in the receiving "
+"mode :cite:`balanis:2005`."
+msgstr ""
+
+# 32f87564cfb2407295a256cb0d058da0
+#: ../../content/introduction.rst:17
+msgid ""
+"The radiation resistance of the loop can be increased by increasing "
+"(electrically) its perimeter and/or the number of turns. Another way is "
+"to insert a ferrite core :cite:`balanis:2005`."
+msgstr ""
+
+# 00e389c8e810498c8bcec8f1788ff5ca
+#: ../../content/introduction.rst:18
+msgid ""
+"In view of their small dimensions the current in the entire loop can be "
+"regarded as locally constant. Consequently, they generate the same sort "
+"of field as a Hertzian dipole, i.e. a very short electrical antenna on "
+"which the current distribution is a function of position to an equally "
+"small extent :cite:`rohner:2006`. The field pattern of electrically small"
+" antennas of any shape is similar to that of an infinitesimal dipole "
+":cite:`balanis:2005`."
+msgstr ""
+
+# 5f5b443567b54345b78ba6d8581a8012
+#: ../../content/introduction.rst:19
+msgid ""
+"Used as probes for field measurements, directional antennas for radiowave"
+" navigation :cite:`balanis:2005`."
+msgstr ""
+
+# e92161b8ae8941519bd68c423e1c4ebd
+#: ../../content/introduction.rst:21
+msgid ""
+"**Electrically large loops:** circumference is about a free-space "
+"wavelength."
+msgstr ""
+
+# c6a35ae66873408f8027be6c1a5fea71
+#: ../../content/introduction.rst:23
+msgid "Used primarily in directional arrays."
+msgstr ""
+
+# 9c61d0f184e9427f9c479105c1c5ec14
+#: ../../content/introduction.rst:24
+msgid ""
+"To achieve such directional pattern characteristics, the circumference "
+"(perimeter) of the loop should be about one free-space wavelength."
+msgstr ""
+
+# 5f5ea1fa25204bb58704de3a2cc3b375
+#: ../../content/introduction.rst:26
+msgid ""
+"They have become less significant as transmitting antennas for "
+"frequencies below 30 MHz. An exception to this is the tuned transmitting "
+"loop, which can be equipped with a remotely controlled capacitor to make "
+"a resonant circuit (a receiving loop can be provided with additional "
+"selectivity and sensitivity in the same way). However, such loops are "
+"extremely narrowband systems and therefore have to be retuned whenever "
+"the frequency is changed :cite:`rohner:2006`."
+msgstr ""
+
