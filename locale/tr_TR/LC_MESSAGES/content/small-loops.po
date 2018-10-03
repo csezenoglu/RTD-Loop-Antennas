@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 78452e93ea804a0290134621054f4240
+# c79448c0e62943768118722874c0bc86
 #: ../../content/small-loops.rst:3
 msgid "Small Loops"
 msgstr ""
 
-# ca7f3996ea2a4ecdaa6e815ec55ca745
+# 6a5fbf8a41ea4252b0dee2573d7f44bb
 #: ../../content/small-loops.rst:5
 msgid ""
 "In the case of loop antennas, the dipole consists of a usually circular "
@@ -32,7 +32,7 @@ msgid ""
 ":cite:`pettengill:1977`."
 msgstr ""
 
-# 6b8b22567027489fafffdb6915a73e9b
+# 916c479e67714c9bb8a9ed02868c80ef
 #: ../../content/small-loops.rst:7
 msgid ""
 "A small loop (circular or square) is equivalent to an infinitesimal "
@@ -42,7 +42,7 @@ msgid ""
 "infinitesimal magnetic dipole :cite:`balanis:2005`."
 msgstr ""
 
-# c69d46980be44c7cb9448c27be5d3904
+# 4b2371fc23fb4359803c04268a0c98c3
 #: ../../content/small-loops.rst:9
 msgid ""
 "In the case of loop antennas, the dipole consists of a usually circular "
@@ -50,12 +50,12 @@ msgid ""
 "response to the magnetic component of the electromagnetic field."
 msgstr ""
 
-# 9e7dd690d5b546eeb319b4e8bb56ee5e
+# e11dbd5b533b4d1a802b1275af079462
 #: ../../content/small-loops.rst:12
 msgid "Introduction"
 msgstr ""
 
-# 9483d86cfe32463393437c3d3580b4f2
+# 81d1979eb82f48e7864a1afe7853bd23
 #: ../../content/small-loops.rst:14
 msgid ""
 "The most convenient geometrical arrangement for the field analysis of a "
@@ -66,12 +66,12 @@ msgid ""
 ":cite:`balanis:2005`."
 msgstr ""
 
-# 6e52cd63192c4d34aa7481a2bf1698de
+# 318a09063f954ba3a80cb02eaf099ca7
 #: ../../content/small-loops.rst:21
 msgid ": Geometrical arrangement for loop antenna analysis"
 msgstr ""
 
-# 08964b916be94d568a6fb29471d35ec8
+# e76b155980ec4e468b401c6d62bbd545
 #: ../../content/small-loops.rst:23
 msgid ""
 "In the analysis of radiation problems, the usual procedure is to specify "
@@ -90,14 +90,14 @@ msgid ""
 " :cite:`balanis:2005`."
 msgstr ""
 
-# e1ae81e7ca404cca9e668a6d9511535f
+# 94f23a57426e4447ac247612a1e54c4d
 #: ../../content/small-loops.rst:32
 msgid ""
 ": Block diagram for computing fields radiated by electric and magnetic "
 "sources."
 msgstr ""
 
-# 9ed0462530ff4532bf7f06eb28af6352
+# 7c43c74818f3487789371e7e273c71e8
 #: ../../content/small-loops.rst:34
 msgid ""
 "Defining properties for an electrically small antenna are low "
@@ -105,17 +105,17 @@ msgid ""
 " efficiency [Stutzman and Thiele, 2012]."
 msgstr ""
 
-# 93cdf6dfee014fb2b636cef22aa90b55
+# 3741c3ab0ef242f5b54ed1b507712016
 #: ../../content/small-loops.rst:37
 msgid "Radiated Fields"
 msgstr ""
 
-# 394c4ce3311e4339b7469a9428544106
+# 675ebdde59b04221af1bd8ad37330529
 #: ../../content/small-loops.rst:40
 msgid "Thin Wire, Constant Current, Small Circumference"
 msgstr ""
 
-# d4abe834651243c7bb1d32f3aead5c38
+# 9119d5d2421d4a2b8b204920e12ebba4
 #: ../../content/small-loops.rst:42
 msgid ""
 "The wire is assumed to be very thin and the current spatial distribution "
@@ -125,12 +125,37 @@ msgid ""
 "makes the mathematical formulation quite cumbersome :cite:`balanis:2005`."
 msgstr ""
 
-# 91e8fbd62cfd40a285aca5bfe2b1f880
+# dc9b306ecaa24a78a4ff16ac4951048d
+#: ../../content/small-loops.rst:44
+msgid ""
+"\\vec A = j \\frac{k \\mu a^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + "
+"\\frac{1}{jkr} \\right] e^{-jkr} \\vec a_\\phi"
+msgstr ""
+
+# 418eee1d344d425c9d7853c045686596
+#: ../../content/small-loops.rst:49
+msgid ""
+"\\left\\{ \\begin{aligned} H_r &= j \\frac{k a^2 I_0 \\cos \\theta}{2 "
+"r^2} \\left[ 1 + \\frac{1}{jkr} \\right] e^{-jkr} \\\\ H_\\theta &= - "
+"\\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} - "
+"\\frac{1}{(kr)^2} \\right] e^{-jkr} \\\\ H_\\phi &= 0 \\end{aligned} "
+"\\right."
+msgstr ""
+
+# 05da366be75e4f9c9833d540a168a23a
+#: ../../content/small-loops.rst:60
+msgid ""
+"\\left\\{ \\begin{aligned} E_r &= 0 \\\\ E_\\theta &= 0 \\\\ E_\\phi &= "
+"\\eta \\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} "
+"\\right] e^{-jkr} \\end{aligned} \\right."
+msgstr ""
+
+# 94438a3b530546daa8e3abb73893a53d
 #: ../../content/small-loops.rst:72
 msgid "Shielding"
 msgstr ""
 
-# c37710e383f7488cab3e098b2fcaca38
+# 9e06c636e75347829d8c01d307f89491
 #: ../../content/small-loops.rst:74
 msgid ""
 "A practical version of a single-winding loop for test purposes is shown "
@@ -140,17 +165,17 @@ msgid ""
 " :cite:`rohner:2006`"
 msgstr ""
 
-# 943ed4b70fa0446e8b51f12507edadc9
+# 4c10b540f52046da983e708a37257c87
 #: ../../content/small-loops.rst:77
 msgid "Loop Geometry"
 msgstr ""
 
-# 6fb6e8538ae64cc9b0652f09bfe318d4
+# 4ba99287b13140d283acda9b410dbda3
 #: ../../content/small-loops.rst:80
 msgid "Dimensions"
 msgstr ""
 
-# 398b794c40a4432993c0136242f30cfb
+# 243c51023e1c4f78acfddd0fe8545de9
 #: ../../content/small-loops.rst:82
 msgid ""
 "For comparable performance, it appears that the length of the ferrite "
@@ -166,7 +191,7 @@ msgid ""
 " budget [Stewart, 1958]."
 msgstr ""
 
-# ea79d8712aea43b28cdf62d3282ccada
+# f79d1004508240a7a6778962636ca647
 #: ../../content/small-loops.rst:85
 msgid ""
 "Cylindrical cores longer than a solenoid winding are used to increase L "
@@ -176,27 +201,27 @@ msgid ""
 "04.04.2017]."
 msgstr ""
 
-# 2d94c07fccbe4e8087ae8699c92f077b
+# ab3a26c42e314558a56173695fc68415
 #: ../../content/small-loops.rst:88
 msgid "Coil cross-section advantage/disadvantage"
 msgstr ""
 
-# e1c5ae2b965a4b34b1db5b6dd120c0f0
+# 7200bbd4e5034739b866ab0924738b9e
 #: ../../content/small-loops.rst:94
 msgid "Circular"
 msgstr ""
 
-# 398575dc174648b9840cb5d044e246c3
+# d1d3144e005547d882122eef514be6fb
 #: ../../content/small-loops.rst:95
 msgid "Rectangular"
 msgstr ""
 
-# 1d2ef8a8698f4bd78aa64c38470e76bc
+# 68749632532f4d0ebb3e01492987b4f3
 #: ../../content/small-loops.rst:104
 msgid "Others"
 msgstr ""
 
-# 539ad807f5204f609c8a12cc647074ad
+# 6e57c14f8b694a36aa65c4042dbd30eb
 #: ../../content/small-loops.rst:105
 msgid ""
 "Fundamental characteristics of the loop antenna radiation pattern (far "
@@ -204,7 +229,7 @@ msgid ""
 "Lecture Notes]."
 msgstr ""
 
-# dca9702f3b364c6e8b6911bc7f18ccc6
+# 1e6003d257054acdb014c9630fc153cb
 #: ../../content/small-loops.rst:107
 msgid ""
 "The far fields of an electrically small loop antenna are dependent on the"
@@ -212,7 +237,7 @@ msgid ""
 "Lecture Notes]."
 msgstr ""
 
-# 8234f8af26744858922c1e0e781f342e
+# 06a03d0b890346828c08d9284be8a421
 #: ../../content/small-loops.rst:109
 #, python-format
 msgid ""
@@ -223,7 +248,7 @@ msgid ""
 "triangular cross-section [Moskowitz and Della Torre, 1966]."
 msgstr ""
 
-# aa197abb91cb479c829d71d7ddd06264
+# 664e7e9f0efb4dac8501cfb36b7b1e31
 #: ../../content/small-loops.rst:111
 msgid ""
 "Size and shape of coils affect their high frequency resistance very "

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 188e22635b0343a4b7636a451e727f34
+# 5a6172cfae09432690300cf394e3f195
 #: ../../content/zreferences.rst:16
 msgid "References"
 msgstr ""

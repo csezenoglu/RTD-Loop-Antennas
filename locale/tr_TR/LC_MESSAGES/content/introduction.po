@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,31 +18,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# f5cf2c807e4248fea20c4c9b86b24e9c
+# 9314090fc023487381c40a3291101ee1
 #: ../../content/introduction.rst:3
 msgid "Introduction"
 msgstr ""
 
-# 74a3c34267684a43859dad126aca742a
+# ef53a1fc9eb74461ade603e6f0ac4195
 #: ../../content/introduction.rst:5
 msgid ""
 "Loop antennas can be seperated into two categories: small loops and large"
 " loops, as seen in :numref:`loop_antennas_en`."
 msgstr ""
 
-# a4269ddfab76424fb22087e096a9990d
+# 49f1bba393034111abb9f101f201175e
 #: ../../content/introduction.rst:12
 msgid ": Loop Antennas"
 msgstr ""
 
-# cd39c637510e412e8e97c4cb6ae326fd
+# 6a9998a2582c4b35876dc9556b456bec
 #: ../../content/introduction.rst:14
 msgid ""
 "**Electrically small loops:** overall length (circumference) less than "
 "about one-tenth of a wavelength."
 msgstr ""
 
-# 84616c01515f44fb8c9116f29cb4d117
+# b3dc2d099a654c7eb266156fe05273c7
 #: ../../content/introduction.rst:16
 msgid ""
 "Small radiation resistance that are usually smaller than their loss "
@@ -50,7 +50,7 @@ msgid ""
 "mode :cite:`balanis:2005`."
 msgstr ""
 
-# 32f87564cfb2407295a256cb0d058da0
+# e671f50f1e6546d694a3406b06750771
 #: ../../content/introduction.rst:17
 msgid ""
 "The radiation resistance of the loop can be increased by increasing "
@@ -58,7 +58,7 @@ msgid ""
 "to insert a ferrite core :cite:`balanis:2005`."
 msgstr ""
 
-# 00e389c8e810498c8bcec8f1788ff5ca
+# 78f42ac4b3bf4541aa7b38394904d99e
 #: ../../content/introduction.rst:18
 msgid ""
 "In view of their small dimensions the current in the entire loop can be "
@@ -70,33 +70,33 @@ msgid ""
 ":cite:`balanis:2005`."
 msgstr ""
 
-# 5f5b443567b54345b78ba6d8581a8012
+# c588ae31daf04690990bbf136ada59f9
 #: ../../content/introduction.rst:19
 msgid ""
 "Used as probes for field measurements, directional antennas for radiowave"
 " navigation :cite:`balanis:2005`."
 msgstr ""
 
-# e92161b8ae8941519bd68c423e1c4ebd
+# 0f8febe6e3304171b75c4b90502bc230
 #: ../../content/introduction.rst:21
 msgid ""
 "**Electrically large loops:** circumference is about a free-space "
 "wavelength."
 msgstr ""
 
-# c6a35ae66873408f8027be6c1a5fea71
+# 98fb89496a6645e88f0dec2acbd3a66f
 #: ../../content/introduction.rst:23
 msgid "Used primarily in directional arrays."
 msgstr ""
 
-# 9c61d0f184e9427f9c479105c1c5ec14
+# 0c9ca63d4b3043599b19ac70e8ae01d8
 #: ../../content/introduction.rst:24
 msgid ""
 "To achieve such directional pattern characteristics, the circumference "
 "(perimeter) of the loop should be about one free-space wavelength."
 msgstr ""
 
-# 5f5ea1fa25204bb58704de3a2cc3b375
+# 6b39e9d76d22449580cb0ea9f9292115
 #: ../../content/introduction.rst:26
 msgid ""
 "They have become less significant as transmitting antennas for "

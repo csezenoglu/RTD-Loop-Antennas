@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,22 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 7b98cea84bf3432bb45252eee4e8ff9e
+# 5e190899611b48b198df326e55f3f59e
 #: ../../index.rst:7
 msgid "Loop Antennas"
 msgstr ""
 
-# ce81b9593b8f469cbad9ee30173964db
+# a1099950ee6a49f68027cacf608d009a
 #: ../../index.rst:9
 msgid "Table of Contents:"
 msgstr ""
 
-# cd46299a6bf8426f9cff9fbba7c54e87
+# 6be6f50cb8134c60addf9c4d39dd32fe
 #: ../../index.rst:24
 msgid "Appendix:"
 msgstr ""
 
-# 6687a9533a254f5f834b4dd09cfc6f5b
+# 6fbd2ac6c5874506bf1c2e165b8ef904
 #: ../../index.rst:32
 msgid ""
 "In the case of loop antennas, the dipole consists of a usually circular "
@@ -42,7 +42,7 @@ msgid ""
 ":cite:`rohner:2006`."
 msgstr ""
 
-# 5e754a54ccb0422b8b6da9c99106d4fe
+# abccee8fca3a45f9931f5e478b16407b
 #: ../../index.rst:34
 msgid ""
 "A small loop (circular or square) is equivalent to an infinitesimal "

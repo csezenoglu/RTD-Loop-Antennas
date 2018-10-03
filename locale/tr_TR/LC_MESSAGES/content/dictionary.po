@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,17 +18,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 26d9533d6bbe4b83b63fdb4071d24e38
+# e7e28e2351ec44e2ad992bd2861693a5
 #: ../../content/dictionary.rst:2
 msgid "Dictionary"
 msgstr ""
 
-# cb24fab042be4990b9bb63b031429e5d
+# ad5fa8699ab94e019141c328e041ab17
 #: ../../content/dictionary.rst:5
 msgid "Aperture (of an antenna)"
 msgstr ""
 
-# 9bf5f9afcadc4c7789fe2daaefcf9ae3
+# e294e8c3c83b493a8c1017acf8c257e3
 #: ../../content/dictionary.rst:7
 msgid ""
 "A surface, near or on an antenna, on which it is convenient to make "
@@ -39,7 +39,7 @@ msgid ""
 "radiation passes :cite:`ieee145:1993`."
 msgstr ""
 
-# ed35c6f345194ae2915bd9ade3be8236
+# 49ededbcabb0451e8b38372832294f94
 #: ../../content/dictionary.rst:9
 msgid ""
 "The power received by an antenna can be described in terms of a "
@@ -52,24 +52,24 @@ msgid ""
 " radiation and the directivity or gain :cite:`gibson:2010`."
 msgstr ""
 
-# 2d88f6e5df964198a554b34a3dc8d92e
+# 164ae9db8a4f4f108338936c12227947
 #: ../../content/dictionary.rst:12
 msgid "Modal Analysis"
 msgstr ""
 
-# f5c2fac776b940eb8070f5add8f97af5
+# 6d6ee9b6c47a48869964233e07507888
 #: ../../content/dictionary.rst:14
 msgid ""
 "Modal analysis is the study of the dynamic properties of systems in the "
 "frequency domain. [http://en.turkcewiki.org/wiki/Modal_analysis]"
 msgstr ""
 
-# 41a647149e9c4b6681bae424abdd4c23
+# 5369381f312a4db3ba9ff16585a81f6a
 #: ../../content/dictionary.rst:18
 msgid "Chu Limit"
 msgstr ""
 
-# bb42c654f45545fe850bbbae258595fe
+# 1a98a915f35549c399e950a9af0b3692
 #: ../../content/dictionary.rst:20
 msgid ""
 "In electrical engineering and telecommunications the Chu–Harrington limit"
@@ -84,7 +84,7 @@ msgid ""
 "small antennas such as are used in mobile phones."
 msgstr ""
 
-# cc917ef3428e4dc5aa59e5df9c7c9490
+# b92eae8948b14c258d0b6e7840eb5dfa
 #: ../../content/dictionary.rst:22
 msgid ""
 "More specifically, Chu established the limit on Q for a lossless antenna "

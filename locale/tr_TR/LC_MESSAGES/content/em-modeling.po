@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-28 23:42+0300\n"
+"POT-Creation-Date: 2018-10-03 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# bdec916a98c94af69617d8668e6201b1
+# 5314a192271b46cebff2258496af3ab5
 #: ../../content/em-modeling.rst:3
 msgid "EM Modeling"
 msgstr ""
 
-# 7dbefbca269e4fa68cd48b9379788f49
+# eb62d001d49a4cddba816f0dfc7d2f2e
 #: ../../content/em-modeling.rst:5
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum "
@@ -33,7 +33,7 @@ msgid ""
 "tortor."
 msgstr ""
 
-# 67f29716aa534acebe3ed784d8a46b74
+# c510484c05c6443fa9eeb31fd173cad9
 #: ../../content/em-modeling.rst:9
 msgid ""
 "For more information about Paragraph Level Markup: `Have a look here "
