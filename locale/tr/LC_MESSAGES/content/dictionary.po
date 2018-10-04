@@ -4,24 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-10-04 16:44+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 # e7e28e2351ec44e2ad992bd2861693a5
 #: ../../content/dictionary.rst:2
 msgid "Dictionary"
-msgstr ""
+msgstr "Sözlük"
 
 # ad5fa8699ab94e019141c328e041ab17
 #: ../../content/dictionary.rst:5
@@ -47,9 +47,9 @@ msgid ""
 "with a physical aperture but even a linear wire antenna can be described "
 "in terms of a notional collecting area. If the electromagnetic field has "
 "a power density of :math:`P_d`, and the receiving antenna has an "
-"effective aperture of :math:`A_e` then it will capture a power of "
-":math:`P_d A_e`. The effective area depends only on the wavelength of the"
-" radiation and the directivity or gain :cite:`gibson:2010`."
+"effective aperture of :math:`A_e` then it will capture a power of :math:"
+"`P_d A_e`. The effective area depends only on the wavelength of the "
+"radiation and the directivity or gain :cite:`gibson:2010`."
 msgstr ""
 
 # 164ae9db8a4f4f108338936c12227947
@@ -72,30 +72,30 @@ msgstr ""
 # 1a98a915f35549c399e950a9af0b3692
 #: ../../content/dictionary.rst:20
 msgid ""
-"In electrical engineering and telecommunications the Chu–Harrington limit"
-" or Chu limit sets a lower limit on the Q factor for a small radio "
+"In electrical engineering and telecommunications the Chu–Harrington "
+"limit or Chu limit sets a lower limit on the Q factor for a small radio "
 "antenna. The theorem was developed in several papers between 1948 and "
 "1960 by Lan Jen Chu, Harold Wheeler, and later by Roger Harrington. The "
 "definition of a small antenna is one that can fit inside a sphere of "
-"radius :math:`k^{-1}`, where :math:`k=2\\pi /\\lambda` is the wavenumber."
-" For a small antenna the Q is proportional to the reciprocal of the "
-"volume of a sphere that encloses it. In practice this means that there is"
-" a limit to the bandwidth of data that can be sent to and received from "
-"small antennas such as are used in mobile phones."
+"radius :math:`k^{-1}`, where :math:`k=2\\pi /\\lambda` is the "
+"wavenumber. For a small antenna the Q is proportional to the reciprocal "
+"of the volume of a sphere that encloses it. In practice this means that "
+"there is a limit to the bandwidth of data that can be sent to and "
+"received from small antennas such as are used in mobile phones."
 msgstr ""
 
 # b92eae8948b14c258d0b6e7840eb5dfa
 #: ../../content/dictionary.rst:22
 msgid ""
 "More specifically, Chu established the limit on Q for a lossless antenna "
-"as :math:`Q\\geq {\\frac {1}{k^{3}a^{3}}}+{\\frac {1}{ka}}}` for a linear"
-" polarized antenna, where :math:`a` a is the radius of the smallest "
-"sphere containing the antenna and its current distribution. A circular "
-"polarized antenna can be half the size. (an extension of the theory of "
-"Chu by Harrington). As antennas are made smaller, the bandwidth shrinks "
-"and radiation resistance becomes smaller compared to loss resistances "
-"that may be present, thus reducing the radiation efficiency. For users "
-"this decreases the bitrate, limits range, and shortens battery life. "
-"[http://en.turkcewiki.org/wiki/Chu–Harrington_limit]"
+"as :math:`Q\\geq {\\frac {1}{k^{3}a^{3}}}+{\\frac {1}{ka}}}` for a "
+"linear polarized antenna, where :math:`a` a is the radius of the "
+"smallest sphere containing the antenna and its current distribution. A "
+"circular polarized antenna can be half the size. (an extension of the "
+"theory of Chu by Harrington). As antennas are made smaller, the "
+"bandwidth shrinks and radiation resistance becomes smaller compared to "
+"loss resistances that may be present, thus reducing the radiation "
+"efficiency. For users this decreases the bitrate, limits range, and "
+"shortens battery life. [http://en.turkcewiki.org/wiki/Chu–"
+"Harrington_limit]"
 msgstr ""
-

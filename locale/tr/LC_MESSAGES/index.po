@@ -4,42 +4,43 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-10-04 11:04+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"X-Generator: Poedit 2.1.1\n"
 
 # 5e190899611b48b198df326e55f3f59e
 #: ../../index.rst:7
 msgid "Loop Antennas"
-msgstr ""
+msgstr "Halka Antenler"
 
 # a1099950ee6a49f68027cacf608d009a
 #: ../../index.rst:9
 msgid "Table of Contents:"
-msgstr ""
+msgstr "İçindekiler:"
 
 # 6be6f50cb8134c60addf9c4d39dd32fe
 #: ../../index.rst:24
 msgid "Appendix:"
-msgstr ""
+msgstr "Ekler:"
 
 # 6fbd2ac6c5874506bf1c2e165b8ef904
 #: ../../index.rst:32
 msgid ""
 "In the case of loop antennas, the dipole consists of a usually circular "
 "or rectangular current loop which acts like a coil and functions in "
-"response to the magnetic component of the electromagnetic field "
-":cite:`rohner:2006`."
+"response to the magnetic component of the electromagnetic field :cite:"
+"`rohner:2006`."
 msgstr ""
 
 # abccee8fca3a45f9931f5e478b16407b
@@ -51,4 +52,3 @@ msgid ""
 "loop are of the same mathematical form as those radiated by an "
 "infinitesimal magnetic dipole :cite:`balanis:2005`."
 msgstr ""
-

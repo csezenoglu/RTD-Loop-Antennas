@@ -4,32 +4,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2018-10-04 16:38+0300\n"
+"PO-Revision-Date: 2018-10-04 16:42+0300\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"X-Generator: Poedit 2.1.1\n"
 
 # c79448c0e62943768118722874c0bc86
 #: ../../content/small-loops.rst:3
 msgid "Small Loops"
-msgstr ""
+msgstr "Küçük Halka Antenler"
 
 # 6a5fbf8a41ea4252b0dee2573d7f44bb
 #: ../../content/small-loops.rst:5
 msgid ""
 "In the case of loop antennas, the dipole consists of a usually circular "
 "or rectangular current loop which acts like a coil and functions in "
-"response to the magnetic component of the electromagnetic field "
-":cite:`pettengill:1977`."
+"response to the magnetic component of the electromagnetic field :cite:"
+"`pettengill:1977`."
 msgstr ""
 
 # 916c479e67714c9bb8a9ed02868c80ef
@@ -53,7 +55,7 @@ msgstr ""
 # e11dbd5b533b4d1a802b1275af079462
 #: ../../content/small-loops.rst:12
 msgid "Introduction"
-msgstr ""
+msgstr "Giriş"
 
 # 81d1979eb82f48e7864a1afe7853bd23
 #: ../../content/small-loops.rst:14
@@ -62,8 +64,8 @@ msgid ""
 "loop antenna is to position the antenna symmetrically on the :math:`x-y` "
 "plane, at :math:`z = 0`. The wire is assumed to be very thin and the "
 "current is assumed to be constant. A constant current distribution is "
-"accurate only for a loop antenna with a very small circumference "
-":cite:`balanis:2005`."
+"accurate only for a loop antenna with a very small circumference :cite:"
+"`balanis:2005`."
 msgstr ""
 
 # 318a09063f954ba3a80cb02eaf099ca7
@@ -78,16 +80,16 @@ msgid ""
 "the sources and then require the fields radiated by the sources. It is a "
 "very common practice in the analysis procedure to introduce auxiliary "
 "functions, known as vector potentials, which will aid in the solution of "
-"the problems. The most common vector potential functions are the "
-":math:`A` (magnetic vector potential) and :math:`F` (electric vector "
-"potential). While it is possible to determine the :math:`E` and :math:`H`"
-" fields directly from the source-current densities :math:`J` and "
-":math:`M`, as shown in "
-":numref:`geometrical_arrangement_for_loop_antenna_analysis`, it is "
-"usually much simpler to find the auxiliary potential functions first and "
-"then determine the :math:`E` and :math:`H`. This two-step procedure is "
-"also shown in :numref:`geometrical_arrangement_for_loop_antenna_analysis`"
-" :cite:`balanis:2005`."
+"the problems. The most common vector potential functions are the :math:"
+"`A` (magnetic vector potential) and :math:`F` (electric vector "
+"potential). While it is possible to determine the :math:`E` and :math:"
+"`H` fields directly from the source-current densities :math:`J` and :"
+"math:`M`, as shown in :numref:"
+"`geometrical_arrangement_for_loop_antenna_analysis`, it is usually much "
+"simpler to find the auxiliary potential functions first and then "
+"determine the :math:`E` and :math:`H`. This two-step procedure is also "
+"shown in :numref:`geometrical_arrangement_for_loop_antenna_analysis` :"
+"cite:`balanis:2005`."
 msgstr ""
 
 # 94f23a57426e4447ac247612a1e54c4d
@@ -101,14 +103,14 @@ msgstr ""
 #: ../../content/small-loops.rst:34
 msgid ""
 "Defining properties for an electrically small antenna are low "
-"directivity, low input resistance, high input reactance and low radiation"
-" efficiency [Stutzman and Thiele, 2012]."
+"directivity, low input resistance, high input reactance and low "
+"radiation efficiency [Stutzman and Thiele, 2012]."
 msgstr ""
 
 # 3741c3ab0ef242f5b54ed1b507712016
 #: ../../content/small-loops.rst:37
 msgid "Radiated Fields"
-msgstr ""
+msgstr "Yayılan Alanlar"
 
 # 675ebdde59b04221af1bd8ad37330529
 #: ../../content/small-loops.rst:40
@@ -132,51 +134,50 @@ msgid ""
 "\\frac{1}{jkr} \\right] e^{-jkr} \\vec a_\\phi"
 msgstr ""
 
-# 418eee1d344d425c9d7853c045686596
+# 05da366be75e4f9c9833d540a168a23a
 #: ../../content/small-loops.rst:49
 msgid ""
-"\\left\\{ \\begin{aligned} H_r &= j \\frac{k a^2 I_0 \\cos \\theta}{2 "
-"r^2} \\left[ 1 + \\frac{1}{jkr} \\right] e^{-jkr} \\\\ H_\\theta &= - "
-"\\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} - "
-"\\frac{1}{(kr)^2} \\right] e^{-jkr} \\\\ H_\\phi &= 0 \\end{aligned} "
-"\\right."
+"\\begin{aligned} E_r &= 0 \\\\ E_\\theta &= 0 \\\\ E_\\phi &= \\eta "
+"\\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} "
+"\\right] e^{-jkr} \\end{aligned}"
 msgstr ""
 
-# 05da366be75e4f9c9833d540a168a23a
-#: ../../content/small-loops.rst:60
+# 418eee1d344d425c9d7853c045686596
+#: ../../content/small-loops.rst:58
 msgid ""
-"\\left\\{ \\begin{aligned} E_r &= 0 \\\\ E_\\theta &= 0 \\\\ E_\\phi &= "
-"\\eta \\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} "
-"\\right] e^{-jkr} \\end{aligned} \\right."
+"\\begin{aligned} H_r &= j \\frac{k a^2 I_0 \\cos \\theta}{2 r^2} "
+"\\left[ 1 + \\frac{1}{jkr} \\right] e^{-jkr} \\\\ H_\\theta &= - "
+"\\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} - "
+"\\frac{1}{(kr)^2} \\right] e^{-jkr} \\\\ H_\\phi &= 0 \\end{aligned}"
 msgstr ""
 
 # 94438a3b530546daa8e3abb73893a53d
-#: ../../content/small-loops.rst:72
+#: ../../content/small-loops.rst:69
 msgid "Shielding"
 msgstr ""
 
 # 9e06c636e75347829d8c01d307f89491
-#: ../../content/small-loops.rst:74
+#: ../../content/small-loops.rst:71
 msgid ""
 "A practical version of a single-winding loop for test purposes is shown "
 "in Fig. 4.12. As a protection against electric field effects, the actual "
 "winding is additionally surrounded by a tubular metal shield that must "
-"have a slot at one point in order not to short-circuit the magnetic field"
-" :cite:`rohner:2006`"
+"have a slot at one point in order not to short-circuit the magnetic "
+"field :cite:`rohner:2006`"
 msgstr ""
 
 # 4c10b540f52046da983e708a37257c87
-#: ../../content/small-loops.rst:77
+#: ../../content/small-loops.rst:74
 msgid "Loop Geometry"
 msgstr ""
 
 # 4ba99287b13140d283acda9b410dbda3
-#: ../../content/small-loops.rst:80
+#: ../../content/small-loops.rst:77
 msgid "Dimensions"
 msgstr ""
 
 # 243c51023e1c4f78acfddd0fe8545de9
-#: ../../content/small-loops.rst:82
+#: ../../content/small-loops.rst:79
 msgid ""
 "For comparable performance, it appears that the length of the ferrite "
 "core must be roughly equal to the diameter of an equivalent air loop. "
@@ -187,12 +188,12 @@ msgid ""
 "structurally simpler device to electrostatically shield, if desired "
 "[Stewart, 1958]. The static measuring technique enables reasonably valid "
 "data to be accumulated at a rapid rate such that tests of ferrite-cored "
-"antennas covering a whole range of parameters can be obtained on a modest"
-" budget [Stewart, 1958]."
+"antennas covering a whole range of parameters can be obtained on a "
+"modest budget [Stewart, 1958]."
 msgstr ""
 
 # f79d1004508240a7a6778962636ca647
-#: ../../content/small-loops.rst:85
+#: ../../content/small-loops.rst:82
 msgid ""
 "Cylindrical cores longer than a solenoid winding are used to increase L "
 "for a given physical size. Cylindrical cores shorter than the solenoid "
@@ -202,27 +203,27 @@ msgid ""
 msgstr ""
 
 # ab3a26c42e314558a56173695fc68415
-#: ../../content/small-loops.rst:88
+#: ../../content/small-loops.rst:85
 msgid "Coil cross-section advantage/disadvantage"
 msgstr ""
 
 # 7200bbd4e5034739b866ab0924738b9e
-#: ../../content/small-loops.rst:94
+#: ../../content/small-loops.rst:91
 msgid "Circular"
 msgstr ""
 
 # d1d3144e005547d882122eef514be6fb
-#: ../../content/small-loops.rst:95
+#: ../../content/small-loops.rst:92
 msgid "Rectangular"
 msgstr ""
 
 # 68749632532f4d0ebb3e01492987b4f3
-#: ../../content/small-loops.rst:104
+#: ../../content/small-loops.rst:101
 msgid "Others"
 msgstr ""
 
 # 6e57c14f8b694a36aa65c4042dbd30eb
-#: ../../content/small-loops.rst:105
+#: ../../content/small-loops.rst:102
 msgid ""
 "Fundamental characteristics of the loop antenna radiation pattern (far "
 "field) are largely independent of the loop shape [Donohoe, ECE4990 "
@@ -230,15 +231,15 @@ msgid ""
 msgstr ""
 
 # 1e6003d257054acdb014c9630fc153cb
-#: ../../content/small-loops.rst:107
+#: ../../content/small-loops.rst:104
 msgid ""
-"The far fields of an electrically small loop antenna are dependent on the"
-" loop area but are independent of the loop shape [Donohoe, ECE4990 "
+"The far fields of an electrically small loop antenna are dependent on "
+"the loop area but are independent of the loop shape [Donohoe, ECE4990 "
 "Lecture Notes]."
 msgstr ""
 
 # 06a03d0b890346828c08d9284be8a421
-#: ../../content/small-loops.rst:109
+#: ../../content/small-loops.rst:106
 #, python-format
 msgid ""
 "For any of the shapes given, there is less than 1% deviation between "
@@ -249,10 +250,9 @@ msgid ""
 msgstr ""
 
 # 664e7e9f0efb4dac8501cfb36b7b1e31
-#: ../../content/small-loops.rst:111
+#: ../../content/small-loops.rst:108
 msgid ""
 "Size and shape of coils affect their high frequency resistance very "
 "broadly. Cross section of coil had little effect on the observed "
 "resistance [Witzig, 1947]."
 msgstr ""
-

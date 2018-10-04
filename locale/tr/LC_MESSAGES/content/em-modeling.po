@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-04 16:38+0300\n"
+"PO-Revision-Date: 2018-10-04 16:43+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+
+# 5314a192271b46cebff2258496af3ab5
+#: ../../content/em-modeling.rst:3
+msgid "EM Modeling"
+msgstr "EM Modelleme"
+
+# 0ea053ae31cd480d8fa7438ba57f4c73
+#: ../../content/em-modeling.rst:6
+msgid "Magnetic Dipole Moment"
+msgstr ""
+
+# 0eef8a7114324ac59875e5e21c3a2f78
+#: ../../content/em-modeling.rst:8
+msgid ""
+"Magnetic dipole moment is a vector that point out of the plane of the "
+"loop and the magnitude of moment for a static field equals to the "
+"product of the flowing current in and cross-sectional area of the loop."
+msgstr ""
+
+# 23e77e257096470aba49d726b45c6c80
+#: ../../content/em-modeling.rst:15
+msgid ": Magnetic dipole moment equivalent of a loop."
+msgstr ""
+
+# 5725707694db40598fc718d98f7a620d
+#: ../../content/em-modeling.rst:20
+msgid ""
+":rewrite:`A comparison of magnetic and electric field components with "
+"those of the infinitesimal magnetic dipole indicates that they have "
+"similar forms. In fact, the electric and magnetic field components of an "
+"infinitesimal magnetic dipole of length l and constant “magnetic” "
+"spatial current` :math:`I_m` :rewrite:`are givenby`"
+msgstr ""
+
+# 5159753b66e2455180a18929d8819b59
+#: ../../content/em-modeling.rst:22
+msgid ""
+"\\begin{aligned} E_r &= 0 \\\\ E_\\theta &= 0 \\\\ E_\\phi &= -j "
+"\\frac{ k I_m l \\sin \\theta}{4 \\pi r} \\left[ 1 + \\frac{1}{jkr} "
+"\\right] e^{-jkr} \\end{aligned}"
+msgstr ""
+
+# 1fbfe48e62a849ccadb5897e67c048bd
+#: ../../content/em-modeling.rst:31
+msgid ""
+"\\begin{aligned} H_r &= \\frac{I_m l \\cos \\theta}{2 \\pi \\eta r^2} "
+"\\left[ 1 + \\frac{1}{jkr} \\right] e^{-jkr} \\\\ H_\\theta &= j "
+"\\frac{ k I_m l \\sin \\theta}{4 \\pi \\eta r} \\left[ 1 + \\frac{1}"
+"{jkr} - \\frac{1}{(kr)^2} \\right] e^{-jkr} \\\\ H_\\phi &= 0 "
+"\\end{aligned}"
+msgstr ""
+
+# c9163a264e9f43e38e98c95addd00277
+#: ../../content/em-modeling.rst:40
+msgid ""
+":rewrite:`These can be obtained, using duality, from the fields of an "
+"infinitesimal electric dipole. When` :eq:"
+"`electric_field_components_magnetic_dipole` :rewrite:`and` :eq:"
+"`magnetic_field_components_magnetic_dipole` :rewrite:`are compared with "
+"magnetic and electric field components, they indicate that a magnetic "
+"dipole of magnetic moment` :math:`I_m l` :rewrite:`is equivalent to a "
+"small electric loop of radius a and constant electric current` :math:"
+"`I_0` :rewrite:`provided that`"
+msgstr ""
+
+# 74ac0a8c97194403bfe4e7d571d54c21
+#: ../../content/em-modeling.rst:42
+msgid "I_m l = j S \\omega  \\mu I_0"
+msgstr ""
+
+# d9ed877383bc46efa00012715b241183
+#: ../../content/em-modeling.rst:47
+msgid ""
+":rewrite:`where` :math:`S = \\pi a^2` :rewrite:`(area of the loop). "
+"Thus, for analysis purposes, the small electric loop can be replaced by "
+"a small linear magnetic dipole of constant current. The magnetic dipole "
+"is directed along the z-axis which is also perpendicular to the plane of "
+"the loop.`"
+msgstr ""
+
+# f3e7511e6a814086a953f72421138d16
+#: ../../content/em-modeling.rst:49
+msgid ""
+"Loop analysis based on magnetic dipole moment is given in "
+"Electromagnetic Waves & Antennas - S. J.Orfanidis – 2008 book CH 15."
+msgstr ""
+
+# 78b61ce161eb46efb5255338945a7a3b
+#: ../../content/em-modeling.rst:52
+msgid "Time-Varying, Cored and N-Turn Loop Antenna"
+msgstr ""
+
+# 05648073d7714f0ebda528280f291602
+#: ../../content/em-modeling.rst:54
+msgid ""
+"Dunbar noted that in order to increase the effective area artificially "
+"through the use of a permeable core and a multi-turn coil. It is quite "
+"successful provided the flux density is kept well below the saturation "
+"level. Thus, the effective area becomes :math:`NS\\mu_{cer}` and "
+"magnetic dipole moment becomes [Dunbar, 1972]. This magnetic moment can "
+"be also used in a conductive medium."
+msgstr ""
+
+# dbbd6c0c70224ea183c8043cfc1e5dc3
+#: ../../content/em-modeling.rst:56
+msgid "M = j \\omega \\mu_0 \\mu_{cer} ISN"
+msgstr ""
+
+# d61ad215ce54497aab6c95eef724bc38
+#: ../../content/em-modeling.rst:61
+msgid ""
+"In order to quantify the magnetic moment for our rod antenna, we will "
+"compare its magnetic field to the magnetic field produced by an air core "
+"planar loop of current (i.e., :math:`IS`, where :math:`S` represents the "
+"loop area). Essentially, we will enforce the equivalence theorem to "
+"determine the necessary moment for an air core planar loop of current "
+"that will produce the same external magnetic field as our rod antenna. "
+"The magnetic moment will be determined by using the broadside magnetic "
+"field component [Jordan et.al., 2009]."
+msgstr ""
+
+# 2c7f4a0b70f940b780ad9d29add1588b
+#: ../../content/em-modeling.rst:68
+msgid ""
+": Maximum magnetic moment and gain versus the coil width/rod length "
+"percentage [Jordan et.al., 2009]."
+msgstr ""
+
+# aedad5c1fc474fdca85e310aaf22d8ba
+#: ../../content/em-modeling.rst:70
+msgid ""
+":rewrite:`The electromagnetic field of the ferrite-loaded transmitting "
+"loop is given by Eq 5-1 to 5-3 with the moment` :math:`m=\\mu_rod F_v "
+"I_o NA`. :rewrite:`The ferrite-loaded loop, however, is seldom used as a "
+"transmitting antenna because of the problems associated with the "
+"nonlinearity and the dissipation in the ferrite at high magnetic field "
+"strengths` [Antenna Engineering Handbook 3Ed - R.C.Johnson H.Jasik – "
+"1993, p5-9]."
+msgstr ""
+
+# 4c7823292aee4d20971adf23c3aaa7f7
+#: ../../content/em-modeling.rst:73
+msgid "Static, Cored and N-Turn Loop Antenna"
+msgstr ""
+
+# 66e9f347df6440c589c03c0f93787466
+#: ../../content/em-modeling.rst:75
+msgid ""
+"Devore and Bohley noted that magnetic dipole moment of a ferrite loaded "
+"loop has two component that magnetic dipole moment of ferrite core and "
+"winding [Devore Bohley, 1977]."
+msgstr ""
+
+# 48cb3e9129a2496e8a5addfbf4045275
+#: ../../content/em-modeling.rst:77
+msgid "M = M_F + M_w"
+msgstr ""
+
+# 61e9f084345e489eb5dd560cd6a7e2a9
+#: ../../content/em-modeling.rst:83
+msgid ""
+"\\begin{aligned} M_w &= NIS \\cong NIV/l \\\\ M_F &= (\\mu - 1) H_F V_F "
+"\\end{aligned}"
+msgstr ""
+
+# 4baabb2d576e45eeb9fbf04471a51b26
+#: ../../content/em-modeling.rst:91
+msgid "where"
+msgstr ""
+
+# 099ec647e7984ddfa6ac9c6c35156634
+#: ../../content/em-modeling.rst:93
+msgid ""
+"\\begin{array}{c} H_F = \\frac{H_0}{1+ D_F (\\mu - 1)} \\\\ H_0 \\approx "
+"H_w = \\frac{n}{l_w} (1-D_F) I \\\\ V_F = l_F \\pi {a_F}^2 \\end{array}"
+msgstr ""
+
+# ab6ce0f0049041cc97dc22214dacb3fe
+#: ../../content/em-modeling.rst:103
+msgid "Torquer"
+msgstr ""
+
+# 7080de675e934a2289e3af582079719f
+#: ../../content/em-modeling.rst:110
+msgid ": Torquer."
+msgstr ""
+
+# a5bf8dbffdde477b9f762d983647b175
+#: ../../content/em-modeling.rst:112
+msgid ""
+"The definition of variables for the magnetic torquer is as shown in :"
+"numref:`torquer`, where :math:`M` represents the dipole moment of the "
+"torquer, :math:`\\theta` is the angle with respect to the torquer axis, :"
+"math:`R` is the distance from the center of the coil, and :math:`l` is "
+"the effective coil length. Also, :math:`B` is the magnetic-flux "
+"density, :math:`B_r` and :math:`B_t` are the radial and tangential "
+"components of :math:`B`, respectively [Lee et. al., 2002]."
+msgstr ""
+
+# 2cdb3045ba884e0d998f244541a05d94
+#: ../../content/em-modeling.rst:114
+msgid "If :math:`\\theta = 90^\\circ`,"
+msgstr ""
+
+# ed422711ca9f4cfc9d31bd12b6e08fdf
+#: ../../content/em-modeling.rst:116
+msgid "M = \\frac{4 \\pi}{\\mu_0} ( R^2 + \\frac{L^2}{4} )^{3/2} B_t"
+msgstr ""
+
+# 793f7b1d6c6b46f9ad1600b882e3be92
+#: ../../content/em-modeling.rst:121
+msgid "If :math:`\\theta = 0^\\circ`,"
+msgstr ""
+
+# f65e28ca51de4d87b92d6292e9f0acd4
+#: ../../content/em-modeling.rst:123
+msgid ""
+"M = \\frac{4 \\pi}{\\mu_0} \\frac{1}{\\frac{\\frac{R}{L} - \\frac{1}{2}}"
+"{(R^2 - RL + \\frac{L^2}{4})^3/2} - \\frac{\\frac{R}{L} + \\frac{1}{2}}"
+"{(R^2 + RL + \\frac{L^2}{4})^3/2}} B_r"
+msgstr ""
+
+# 870e69cac55640bca344fe57da0d2143
+#: ../../content/em-modeling.rst:128
+msgid ""
+"Mehrjardi and Mirshams noted that an equation of magnetic dipole moment "
+"[Mehrjardi and Mirshams, 2010]"
+msgstr ""
+
+# 6c501933a0d14192bbcb40e9aabb71a3
+#: ../../content/em-modeling.rst:130
+msgid "M = \\mu_{cer} NSI"
+msgstr ""

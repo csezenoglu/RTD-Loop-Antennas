@@ -4,36 +4,38 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-10-04 11:05+0300\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
 
 # 9314090fc023487381c40a3291101ee1
 #: ../../content/introduction.rst:3
 msgid "Introduction"
-msgstr ""
+msgstr "Giriş"
 
 # ef53a1fc9eb74461ade603e6f0ac4195
 #: ../../content/introduction.rst:5
 msgid ""
-"Loop antennas can be seperated into two categories: small loops and large"
-" loops, as seen in :numref:`loop_antennas_en`."
+"Loop antennas can be seperated into two categories: small loops and "
+"large loops, as seen in :numref:`loop_antennas_en`."
 msgstr ""
 
 # 49f1bba393034111abb9f101f201175e
 #: ../../content/introduction.rst:12
 msgid ": Loop Antennas"
-msgstr ""
+msgstr ": Halka Antenler"
 
 # 6a9998a2582c4b35876dc9556b456bec
 #: ../../content/introduction.rst:14
@@ -65,16 +67,16 @@ msgid ""
 "regarded as locally constant. Consequently, they generate the same sort "
 "of field as a Hertzian dipole, i.e. a very short electrical antenna on "
 "which the current distribution is a function of position to an equally "
-"small extent :cite:`rohner:2006`. The field pattern of electrically small"
-" antennas of any shape is similar to that of an infinitesimal dipole "
-":cite:`balanis:2005`."
+"small extent :cite:`rohner:2006`. The field pattern of electrically "
+"small antennas of any shape is similar to that of an infinitesimal "
+"dipole :cite:`balanis:2005`."
 msgstr ""
 
 # c588ae31daf04690990bbf136ada59f9
 #: ../../content/introduction.rst:19
 msgid ""
-"Used as probes for field measurements, directional antennas for radiowave"
-" navigation :cite:`balanis:2005`."
+"Used as probes for field measurements, directional antennas for "
+"radiowave navigation :cite:`balanis:2005`."
 msgstr ""
 
 # 0f8febe6e3304171b75c4b90502bc230
@@ -107,4 +109,3 @@ msgid ""
 "extremely narrowband systems and therefore have to be retuned whenever "
 "the frequency is changed :cite:`rohner:2006`."
 msgstr ""
-

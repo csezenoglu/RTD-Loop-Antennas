@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-04 16:38+0300\n"
+"PO-Revision-Date: 2018-10-04 16:42+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+
+# 1ea00468eef9489fbeb1aded1de87a49
+#: ../../content/loaded-loops.rst:3
+msgid "Loaded Loops"
+msgstr "Nüveli Halka Antenler"
+
+# 34c0ae81204e4494b0d49cd3b8af4d0f
+#: ../../content/loaded-loops.rst:6
+msgid "Radiated Fields"
+msgstr "Yayılan Alanlar"
+
+# 6f46ede71dd548b2bd4a65d58d379a9a
+#: ../../content/loaded-loops.rst:8
+msgid ""
+"Islam noted that vector potential of a loop antenna that wrapped around "
+"the finite cylinder core is very difficult due to the complexity at the "
+"end of the cylinder [Islam, 1963]."
+msgstr ""
+
+# 9c8356c5c6934b7da657c74846f2a3b4
+#: ../../content/loaded-loops.rst:10
+msgid ""
+"Islam stated that the calculations for the finite cylinder core were "
+"difficult and the closest approach was the ellipsoid core loop antenna. "
+"The vector potential expression in this study is as follows [Islam, "
+"1963a]"
+msgstr ""
+
+# c61e9ec1604e446cb832e9da1451717e
+#: ../../content/loaded-loops.rst:13
+msgid "Magnetic Cores"
+msgstr "Manyetik Nüveler"
+
+# b03cded27b5e4393991d545c6e97d51e
+#: ../../content/loaded-loops.rst:15
+msgid ""
+"A magnetic core is a piece of magnetic material with a high magnetic "
+"permeability used to confine and guide magnetic fields in electrical "
+"devices. It is made of ferromagnetic metal such as iron, or "
+"ferrimagnetic compounds such as ferrites. The high permeability, "
+"relative to the surrounding air, causes the magnetic field lines to be "
+"concentrated in the core material [wiki]."
+msgstr ""
+
+# 7150d804c81b407484e5595b39b50761
+#: ../../content/loaded-loops.rst:17
+msgid ""
+"The use of a magnetic core can increase the strength of magnetic field "
+"in an electromagnetic coil by a factor of several hundred times what it "
+"would be without the core. However, magnetic cores have side effects "
+"which must be taken into account. In alternating current (AC) devices "
+"they cause energy losses, called core losses, due to hysteresis and eddy "
+"currents in applications such as transformers and inductors. \"Soft\" "
+"magnetic materials with low coercivity and hysteresis, such as silicon "
+"steel, or ferrite, are usually used in cores [wiki]."
+msgstr ""
+
+# 272e02baa57f4a24ad5485ae4378ad39
+#: ../../content/loaded-loops.rst:19
+msgid ""
+"For the purpose of expressing material properties and design relations "
+"it is convenient to consider only sinusoidal wave forms. Ferrite cores "
+"are often used at quite low amplitudes. At these low amplitudes the non-"
+"linearity between :math:`B` and :math:`H` is small so that, to a first "
+"order, the waveform distortion may usually be neglected. Under these "
+"conditions, if the field strength is sinusoidal then the flux density "
+"and the e.m.f. (proportional to :math:`dB/dt`) may be taken as "
+"sinusoidal. Thus simple a.c. theory may be used to describe the "
+"influence of a magnetic material on an electric circuit [snelling]."
+msgstr ""
+
+# ef6d9101d89c46bf994575ff1bf5247f
+#: ../../content/loaded-loops.rst:21
+msgid ""
+"The inductance of a circuit may be defined as the flux linkage per unit "
+"current, i.e. for an alternating current of peak amplitude :math:`I`,"
+msgstr ""
+
+# 57b13507f1bf4d018baa853a1a3d2656
+#: ../../content/loaded-loops.rst:23
+msgid "L = \\frac{N\\phi}{I}"
+msgstr ""
+
+# 96e2641bafe346a488559556e18524e9
+#: ../../content/loaded-loops.rst:28
+msgid ""
+"For a winding of :math:`N` turns on an ideal toroid of magnetic length :"
+"math:`l` and cross-sectional area :math:`A`"
+msgstr ""
+
+# 723a55be815e46d0bd0cfd451c26f608
+#: ../../content/loaded-loops.rst:30
+msgid ""
+"\\begin{align} L &= \\frac{NBA}{I} \\\\   &= \\frac{NA}{I} \\mu_0 \\mu "
+"\\frac{NI}{l} \\\\   &= \\frac{\\mu_0 \\mu N^2 A}{l} \\\\   &= L_0 \\mu "
+"\\end{align}"
+msgstr ""
+
+# b5063ed46575464295347cdf18aeac04
+#: ../../content/loaded-loops.rst:40
+msgid "L_0 = \\frac{\\mu_0 N^2 A}{l}"
+msgstr ""
+
+# 7c54d4dd07ec4f72a736d565c8e3976f
+#: ../../content/loaded-loops.rst:45
+msgid ""
+"For more information about Paragraph Level Markup: `Have a look here "
+"<https://rtd-sphinx-theme.readthedocs.io/en/latest/demo/demo.html>`_."
+msgstr ""
