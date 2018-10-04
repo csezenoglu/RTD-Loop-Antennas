@@ -1,6 +1,7 @@
 _build/
 __pycache__
 *.pyc
+*.mo
 
 # Finder (MacOS) makes these automatically.
 .DS_Store
