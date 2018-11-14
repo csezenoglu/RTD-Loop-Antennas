@@ -19,6 +19,7 @@ Table of Contents:
    content/circuit-modeling
    content/loaded-loops
    content/solenoid-loops
+   content/applications
    content/zreferences
 
 Appendix:
