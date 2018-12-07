@@ -65,6 +65,30 @@ These are used to define antenna gain, :math:`G`, and realized gain, :math:`G_{r
 Omnidirectivity
 ^^^^^^^^^^^^^^^
 
+.. rst-class:: written
+
+The two loop antennas are positioned perpendicular to each other to make the receiver omnidirectional. If a 90 degree electrical phase shift is added to the loop antennas, a circular antenna pattern is formed as shown in :numref:`omnidirectional-pattern` :cite:`toth:1950`.
+
+.. figure:: ../img/omnidirectional-pattern.png
+        :align: center
+        :scale: 100 %
+        :name: omnidirectional-pattern
+
+        : Field patterns of crossed loops.
+
+.. rst-class:: written
+
+Electrical circuit of an omnidirectional loop antenna system is given by :numref:`omnidirectional-loop-system` :cite:`toth:1950`.
+
+.. figure:: ../img/omnidirectional-loop-system.png
+        :align: center
+        :scale: 100 %
+        :name: omnidirectional-loop-system
+
+        : Electrical circuit of an omnidirectional loop antenna system.
+
+.. rst-class:: check
+
 In an application where omnidirectivity is required, two separate loop antennas located at right angles to each other can be used to give equal reception in all directions by introducing a 90 deg phase shift in one of the induced signals before they are combined [Laurent and Carvalho, 1962]. 
 
 

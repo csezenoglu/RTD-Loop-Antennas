@@ -85,3 +85,16 @@ where the load impedance is 50 :math:`\Omega`. The output voltage of the antenna
 
 	U_{out} = (1-\Gamma)U_2
 
+Transformer Coupling
+^^^^^^^^^^^^^^^^^^^^
+
+Fratianni investigated methods of coupling loops to receivers that transformer-coupled and direct connected as shown in :numref:`transformer-coupling`. Mathematical analysis and theoritical treatment of transformer-coupled was done. Coupling design for maximum voltage amplification and optimum signal-to-noise ratio was studied. In order to show the effects of parameters on circuit performance eight conditions were built. All direct coupled cases were better than transformer-coupled cases with regard to signal-to-noise ratio. Only two transformer-coupled sets better than direct coupled sets for voltage amplification basis. He also noted that if a long cable length was required, transformer-coupled circuits could be preferred :cite:`fratianni:1948`. 
+
+
+    .. figure:: ../img/transformer-coupling.png
+        :align: center
+        :scale: 100 %
+        :name: transformer-coupling
+
+        : Transformer-coupled and direct connected receiving loops.
+		

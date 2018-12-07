@@ -209,9 +209,11 @@ Harmon investigated electric and magnetic fields of an empty solenoid at frequen
 Magnetic Cores
 --------------
 
-A magnetic core is a piece of magnetic material with a high magnetic permeability used to confine and guide magnetic fields in electrical devices. It is made of ferromagnetic metal such as iron, or ferrimagnetic compounds such as ferrites. The high permeability, relative to the surrounding air, causes the magnetic field lines to be concentrated in the core material [wiki].
+A magnetic core is a piece of magnetic material with a high magnetic permeability, high electrical resistivity, low coercive field strength, and low core loss used to confine and guide magnetic fields in electrical devices. It is made of ferromagnetic metal such as iron or soft magnetic alloys, or ferrimagnetic compounds such as ferrites. The high permeability, relative to the surrounding air, causes the magnetic field lines to be concentrated in the core material[wiki, astm:2013].
 
 The use of a magnetic core can increase the strength of magnetic field in an electromagnetic coil by a factor of several hundred times what it would be without the core. However, magnetic cores have side effects which must be taken into account. In alternating current (AC) devices they cause energy losses, called core losses, due to hysteresis and eddy currents in applications such as transformers and inductors. "Soft" magnetic materials with low coercivity and hysteresis, such as silicon steel, or ferrite, are usually used in cores [wiki].
+
+There is a standard about nickel-iron soft magnetic materials that includes permeability and coercive field strength values for different shapes and four different alloy types :cite:`astm:2013`.
 
 For the purpose of expressing material properties and design relations it is convenient to consider only sinusoidal wave forms. Ferrite cores are often used at quite low amplitudes. At these low amplitudes the non-linearity between :math:`B` and :math:`H` is small so that, to a first order, the waveform distortion may usually be neglected. Under these conditions, if the field strength is sinusoidal then the flux density and the e.m.f. (proportional to :math:`dB/dt`) may be taken as sinusoidal. Thus simple a.c. theory may be used to describe the influence of a magnetic material on an electric circuit [snelling]. 
 
@@ -239,3 +241,6 @@ For a winding of :math:`N` turns on an ideal toroid of magnetic length :math:`l`
 	
 	L_0 = \frac{\mu_0 N^2 A}{l}
 	
+.. toctree::
+
+        demagnetization-factor

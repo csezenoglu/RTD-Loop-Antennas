@@ -11,9 +11,9 @@ Magnetic dipole moment is a vector that point out of the plane of the loop and t
         : Magnetic dipole moment equivalent of a loop.
 
 
-.. role:: rewrite
+.. rst-class:: rewrite
 
-:rewrite:`A comparison of magnetic and electric field components with those of the infinitesimal magnetic dipole indicates that they have similar forms. In fact, the electric and magnetic field components of an infinitesimal magnetic dipole of length l and constant “magnetic” spatial current` :math:`I_m` :rewrite:`are givenby`
+A comparison of magnetic and electric field components with those of the infinitesimal magnetic dipole indicates that they have similar forms. In fact, the electric and magnetic field components of an infinitesimal magnetic dipole of length l and constant “magnetic” spatial current :math:`I_m` are givenby
 
 .. math::
 	:label: electric_field_components_magnetic_dipole
@@ -33,14 +33,14 @@ Magnetic dipole moment is a vector that point out of the plane of the loop and t
 	H_\phi &= 0 
 	\end{aligned} 
 	
-:rewrite:`These can be obtained, using duality, from the fields of an infinitesimal electric dipole. When` :eq:`electric_field_components_magnetic_dipole` :rewrite:`and` :eq:`magnetic_field_components_magnetic_dipole` :rewrite:`are compared with magnetic and electric field components, they indicate that a magnetic dipole of magnetic moment` :math:`I_m l` :rewrite:`is equivalent to a small electric loop of radius a and constant electric current` :math:`I_0` :rewrite:`provided that`
+These can be obtained, using duality, from the fields of an infinitesimal electric dipole. When :eq:`electric_field_components_magnetic_dipole` and :eq:`magnetic_field_components_magnetic_dipole` are compared with magnetic and electric field components, they indicate that a magnetic dipole of magnetic moment :math:`I_m l` :is equivalent to a small electric loop of radius a and constant electric current :math:`I_0` provided that
 
 .. math::
 	:label: I_ml
 	
 	I_m l = j S \omega  \mu I_0
 	
-:rewrite:`where` :math:`S = \pi a^2` :rewrite:`(area of the loop). Thus, for analysis purposes, the small electric loop can be replaced by a small linear magnetic dipole of constant current. The magnetic dipole is directed along the z-axis which is also perpendicular to the plane of the loop.`
+where :math:`S = \pi a^2` (area of the loop). Thus, for analysis purposes, the small electric loop can be replaced by a small linear magnetic dipole of constant current. The magnetic dipole is directed along the z-axis which is also perpendicular to the plane of the loop.
 
 Loop analysis based on magnetic dipole moment is given in Electromagnetic Waves & Antennas - S. J.Orfanidis – 2008 book CH 15.
 		
@@ -63,7 +63,7 @@ In order to quantify the magnetic moment for our rod antenna, we will compare it
 
 	: Maximum magnetic moment and gain versus the coil width/rod length percentage [Jordan et.al., 2009].
 
-:rewrite:`The electromagnetic field of the ferrite-loaded transmitting loop is given by Eq 5-1 to 5-3 with the moment` :math:`m=\mu_rod F_v I_o NA`. :rewrite:`The ferrite-loaded loop, however, is seldom used as a transmitting antenna because of the problems associated with the nonlinearity and the dissipation in the ferrite at high magnetic field strengths` [Antenna Engineering Handbook 3Ed - R.C.Johnson H.Jasik – 1993, p5-9].
+The electromagnetic field of the ferrite-loaded transmitting loop is given by Eq 5-1 to 5-3 with the moment :math:`m=\mu_rod F_v I_o NA`. The ferrite-loaded loop, however, is seldom used as a transmitting antenna because of the problems associated with the nonlinearity and the dissipation in the ferrite at high magnetic field strengths [Antenna Engineering Handbook 3Ed - R.C.Johnson H.Jasik – 1993, p5-9].
 
 Static, Cored and N-Turn Loop Antenna
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

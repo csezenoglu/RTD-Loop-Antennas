@@ -1,4 +1,8 @@
+#build folder that includes html files
 _build/
+#visual studio code files
+.vscode/
+
 __pycache__
 *.pyc
 *.mo
