@@ -1,9 +1,9 @@
-============
+************
 Loaded Loops
-============
+************
 
 Introduction
-------------
+============
 
 Ferrite core electrically small loops are often used for receiving signals, such as in radios and pagers, where the signal to noise ratio is much important than efficiency. 
 
@@ -27,50 +27,24 @@ The loops are rarely used as transmitting antennas above low levels of power due
 
 As an exception, a tuned transmitting loop, can be equipped with a remotely controlled capacitor to make a resonant circuit, is used to transmit waves. However, such loops have to be retuned whenever the frequency is changed (even in the same operating band) because they are extremely narrowband. Nonetheless, they are sometimes the only practicable option for transmission when space is restricted [Serkan Aksoy, Mail, 01.06.2017].
 
-.. rubric:: The Core
-
-The great sensitivity of Induction coils is due to the high magnetic permeability of the material used to build the core. This material can be very expensive (try to search for mu-metal or permalloy on internet and you'll see!). But first of all we must consider the propriety of this coils in order to correctly dimension our project and get the best performances from our   expensive metal. 
-
-.. figure:: ../img/permeability-of-core.png
-        :align: center
-        :scale: 100 %
-        :name: permeability-of-core
-
-        : Permeability of core [http://www.vlf.it/matteobruna/ULF_Induction-Coil.htm].
-
-When we construct coils like these we must consider that they haven't an ideal behavior. The graph on the left shows that the apparent magnetic permeability of a cylindrical core can be different from the magnetic permeability of the metal of which is made. In fact the apparent permeability depends on the geometric dimensions of the core, in particular on the lenght-to-diameter ratio. So before buying the metal for the core we must ensure that we can made the core with the right lenght-to-diameter ratio to get from it all the permeability that can give.
-
-The metal I choose for my coil's core is magnetic steel used for the construction of electrical transformers. It has a permeability around 1000, so I built the core with a lenght-to-diameter ratio around 50.
-
-A variable magnetic field in a conductor material makes currents to flow. These are called Foucault's currents and will surely flow also in our core absorbing part of the signal we want to receive. There is no possibility to eliminate this phenomenon, but it can be limited. The only way is to "cut" this currents by using materials with a high internal resistance (composite alloys) or to build the core with many little pieces of metal (bars or laminations) insulated from each other. The magnetic steel I used is sell in insulated foils, so, to build my core, I simply put many of these together trying to obtain a cylindrical shape to completely fill the free space inside the coil. The procedure is also well shown by Hans Michlmair in his article .
-
-.. figure:: ../img/core-lamination-sheets.png
-        :align: center
-        :scale: 100 %
-        :name: core-lamination-sheets
-
-        : core-lamination-sheets [http://www.vlf.it/matteobruna/ULF_Induction-Coil.htm].
-
-To save money I got the magnetic steel from the discards of a transformers factory. Naturally it wasn't already in the right shape so I had to cut it in order to get foils narrow enough to fill the core's volume. At the end were composed four bars with a diameter of 4.5 cm and 70 cm long, that linked together forms a core of about 280 cm, so, with a lenght-to-diameter ratio of about 56 [http://www.vlf.it/matteobruna/ULF_Induction-Coil.htm].
-
 Dimensions
-^^^^^^^^^^
+----------
 
 Frequency
-^^^^^^^^^
+---------
 
 Above 20 MHz or so, ferrite losses increase to the extent that ferrite loops may not be as good as air loops; relatively loss-free ferrites at higher frequencies tend to have low permeability and hence the slight advantage obtained with ferrites at low frequencies tends to disappear [Stewart, 1958].
 At a moderate distance R from the dipole, provided R is large compared to dipole dimensions, and in the static case (that is, in the audio frequency region), k/R2 and k2/R are very small relative to l/R3 and hence can be ignored by comparison. This permits a static measurement of magnetic field intensity to be made in order to find dipole moment. Then radiation at some radio frequency can be determined providing that the dipole moment does not change from static to radio frequencies and providing the dipole is small enough to still be considered an elementary dipole at the radio frequency of interest [Stewart, 1958].
 
 Measurement
-^^^^^^^^^^^
+-----------
 
 Direct radio-frequency measurements usually require that the magnetic dipole antenna be electrostatically shielded; otherwise, incidental electric dipole radiation makes it almost impossible to separate radiation into electric and magnetic types. With static magnetic measurements of a radio-frequency antenna, on the other hand, antenna inductance is so small that no appreciable voltage is required to obtain antenna driving current and hence no significant electric dipole moment exists [Stewart, 1958].
 
 An unshielded magnetic dipole at radio frequencies will radiate to a certain extent as an electric dipole. As a result, radiated power will exceed that calculated for magnetic dipole radiation alone. Electric dipole radiation typically affects radiation intensity most where the magnetic dipole radiation is a minimum; in the case of the loop, the major effect is to fill in the nulls. Magnetostatic measurements cannot account for electric dipole radiation; hence, magnetostatically predicted radio-frequency radiation resistance may be somewhat less than actual radiation resistance if the magnetic-type antenna is unshielded [Stewart, 1958].
 
 Permeability (Influence of High-Frequency Magnetic Fields)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------
 
 The reaction of the magnetic induction B (and thus also of the magnetization) on an external alternating magnetic field H with a time dependence can be expressed as:
 
@@ -125,7 +99,7 @@ Figure 1 shows the rod permeability as a function of the length to diameter rati
         : Rod permeability [fair-rite-datasheet].
 
 Two Winding Solenoid
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 .. figure:: ../img/two-winding-solenoid.png
         :align: center
@@ -139,7 +113,7 @@ Loopstick antenna from an AM radio having two windings, one for long wave and on
 In the contra-wound configuration, introduced by the US Army Signal Corp many years ago and described in publications by Burhans and by Cornell, the coil wound on the ferrite rod is split into two equal parts wound withopposite sense. If the "outside" ends of these coils are grounded, a single-ended signal can be taken from the midpoint of the coil resulting in muchsimplified preamp design. Also, since the total coil inductance is halved (the half-coils would be in parallel), for a given required total inductance the number of turns can be increased providing increased sensitivity. (The total self-capacity of the windings is increased but ordinarily such would not be of principal concern.) [Serkan Aksoy, Mail, 29.07.2017] 
 
 Notes
-^^^^^
+-----
 
 Mark 48 torpedo
 
@@ -161,7 +135,7 @@ The (modern) German navy uses submarines whose hulls are made entirely out of so
         : distribution-of-flux-density-along-ferrite-snelling-1969 p188.
 
 History
--------
+=======
 
 Fratianni investigated the effect of iron cores on the receiving efficiency of VLF loop antennas, in air and underwater [Fratianni, 1950].
 
@@ -181,7 +155,7 @@ The goal of this research is to develop and validate a low-frequency modeling co
 
 
 Radiated Fields
----------------
+===============
 
 Islam noted that vector potential of a loop antenna that wrapped around the finite cylinder core is very difficult due to the complexity at the end of the cylinder [Islam, 1963].
 
@@ -206,41 +180,9 @@ Harmon investigated electric and magnetic fields of an empty solenoid at frequen
 .. figure:: ../img/ex3.png
         :align: center
 
-Magnetic Cores
---------------
 
-A magnetic core is a piece of magnetic material with a high magnetic permeability, high electrical resistivity, low coercive field strength, and low core loss used to confine and guide magnetic fields in electrical devices. It is made of ferromagnetic metal such as iron or soft magnetic alloys, or ferrimagnetic compounds such as ferrites. The high permeability, relative to the surrounding air, causes the magnetic field lines to be concentrated in the core material[wiki, astm:2013].
-
-The use of a magnetic core can increase the strength of magnetic field in an electromagnetic coil by a factor of several hundred times what it would be without the core. However, magnetic cores have side effects which must be taken into account. In alternating current (AC) devices they cause energy losses, called core losses, due to hysteresis and eddy currents in applications such as transformers and inductors. "Soft" magnetic materials with low coercivity and hysteresis, such as silicon steel, or ferrite, are usually used in cores [wiki].
-
-There is a standard about nickel-iron soft magnetic materials that includes permeability and coercive field strength values for different shapes and four different alloy types :cite:`astm:2013`.
-
-For the purpose of expressing material properties and design relations it is convenient to consider only sinusoidal wave forms. Ferrite cores are often used at quite low amplitudes. At these low amplitudes the non-linearity between :math:`B` and :math:`H` is small so that, to a first order, the waveform distortion may usually be neglected. Under these conditions, if the field strength is sinusoidal then the flux density and the e.m.f. (proportional to :math:`dB/dt`) may be taken as sinusoidal. Thus simple a.c. theory may be used to describe the influence of a magnetic material on an electric circuit [snelling]. 
-
-The inductance of a circuit may be defined as the flux linkage per unit current, i.e. for an alternating current of peak amplitude :math:`I`,
-
-.. math::
-	:label: L
-	
-	L = \frac{N\phi}{I}
-
-For a winding of :math:`N` turns on an ideal toroid of magnetic length :math:`l` and cross-sectional area :math:`A`
-	
-.. math::
-	:label: L_extraction
-	
-	\begin{align}
-	L &= \frac{NBA}{I} \\
-	  &= \frac{NA}{I} \mu_0 \mu \frac{NI}{l} \\
-	  &= \frac{\mu_0 \mu N^2 A}{l} \\
-	  &= L_0 \mu
-	\end{align}
-
-.. math::
-	:label: L_0
-	
-	L_0 = \frac{\mu_0 N^2 A}{l}
-	
 .. toctree::
-
-        demagnetization-factor
+   
+   magnetic-cores
+   demagnetization-factor
+        

@@ -1,5 +1,5 @@
 Demagnetization Factor
-----------------------
+======================
 
 Demagnetization factor has been found experimentally for different core geometries, as shown in :numref:`demagnetization-factor-balanis`. In general, demagnetization factor is a function of the geometry of the ferrite core :cite:`balanis:2005`.
 
@@ -15,7 +15,7 @@ The demagnetizing factor can be calculated precisely only for ellipsoids of revo
 The literature distinguishes between “magnetometric” and “fluxmetric” (or “ballistic”) demagnetizing factors :math:`D_m` and :math:`D_f`. If the sample is in a uniform applied field :math:`H_a` along its axis, the fluxmetric (or ballistic) demagnetizing factor :math:`D_f` is defined as the ratio of the average demagnetizing field to the average magnetization at the midplane perpendicular to the axis. The magnetometric demagnetizing factor :math:`D_m`, is defined as the ratio of the average demagnetizing field to the average magnetization of the entire sample [Chen at al., 1991].
 
 Demagnetization Factor from Charts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 Bozorth and Chapin investigated :math:`D_F` of rods. A chart is constructed for converting the :math:`\mu_{ce}` to :math:`\mu` of cylinders of any given ratio of :math:`l_r/d_r`. The demagnetizing factors for oblate and prolate ellipsoids of revolution, and for rods having finite permeabilities, are plotted in :numref:`demagnetization-factor-bozorth` [Bozorth and Chapin, 1942].
 
@@ -41,7 +41,7 @@ Moskowitz et. al. investigated magnetometric demagnetization factors for regular
         : Demagnetization factors of polygonal cylinders.
 
 Demagnetization Factor from Formulas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 
 :math:`D_F` is the demagnetizing factor of an ellipsoid with the dimensional ratio :math:`l_r/d_r` [Mager, 1968].
 
