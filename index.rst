@@ -8,7 +8,7 @@ Loop Antennas
 *************
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
 
    content/introduction
@@ -16,7 +16,7 @@ Loop Antennas
    content/small-loops
    content/em-modeling
    content/circuit-modeling
-   content/loaded-loops
+   loaded-loops/index
    content/solenoid-loops
    content/applications
    content/zreferences
@@ -35,10 +35,13 @@ Loop Antennas
 	
    content/dictionary
 
-In the case of loop antennas, the dipole consists of a usually circular or rectangular current loop which acts like a coil and functions in response to the magnetic component of the electromagnetic field :cite:`rohner:2006`.
+.. note:: 
 
-A small loop (circular or square) is equivalent to an infinitesimal magnetic dipole whose axis is perpendicular to the plane of the loop. That is, the fields radiated by an electrically small circular or square loop are of the same mathematical form as those radiated by an infinitesimal magnetic dipole :cite:`balanis:2005`. 
+    This book is a kind of Loop Antennas book by Prof. Serkan Aksoy. For further information, please visit the page of the book: |Loop_Antennas|.
 
+.. |Loop_Antennas| raw:: html
+
+   <a href="http://anibal.gyte.edu.tr/dosya/102/~saksoy/Loop%20Antennas/Loop%20Antennas.htm" target="_blank">Loop Antennas</a>
 
 .. Indices and tables
 .. ==================
@@ -46,4 +49,3 @@ A small loop (circular or square) is equivalent to an infinitesimal magnetic dip
 .. * :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`
-
