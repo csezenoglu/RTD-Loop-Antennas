@@ -10,6 +10,7 @@ Loaded Loops
    radiated-fields   
    magnetic-cores
    demagnetization-factor
+   induced-voltage
 
 
 

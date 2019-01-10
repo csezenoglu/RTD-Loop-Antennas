@@ -88,13 +88,22 @@ where the load impedance is 50 :math:`\Omega`. The output voltage of the antenna
 Transformer Coupling
 ^^^^^^^^^^^^^^^^^^^^
 
-Fratianni investigated methods of coupling loops to receivers that transformer-coupled and direct connected as shown in :numref:`transformer-coupling`. Mathematical analysis and theoritical treatment of transformer-coupled was done. Coupling design for maximum voltage amplification and optimum signal-to-noise ratio was studied. In order to show the effects of parameters on circuit performance eight conditions were built. All direct coupled cases were better than transformer-coupled cases with regard to signal-to-noise ratio. Only two transformer-coupled sets better than direct coupled sets for voltage amplification basis. He also noted that if a long cable length was required, transformer-coupled circuits could be preferred :cite:`fratianni:1948`. 
+Bachman investigated a low-impedance loop with coupling transformer and explained the transformer parameters in terms of the circuit and transformer coupling coefficients in 1945. The gain of the transformer coupled loop system was analysed. The low-impedance transformer-coupled loop and a high-impedance loop connected directly to the same tuning capacitor was compared. He concluded that an ideal transformer-coupled loop has 38.4% of the gain from a direct-connected loop of the same area, assuming the same Q in the transformer secondary as in the direct connected loop. In :numref:`transformer-coupling-low-impedance` the low-impedance loop coupling-transformer circuit was shown :cite:`bachman:1945loop`.
+
+.. figure:: ../img/transformer-coupling-low-impedance.png
+	:align: center
+	:scale: 100 %
+	:name: transformer-coupling-low-impedance
+
+	: Low-impedance loop coupling-transformer circuit.
+
+In 1948 Fratianni investigated methods of coupling loops to receivers that transformer-coupled and direct connected as shown in :numref:`transformer-coupling`. Mathematical analysis and theoritical treatment of transformer-coupled was done. Coupling design for *maximum voltage amplification* and *optimum signal-to-noise ratio* was studied. In order to show the effects of parameters on circuit performance eight conditions were built. All direct coupled cases were better than transformer-coupled cases with regard to signal-to-noise ratio. Only two transformer-coupled sets better than direct coupled sets for voltage amplification basis. He also noted that if a long cable length was required, transformer-coupled circuits could be preferred :cite:`fratianni:1948`. 
 
 
-    .. figure:: ../img/transformer-coupling.png
-        :align: center
-        :scale: 100 %
-        :name: transformer-coupling
+.. figure:: ../img/transformer-coupling.png
+	:align: center
+	:scale: 100 %
+	:name: transformer-coupling
 
-        : Transformer-coupled and direct connected receiving loops.
+	: Transformer-coupled and direct connected receiving loops.
 		
