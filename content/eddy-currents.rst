@@ -2,6 +2,8 @@
 Eddy Currents
 *************
 
+#According to electromagnetic induction principle, alternate current produces alternate magnetic field. The metal produces alternate eddy current when it is in alternate magnetic field. The eddy current then produces secondary magnetic field and react to original alternate magnetic field by changing its amplitude and phase [c].
+
 Multifield Eddy Current Effect
 ==============================
 

@@ -33,7 +33,7 @@ Loop Antennas
    :name: sec-appendix
    :maxdepth: 1
 	
-   content/dictionary
+   dictionary/index
 
 .. note:: 
 
