@@ -11,6 +11,7 @@ Loaded Loops
    magnetic-cores
    demagnetization-factor
    induced-voltage
+   applications
 
 
 

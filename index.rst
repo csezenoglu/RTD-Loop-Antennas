@@ -19,7 +19,6 @@ Loop Antennas
    loaded-loops/index
    content/solenoid-loops
    content/applications
-   content/zreferences
 
 .. toctree::
    :maxdepth: 1
@@ -29,10 +28,12 @@ Loop Antennas
    content/eddy-currents
 
 .. toctree::
-   :caption: Appendix
+   :caption: Appendices
    :name: sec-appendix
    :maxdepth: 1
-	
+   
+   appendices/nomenclature
+   appendices/zreferences
    dictionary/index
 
 .. note:: 
