@@ -12,6 +12,7 @@ Loaded Loops
    demagnetization-factor
    induced-voltage
    applications
+   core-loss
 
 
 

@@ -17,3 +17,4 @@ In the case of loop antennas, the dipole consists of a usually circular or recta
    impedance
    shielding
    receiving-signal
+   snr
