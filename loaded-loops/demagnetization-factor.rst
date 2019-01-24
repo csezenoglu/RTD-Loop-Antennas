@@ -50,3 +50,93 @@ Demagnetization Factor from Formulas
 
 	D_F=\frac{1}{\left(l_r/d_r\right)^2-1}\left[\frac{l_r/d_r}{\sqrt{\left(l_r/d_r\right)^2-1}\ln{\left(l_r/d_r+\sqrt{\left(l_r/d_r\right)^2-1}\right)}}-1\right]
 
+.. figure:: ../img/demagnetizing-factors-snelling-1969.png
+        :align: center
+        :scale: 100 %
+        :name: demagnetizing-factors-snelling-1969
+
+        : Demagnetizing factors for ellipsoids and cylinders as functions of m (= long axis/short axis for ellipsoids and length/diameter for cylinders) [Snelling, 1969, p184].
+
+A formula for can be constructed by fitting data given in the book [Snelling, 1969] as
+
+.. math::
+
+        D=\frac{0.28}{l_r/d_r}-0.0158-\frac{0.0915}{\mu_r}+\frac{0.00063l_r/d_r}{\log{\left(\mu_r\right)}}
+
+where :math:`l_r/d_r` is the length to diameter ratio of the core, not the winding. The validity ranges are :math:`1<l_r/d_r<100` and :math:`1<\mu_r<1000` [Rhea, 1994].
+
+Over a practical range of interest (:math:`2<lr/dr<20`) :math:`D` can be modeled as [Pettengill et.al., 1977, Burhans, 1979]
+
+.. math::
+
+        D=0.37\left(\frac{l_r}{d_r}\right)^{-1.44}
+
+Demagnetizing factors of the rectangular rod
+
+.. math::
+
+        D=\frac{1}{2(l_r/d_r)+1}
+
+and cylinder 
+
+.. math::
+
+        D=\frac{1}{2\left(\frac{2\left(l_r/d_r\right)}{\sqrt\pi}\right)+1}
+
+magnetized uniformly along the long axis are found to be expressed by the simple and approximate expressions [Sato and Ishii, 1989].
+
+.. figure:: ../img/demagnetizing-factor-sato-ishii-1989.png
+        :align: center
+        :scale: 100 %
+        :name: demagnetizing-factor-sato-ishii-1989
+
+        : demagnetizing-factor-sato-ishii-1989.
+
+lt is found in Tables I and II that the results obtained by the simple and approximate expressions given by two equations above (ref!) well agree with the results obtained by the exact of the demagnetizing factors [Sato and Ishii, 1989].
+
+Aharoni gave an analytic expression for the magnetometric demagnetizing factors of the general rectangular prism [Aharoni, 1998, Magpar, 2017].
+
+.. figure:: ../img/ex14.png
+        :align: center
+        :scale: 100 %
+        :name: ex14
+
+        : ex14.
+
+Demagnetization Factor from Formulas with Inductance
+----------------------------------------------------
+
+Moskowitz and Della Torre investigated a magnetometric demagnetization tensor for uniformly-magnetized samples of arbitrary geometry. The axial demagnetizing factor can be obtained from existing tables designed for calculating the inductance of solenoids. This is due to the analogous fields of the solenoid and the uniformly-magnetized cylinder. The analogy between the single-layer solenoid and the uniformly-magnetized cylinder
+
+.. math::
+
+        D_m=1-\left(\frac{L}{\mu_0n^2l_rA_r}\right)
+
+where L is the inductance, A_r is the cross-section of the cylinder.
+
+It is of interest to consider samples of uniform equilateral-polygonal cross-section. For such samples the aspect ratio l_r/d_r is the ratio of length to the diameter of the right circular cylinder of equal cross-sectional area. Thus, in general,
+
+.. math::
+
+        \frac{l_r}{d_r} = \frac{1}{2} \sqrt{ \frac{\pi}{A_r} }
+
+where l is the length of the particle and d is the diameter of the circular cylinder of equal cross-sectional area A_r.
+
+The demagnetization factor curves in Figure 4 are based on inductance values from [Grover, 1962, 1973], for coils of polygonal geometry. For any of the shapes given, there is less than 1% deviation between demagnetization factors of polygonal and circular cylinders for aspect ratios l_r/d_r above unity. For acicular particles (l_r/d_r~6.0) this deviation is less than 0.25% even for the most radical shape, the triangular cross-section [Moskowitz and Della Torre, 1966].
+
+.. figure:: ../img/demagnetization-magnetometric-moskowitz-1966.png
+        :align: center
+        :scale: 100 %
+        :name: demagnetization-magnetometric-moskowitz-1966
+
+        : demagnetization-magnetometric-moskowitz-1966.
+
+Values of D_F have been calculated for the right circular cylinder by direct integration and by the inductance analogy. Both results agree with tables published by Brown [Brown, 1962] and will not be repeated here. From Figure 4 note that the square cylinder has a demagnetization factor of 1/3 when it becomes a cube [Moskowitz and Della Torre, 1966].
+
+Chen et. al. evaluated fluxmetric (ballistic) and magnetometric demagnetizing factors D_f and D_m, for cylinders as functions of susceptibility \chi and the ratio m_A of length to diameter. D_f and D_m were computed exactly using inductance formulas [Chen et. al., 1991]. 
+
+Chen et al. evaluated, using exact general formulas, the fluxmetric D_f and magnetometric D_m demagnetizing factors of a rectangular prism of dimensions 2a\times2b\times2c with susceptibility \chi=0 and the demagnetizing factor, D, of an ellipsoid of semiaxes a,b, and c along the c axis [Chen et al., 2002].
+
+Chen et. al. calculated numerically fluxmetric and magnetometric demagnetizing factors, D_f and D_m, for cylinders along the axial direction as functions of material susceptibility \chi and the ratio l_r/d_r of length to diameter. The results have an accuracy better than 0.1% [Chen et. al., 2006].
+
+Note: Sintered magnet demagnetization curves and demagnetization force for magnets are given by Tokyoferrite Corporation [Tokyo Ferrite, 2017].
