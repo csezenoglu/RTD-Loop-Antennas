@@ -60,6 +60,20 @@ By using a magnetic core, the magnetic field strength inside the coil can be inc
 	
 	L_0 = \frac{\mu_0 N^2 A}{l}
 
+Modeling of B-H Curves
+----------------------
+
+Mirzaei and Ripka investigated modeling of very high permeability B–H curves with combination of rational function and power function. The unknowns of the analytical function could be calculated with the simple curve fitting function. Also, they noted that :cite:`mirzaei:2018analytical`:
+
+- Closed-form formulas gives maximum magnetic relative permeability and magnetic saturation without B–H data table.
+- Standard rational function has the disadvantage of probable zeros in denominator and discontinuities in the curve.
+- Exponential functions for B–H curve modeling are not as precise as rational functions.
+- Power functions can precisely model a fraction part of B–H curve but not the whole B–H curve.
+
+.. note::
+
+	Free B-H curve data can be found `here <https://magweb.us/free-bh-curves/>`_.
+
 Nickel-Iron Soft Magnetic Materials
 -----------------------------------
 
