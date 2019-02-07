@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# ade63a5c04b4423ea2896491ca56af18
+#: ../../content/applications.rst:3
+msgid "Applications"
+msgstr ""
+
+# 0e9ea4280e624f6382087be4266aea40
+#: ../../content/applications.rst:6
+msgid "Underwater Loop Reception"
+msgstr ""
+
+# 8b1a25f3c5f24454afca5258228c0d16
+#: ../../content/applications.rst:10
+msgid ""
+"In the first world war, some submarines were equipped with radio signal "
+"receivers called \"French\" coils. An American submarine underwater at "
+"Long Island Sound received long-wave signals from Nauen, Germany in 1919 "
+":cite:`toth:1950`."
+msgstr ""
+
+# fdc98009121e4878a2b7312e65c1c104
+#: ../../content/applications.rst:14
+msgid ""
+"Toth and Fratianni investigated underwater loop reception and concluded "
+"that these results: a) Long-distance underwater radio receivers should be"
+" used in the range of 15-30 kHz and about maximum of 6 m (20 ft). b) A "
+"convenient underwater receiver system should be omnidirectional and at a "
+"certain distance from the water surface :cite:`toth:1950`."
+msgstr ""
+
+# 98b09f7a7e644721b10e14ddc88818ac
+#: ../../content/applications.rst:18
+msgid ""
+"Induced voltage at the terminals of the antenna in the air is a function "
+"of the time of the frontwave that comes to the opposite edge of the coil "
+"that parallel to the electric vector. A similar induced voltage occurs at"
+" a loop antenna under water. However, since the wavelength of underwater "
+"wave propagation is much slower (1000 times slower than air) and the "
+"attenuation is too high, the phase differences of the induced voltages at"
+" the coil edges are high as shown in :numref:`induced-voltage-underwater`"
+" :cite:`toth:1950`."
+msgstr ""
+
+# 28c1fc69241a4a79a2e2a795c047fe8f
+#: ../../content/applications.rst:25
+msgid ": Induced voltages in air and underwater loops."
+msgstr ""
+
+# 2b5a2156edca47b3b3fc3d8960a30836
+#: ../../content/applications.rst:29
+msgid ""
+"The operation of the loop antenna under water significantly increases the"
+" efficiency of receiving. For example, in a 20 kHz system, the output "
+"voltage increased by 1650 times or 64 dB. However, there are losses in "
+"the field strenght of about 66 dB. The loss of the output voltage is only"
+" about 2 dB in the transmissions from above the water surface to just "
+"below the water surface. :numref:`attenuation-of-underwater` shows the "
+"amount of loss per foot under water :cite:`toth:1950`."
+msgstr ""
+
+# caf301db8d814f7f96988b691e3d3675
+#: ../../content/applications.rst:36
+msgid ": Computed attenuation of underwater radio field per foot of submergence."
+msgstr ""
+

@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 5a9362ae936540b896e8f07c7eb39b64
+#: ../../content/radiation-resistance.rst:2
+msgid "Radiation Resistance"
+msgstr ""
+
+# 6392ee5f8a554d99ac654a1a0c0be96b
+#: ../../content/radiation-resistance.rst:4
+msgid ""
+"As the energy lost on the ohmic resistance transforms into heat, the "
+"energy that is lost in the radiation resistance turns into "
+"electromagnetic radiation."
+msgstr ""
+
+# 6fed283abf8b46538d6ba153a012f1e5
+#: ../../content/radiation-resistance.rst:6
+msgid ""
+"A ferrite core in the loop that tends to increase the magnetic flux, the "
+"magnetic field, the open-circuit voltage, and in turn the antenna "
+"efficiency of the loop."
+msgstr ""
+
+# eacf362b8fbc467190955a69f9b0cab3
+#: ../../content/radiation-resistance.rst:8
+msgid "The radiation resistance of the ferrite loop is given by"
+msgstr ""
+
+# e7f46d04ff58498bb6d72d8d79014050
+#: ../../content/radiation-resistance.rst:10
+msgid ""
+"R_{rad}^{ferrite} =  R_{rad}^{air} "
+"\\biggl(\\frac{\\mu_{ce}}{\\mu_0}\\biggr)^2 = R_{rad}^{air} "
+"{\\mu_{cer}}^2"
+msgstr ""
+
+# edd814da1ca742a285e0d90412860f39
+#: ../../content/radiation-resistance.rst:15
+msgid ""
+"where :math:`R_{rad}^{ferrite}` is radiation resistance of ferrite loop, "
+":math:`R_{rad}^{air}` is radiation resistance of air core loop, "
+":math:`\\mu_{ce}` is effective permeability of ferrite core, "
+":math:`\\mu_0 = 4\\pi 10^-7 H/m` is permeability of free space, "
+":math:`\\mu_{cer}` is relative effective permeability of ferrite core."
+msgstr ""
+
+# 9e6ad34e36f94ab2b4e0bc4c8d4edc0d
+#: ../../content/radiation-resistance.rst:17
+msgid "Radiation resistance of N-turn, air cored loop is given by"
+msgstr ""
+
+# 199c4ccfaa71415f95ab84b99425a603
+#: ../../content/radiation-resistance.rst:19
+msgid ""
+"R_{rad}^{air} = 20 \\pi^2 N^2 \\biggl( \\frac{C}{\\lambda} \\biggr)^4 "
+"\\cong 31.171 \\biggl( \\frac{A^2}{\\lambda^4} \\biggr)"
+msgstr ""
+
+# 1018f04c18144b7e93dbf71e69b191b0
+#: ../../content/radiation-resistance.rst:24
+msgid ""
+"where :math:`C = 2 \\pi a` is circumference of the loop [m], :math:`A = "
+"\\pi a^2` is area of the loop [m] ,:math:`a` is radius of the loop [m], "
+":math:`\\lambda = c/f` is wavelength [m], :math:`c = 3 \\cdot 10^8 m/s` "
+"is speed of light, :math:`f` is frequency [Hz], and :math:`N` is number "
+"of turns of the loop."
+msgstr ""
+
+# 1659c60253a34e808fa3b318419c89a1
+#: ../../content/radiation-resistance.rst:26
+msgid ""
+"The relation is about 2 percent in error when the loop perimeter is λ/3. "
+"A circular loop of this perimeter has a diameter of about λ/10 [Kraus, "
+"1988]."
+msgstr ""
+
+# c0df9cdceee14079b16a2de25e20d005
+#: ../../content/radiation-resistance.rst:28
+msgid ""
+"Using radiation resistance of air core loop equation and for an N-turn "
+"loop [Balanis, 2005, Rumsey and Weeks, 1956]"
+msgstr ""
+
+# 0384c84ebc3741d2a6a41dd593f66390
+#: ../../content/radiation-resistance.rst:30
+msgid ""
+"R_{rad}^{ferrite} = 20 \\pi^2 N^2 \\mu_{cer}^2 \\biggl( "
+"\\frac{C}{\\lambda} \\biggr)^4"
+msgstr ""
+
+# 1b80dd702d1c4b1fb9e3fadbdf314640
+#: ../../content/radiation-resistance.rst:35
+msgid ""
+"In order to determine the radiation resistance of a ferrite core, it is "
+"necessary to find the relative effective magnetic permeability of the "
+"ferrite core ( :math:`\\mu_{cer}` ). Other variables are known "
+"geometrical and electrical properties."
+msgstr ""
+
+# 7a09d82336f742c3b2a795e7824ba4d2
+#: ../../content/radiation-resistance.rst:38
+msgid "Relative effective permeability"
+msgstr ""
+
+# b019748bebea4912acb23fd3db859508
+#: ../../content/radiation-resistance.rst:40
+msgid ""
+"A simple model of the relative effective permeability of the ferrite core"
+" :math:`\\mu_{cer}` is related to the relative permeability of the "
+"unbounded ferrite material :math:`\\mu_r = \\mu / \\mu_0` by "
+":cite:`balanis:2005`"
+msgstr ""
+
+# 767ebda414014bec98813f39a2d7fbbf
+#: ../../content/radiation-resistance.rst:42
+msgid "\\mu_{cer} = \\frac{\\mu_r}{1 + D_F (\\mu_r - 1)}"
+msgstr ""
+
+# e75d8d191dde4725a495ea374bbb0ba0
+#: ../../content/radiation-resistance.rst:47
+msgid "where :math:`D_F` is demagnetization factor of ferrite core."
+msgstr ""
+
+# ba9a03d325004cfdb82c9d85d10841ae
+#: ../../content/radiation-resistance.rst:49
+msgid ""
+"For most ferrite material, :math:`\\mu_r` is very large ( :math:`\\mu_r "
+"\\gg 1` ) so that :math:`\\mu_{cer}` is approximately inversely "
+"proportional to the demagnetization factor:"
+msgstr ""
+
+# 824df9d914a446559a9f7cd6787326da
+#: ../../content/radiation-resistance.rst:51
+msgid "\\mu_{cer} \\cong D_F^{-1}"
+msgstr ""
+
+# 38852cd7e1354e91b0c086044f7bc8ec
+#: ../../content/radiation-resistance.rst:56
+msgid ""
+"Devore and Bohley mentioned that a improved model of relative effective "
+"permeability in the equation of radiation resistance [Devore ve Bohley, "
+"1977]."
+msgstr ""
+
+# d513438d5aa4436d9aa53c3112723c89
+#: ../../content/radiation-resistance.rst:58
+msgid ""
+"\\mu_{cer} = 1 + \\frac{(\\mu_r - 1) (1 - D_w) \\frac{l_F}{l_w} ( "
+"\\frac{a_F}{a_w} )^2}{1 + D_F ( \\mu_r - 1)}"
+msgstr ""
+
+# 62baf3725b3c43168099fb808f5bceee
+#: ../../content/radiation-resistance.rst:63
+msgid ""
+"where :math:`D_w` is demagnetization factor of winding, :math:`l_F` is "
+"length of ferrite core, :math:`l_w` is length of winding, :math:`a_F` is "
+"cross section area of ferrite core, and :math:`a_w` is cross section area"
+" of winding."
+msgstr ""
+

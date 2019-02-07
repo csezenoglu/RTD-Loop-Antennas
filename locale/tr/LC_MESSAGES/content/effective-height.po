@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# ef08a41944f7424cad0694dfdeffb2e2
+#: ../../content/effective-height.rst:2
+msgid "Effective Height (Length)"
+msgstr ""
+
+# e2b6b9fc0e354ed494b81bd2be77c6c3
+#: ../../content/effective-height.rst:4
+msgid ""
+"Effective height (or length) of an air core loop in meters is [Rohner, "
+"2006]"
+msgstr ""
+
+# a69bbe00e0294e9f84d476ea71540c66
+#: ../../content/effective-height.rst:6
+msgid ""
+"h_{eff} = \\frac{ 2\\pi A N }{ \\lambda } = \\frac{ \\pi^2 D^2 N }{ "
+"2\\lambda }"
+msgstr ""
+
+# 976e809423294f00a3ca5ac95fdc7803
+#: ../../content/effective-height.rst:11
+msgid ""
+"For transmitter antenna, it is a length that a dipole homogeneously "
+"carrying the feed point current I_0 would have to have in order to "
+"generate the same field strength in the main direction of radiation as"
+msgstr ""
+
+# 972b543d8b804aac8ec5b0ab17b7c9f5
+#: ../../content/effective-height.rst:14
+msgid "h_{eff} = \\int_0^L \\frac{ I(Z) }{ I_0 } dz"
+msgstr ""
+
+# 6e57107381534812aa541c0597d1c1da
+#: ../../content/effective-height.rst:19
+msgid ""
+"where :math:`I(z)` is the current distribution, :math:`I_0` is the feed "
+"point current (maximum). In the case of a half-wave dipole antenna "
+"(:math:`I(z)=I_0 \\cos⁡ {2\\pi L/ \\lambda}), "
+"h_{eff}=\\lambda/\\pi=2L/\\pi=0.64L`). This is shown "
+":numref:`effective_height`."
+msgstr ""
+
+# fac53b0a97ee4fd382bb8512afdaf805
+#: ../../content/effective-height.rst:26
+msgid ": Explanation of the effective length concept."
+msgstr ""
+
+# f67a097ad0f84dc081a3e261c3ab0e05
+#: ../../content/effective-height.rst:28
+msgid ""
+"For receiver antenna, the effective height of the dipole antenna is "
+"[Laurent and Carvalho, 1962]"
+msgstr ""
+
+# ada21b7165d04b95b654c23f9fce5902
+#: ../../content/effective-height.rst:30
+msgid ""
+"h_{eff} = \\frac{v_{ind}}{E} h_{eff} = \\frac{\\omega_0 N A_r}{C} \\left["
+" \\mu_{cer} + \\biggl( \\frac{d_c^2}{d_r^2} - 1 \\biggr) \\right]"
+msgstr ""
+
+# f4bfd25accc84dfcb893deb5a1afecae
+#: ../../content/effective-height.rst:36
+msgid ""
+"where :math:`\\omega_0` is resonance frequency, :math:`N` is number of "
+"turns, :math:`A_r` is area of the rod, :math:`\\mu_{cer}` is effective "
+"relative permeability of the rod, :math:`d_c` and :math:`d_r` are "
+"diameters of the coil and rod respectively[Laurent and Carvalho, 1962]."
+msgstr ""
+
+# 58661f0acc7a4cd8b3e50575f9a43885
+#: ../../content/effective-height.rst:38
+msgid "Therefore, for an N turn ferrite rod antenna, [Snelling, 1969]"
+msgstr ""
+
+# 0985b63d81be42fbb25d3b90042fc515
+#: ../../content/effective-height.rst:40
+msgid ""
+"h_{eff} = \\mu_{cer} \\frac{\\omega AN}{c_0} = \\mu_{cer} \\frac{2\\pi "
+"AN}{\\lambda_0}"
+msgstr ""
+
+# 1003862363764a6981ad2925afa75b29
+#: ../../content/effective-height.rst:46
+msgid ""
+"Another effective height formula for ferrite loaded solenoid [Burhans, "
+"1979]:"
+msgstr ""
+
+# 5e0fc362d1214bccb01c66c638f31cf0
+#: ../../content/effective-height.rst:48
+msgid "h_{eff} =  \\frac{2\\pi AN \\mu_{cer} F_a}{\\lambda}"
+msgstr ""
+
+# 37eeee6be09f47c0811c3368cfb19b09
+#: ../../content/effective-height.rst:53
+msgid ""
+"where :math:`F_a` is averaging factor of coil and rod (typically 0.5 to "
+"0.7)."
+msgstr ""
+

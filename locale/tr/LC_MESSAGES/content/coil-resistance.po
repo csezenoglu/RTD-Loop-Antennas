@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 4d58fb80b6eb42319686be2bd8a3e875
+#: ../../content/coil-resistance.rst:2
+msgid "Coil Resistance"
+msgstr ""
+
+# 92970cd09efd4945be42a5228b669281
+#: ../../content/coil-resistance.rst:4
+msgid ""
+"The resistances in the antenna are divided into ohmic losses and the "
+"radiation resistance. Ohmic losses in the antenna are caused by losses in"
+" the wire itself and losses in the ferrite core. Increased losses lead to"
+" the antenna being less sensitive at the resonant frequency. The half-"
+"power bandwidth also becomes wider [Koskimaa, 2016]."
+msgstr ""
+
+# 80e05afd73704a8a8c8a6c197a53238b
+#: ../../content/coil-resistance.rst:6
+msgid "Witzig investigated high-frequency resistance of coils [Witzig, 1947]."
+msgstr ""
+
+# 3152a8399ba248fdaa1c32f48221de1a
+#: ../../content/coil-resistance.rst:8
+msgid "R_c = K_\\tau R_0 (0.38 d \\sqrt{f} + 0.25)"
+msgstr ""
+
+# 7fc5a9fc0d9749f9a89aaa62e0727b4a
+#: ../../content/coil-resistance.rst:13
+msgid ""
+"K_τ is an empirical constant. When a coil is used at a frequency near its"
+" resonant frequency, its resistance is modified by its self-capacitance. "
+"This self-capacitance increases the circulating current flowing in the "
+"coil and hence gives rise to a greater coil loss. Apparent coil "
+"resistance can be shown as [Witzig, 1947]"
+msgstr ""
+
+# d87ba257d4b549fe9cb0e895f4b5fbe2
+#: ../../content/coil-resistance.rst:15
+msgid ""
+"\\begin{array}{c} R_c^{resonance} = \\frac{R_c}{(1-\\omega^2 L "
+"C_0)^2}\\\\ C_0 = 4.55 \\cdot 10^{-14} \\frac{l_r}{\\ln{0.72l_r/d_r}} "
+"\\end{array}"
+msgstr ""
+
+# 0e11e55f64594d9cb49fd43a4be41f8c
+#: ../../content/coil-resistance.rst:24
+msgid "Wire Resistance with Skin and Proximity Effect"
+msgstr ""
+
+# 365b97d019ab4e7d907778c8719a2306
+#: ../../content/coil-resistance.rst:25
+msgid ""
+"The **skin effect** is caused by eddy currents in the conductor. A "
+"current flowing in a conductor creates a magnetic field around it. "
+"Magnetic field induces circular eddy currents that oppose the change in "
+"the magnetic field. This leads to the eddy currents being in the opposite"
+" direction of the original current flow in the center of the conductor. "
+"Near the surface or skin of the conductor the eddy currents flow in the "
+"original current direction. Most of the current now flows near the "
+"conductor surface thus the effective conducting area is reduced."
+msgstr ""
+
+# 8d06699e51fd4c0e885da1207752e9df
+#: ../../content/coil-resistance.rst:27
+msgid "The surface resistance of a conductor is"
+msgstr ""
+
+# 17d9bed24e7649bb836e4eb8985e4f5f
+#: ../../content/coil-resistance.rst:29
+msgid "R_s = \\sqrt{\\frac{\\omega\\mu}{2\\sigma}}"
+msgstr ""
+
+# a5f097ce7015405397b084f58fc69cc2
+#: ../../content/coil-resistance.rst:34
+msgid "For a wire with length lw and radius rw the wire resistance is"
+msgstr ""
+
+# 3ef455748b0440aaa39284e517c30c41
+#: ../../content/coil-resistance.rst:36
+msgid "R_w = \\frac{l_w}{2\\pi r_w} \\sqrt{\\frac{\\omega\\mu}{2\\sigma}}"
+msgstr ""
+
+# 7347148e9b0a4277ba0f16a459398036
+#: ../../content/coil-resistance.rst:41
+msgid "For a coil with radius rc this becomes"
+msgstr ""
+
+# 34286fc9fd8d431e8931128d9824e266
+#: ../../content/coil-resistance.rst:43
+msgid "R_w = N \\frac{r_c}{r_w} \\sqrt{\\frac{\\omega\\mu}{2\\sigma}}"
+msgstr ""
+
+# ffe0487b8c49440a91f377e18a4640de
+#: ../../content/coil-resistance.rst:48
+msgid ""
+"The **proximity effect** loss is similarly to the skin effect caused by "
+"eddy currents. The magnetic field created by a conductor induces eddy "
+"currents in nearby conductors."
+msgstr ""
+
+# e9924099316f48eda5ea6b5c87483bcf
+#: ../../content/coil-resistance.rst:50
+msgid ""
+"R_w = N \\frac{r_c}{r_w} \\sqrt{\\frac{\\omega\\mu}{2\\sigma}} \\biggl( "
+"\\frac{R_p}{R_0}+1 \\biggr)"
+msgstr ""
+
+# 0d5e771ff75b4cfa8aec7d4fd16c5711
+#: ../../content/coil-resistance.rst:55
+msgid ""
+"where the ratio R_p/R_0 is a factor of how much the total wire resistance"
+" is increased due to the proximity effect [Smith, 1971]. By knowing the "
+"easily calculated skin effect resistance, the proximity effect can be "
+"determined with other means such as simulations and measurements "
+"[Koskimaa, 2016]."
+msgstr ""
+
+# 24b3d57d4d854153a16ab9cdd5af1ec8
+#: ../../content/coil-resistance.rst:58
+msgid "Skin Effect"
+msgstr ""
+
+# 3bea14315d5e48c1b530653d88388068
+#: ../../content/coil-resistance.rst:59
+msgid ""
+"Fig. 1 is a chart giving the surface resistivity R, and the depth of "
+"penetration d for various metals, over a wide range of frequency f "
+"[Wheeler, 1942]."
+msgstr ""
+
+# 76ee9ea8d97b4b638865860ae2685979
+#: ../../content/coil-resistance.rst:66
+msgid ""
+": Surface resistivity and the depth of penetration over a wide range of "
+"frequency."
+msgstr ""
+

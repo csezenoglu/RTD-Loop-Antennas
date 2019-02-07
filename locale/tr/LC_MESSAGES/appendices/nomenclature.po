@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# bf389d399fb34ea9a7be3fe8f0bd4b5b
+#: ../../appendices/nomenclature.rst:3
+msgid "Nomenclature"
+msgstr ""
+
+# a7cec97e28bd4a0ab8a07127b75c4103
+#: ../../appendices/nomenclature.rst:5
+msgid ":math:`L_i`: Self-inductance of the :math:`i` th coil [H]"
+msgstr ""
+
+# 0867171b6b1d4fe299397c62d044a8f2
+#: ../../appendices/nomenclature.rst:6
+msgid ""
+":math:`M_{ij}`:  mutual inductance between the :math:`i`th and the "
+":math:`j` th coils"
+msgstr ""
+
+# 564847dfe4c54a0693b4040b032927f7
+#: ../../appendices/nomenclature.rst:7
+msgid ""
+":math:`R_i`: Internal resistance of the :math:`i` th coil "
+"[:math:`\\Omega`]"
+msgstr ""
+
+# b4bad1bc50164665b372662724716306
+#: ../../appendices/nomenclature.rst:8
+msgid ""
+":math:`\\kappa_{ij}`: Coupling coefficient between the :math:`i`th and "
+"the :math:`j` th coils"
+msgstr ""
+
+# f5f3f2c077414e1ebc46d4550a2d50b1
+#: ../../appendices/nomenclature.rst:12
+msgid "Derivations from other quantities"
+msgstr ""
+
+# a7687fc298f241cf9098d1f023a161f2
+#: ../../appendices/nomenclature.rst:14
+msgid "H = kg.m\\ :sup:`2`.s\\ :sup:`-2`.A\\ :sup:`-2`"
+msgstr ""
+
+# 2c75376818cf4b49a60c79e4dec3481a
+#: ../../appendices/nomenclature.rst:15
+msgid "Wb = V.s = kg.m\\ :sup:`2`.s\\ :sup:`-2`.A"
+msgstr ""
+
+# 2c62ff1a88274551811b6b009e0f924b
+#: ../../appendices/nomenclature.rst:19
+msgid "Abbreviations"
+msgstr ""
+

@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 5caad8d7b7f2441588a53ff0daa37a82
+#: ../../loaded-loops/induced-voltage.rst:2
+msgid "Induced Voltage and Power"
+msgstr ""
+
+# 2fa460d5999f45a9bfeb7cbd2119ee49
+#: ../../loaded-loops/induced-voltage.rst:4
+msgid ""
+"A small air core loop of :math:`N` turns with a cross sectional area "
+":math:`A` is placed in a uniform alternating magnetic field with the axis"
+" of the loop parallel to the field strength vector :math:`H`, then the "
+"induced emf will be:"
+msgstr ""
+
+# 9cb297b89216471ba7aa5ba2ca20e967
+#: ../../loaded-loops/induced-voltage.rst:6
+msgid "e_{ind\\_air}=\\mu_0\\omega HAN"
+msgstr ""
+
+# e9cff2ea56b646c9ac5c97d7c5279061
+#: ../../loaded-loops/induced-voltage.rst:10
+msgid ""
+"If the aperture of the winding is filled with a long ferrite cylinder "
+"parallel to the loop, then the flux density of the loaded-loop will be "
+"increased by the factor of permeability of core :math:`\\mu_r`. "
+"Therefore, induced voltage is given by"
+msgstr ""
+
+# 59589f3f6bc14f9286569a2e52a41909
+#: ../../loaded-loops/induced-voltage.rst:12
+msgid "e_{ind\\_fer}=\\mu_0\\mu_r\\omega HAN"
+msgstr ""
+
+# 09dd70932a6e45ca8042e12d4d2ce97e
+#: ../../loaded-loops/induced-voltage.rst:16
+msgid ""
+"The strength of an electromagnetic field is usually expressed in terms of"
+" the electric field strength :math:`E`. Using the fundamental relation:"
+msgstr ""
+
+# f44126a69c3240b285e4e50448666500
+#: ../../loaded-loops/induced-voltage.rst:18
+msgid "H=\\sqrt{\\frac{\\epsilon_0}{\\mu_0}}E \\\\ \\mu_0H=\\frac{E}{c}"
+msgstr ""
+
+# d3dee7820edb4a908688957385b7d73f
+#: ../../loaded-loops/induced-voltage.rst:23
+msgid ""
+"where :math:`H` is in A/m, :math:`E` is in V/m, and :math:`c` velocity of"
+" electromagnetic waves in free space approximately :math:`3\\times{10}^8`"
+" m/s. Then, induced voltage can be written in terms of electric field "
+"strength :cite:`snelling:1969soft`:"
+msgstr ""
+
+# 1119fa00bb31436393595174f40acc08
+#: ../../loaded-loops/induced-voltage.rst:25
+msgid "e_{ind\\_fer}=\\mu_r\\omega EAN/c"
+msgstr ""
+
+# 6aacd39159854f7fb1db2e5373131322
+#: ../../loaded-loops/induced-voltage.rst:29
+msgid ""
+"#Dunbar gave the formulation of induced voltage in the ferrite loaded "
+"receiving loop in free space"
+msgstr ""
+
+# 77df1347d2b746ea947b5c4fbb99a68a
+#: ../../loaded-loops/induced-voltage.rst:31
+msgid ""
+"e_{max}=\\frac{-j\\omega\\mu_0I_0\\left(N_1\\mu_{r1}S_1\\right)\\left(N_2\\mu_{r2}S_2\\right)e^{j\\left(\\omega"
+" t-\\beta "
+"r\\right)}}{4\\pi}\\left\\{-\\frac{\\beta_0^2}{r}+j\\frac{\\beta_0}{r^2}+\\frac{1}{r^3}\\right\\}"
+msgstr ""
+
+# 66ed9ed2d6b64841aacee5eff7e0e044
+#: ../../loaded-loops/induced-voltage.rst:35
+msgid ""
+"#In addition, an expression may be obtained for the induced voltage in a "
+"similar ferrite-cored receiving loop at a distance :math:`r` from the "
+"transmitting loop, the loops being in the same plane to maximize the "
+":math:`H_\\theta` component."
+msgstr ""
+
+# 923d39fc461c428a93e3ecb83d3197ca
+#: ../../loaded-loops/induced-voltage.rst:37
+msgid ""
+"e_{max}=\\frac{\\omega^2\\mu_0^2\\mu_{r1}\\mu_{r2}N_1N_2S_1S_2Ie^{-j\\left(\\omega\\gamma"
+" r\\right)}}{4\\pi}\\left\\{\\frac{j\\omega\\epsilon}{r}+\\frac{1}{\\eta "
+"r^2}+\\frac{1}{{j\\omega\\mu r}^3}\\right\\}"
+msgstr ""
+
+# afc7c790674c4d6d832f46d6c26d6a76
+#: ../../loaded-loops/induced-voltage.rst:41
+msgid "[Dunbar, 1972]"
+msgstr ""
+
+# 27951175c5044e78a21cbf1fc7a0c109
+#: ../../loaded-loops/induced-voltage.rst:43
+msgid ""
+"#Laurent and Carvalho gave an induced voltage formula of the ferrite "
+"loaded loop antennas [Laurent and Carvalho, 1962]."
+msgstr ""
+
+# 2cc1189ad3774c53b5127bad4f988ca4
+#: ../../loaded-loops/induced-voltage.rst:45
+msgid ""
+"e_{ind}=\\omega "
+"N\\frac{E}{c}A_r\\left[\\mu_r+\\left(\\frac{d_c^2}{d_r^2}-1\\right)\\right]"
+msgstr ""
+
+# e81be654591f47d6ac6b81c2a9e40c30
+#: ../../loaded-loops/induced-voltage.rst:49
+msgid "where"
+msgstr ""
+
+# f82900b214c84d1fadadc3d25c8a0faf
+#: ../../loaded-loops/induced-voltage.rst:51
+msgid ":math:`E` :   electric field intensity vector"
+msgstr ""
+
+# 44736707ca5c4d5db626e49f1ec794ee
+#: ../../loaded-loops/induced-voltage.rst:52
+msgid ":math:`c` :   speed of light"
+msgstr ""
+
+# 47ed309bec4a42eea4824a00e499c47c
+#: ../../loaded-loops/induced-voltage.rst:53
+msgid ":math:`A` :   cross section area of coil and rod"
+msgstr ""
+
+# 038df0687e7142fca241e50c6a68374c
+#: ../../loaded-loops/induced-voltage.rst:54
+msgid ":math:`d` :   diameter of coil and rod"
+msgstr ""
+
+# 7f676c58f3b24a518b2f8ef39c06963d
+#: ../../loaded-loops/induced-voltage.rst:55
+msgid ":math:`\\mu_r` :       effective relative permeability of the rod"
+msgstr ""
+
+# f8671a45ca8d47d9892bfa9215ba7f32
+#: ../../loaded-loops/induced-voltage.rst:57
+msgid ""
+"#An expression for the available power from the antenna is obtained "
+"[Pettengill, 1977]:"
+msgstr ""
+
+# 15c5bb5611364db88690359453bbc347
+#: ../../loaded-loops/induced-voltage.rst:59
+msgid ""
+"P_A=\\frac{1}{4\\mu_0c_0^2}\\frac{0,69Q\\mu_rV\\omega "
+"E^2}{1+D\\left(\\mu_r-1\\right)}"
+msgstr ""
+

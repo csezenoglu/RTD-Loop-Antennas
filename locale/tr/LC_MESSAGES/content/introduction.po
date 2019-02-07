@@ -2,104 +2,121 @@
 # Copyright (C) 2018, Ceyhun Sezenoglu
 # This file is distributed under the same license as the Loop Antennas
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: 2018-10-04 11:05+0300\n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.1.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: tr\n"
 
-# 9314090fc023487381c40a3291101ee1
+# 8d684c4d92de4bf6aa4bda189bf1bfde
 #: ../../content/introduction.rst:3
 msgid "Introduction"
-msgstr "Giriş"
-
-# ef53a1fc9eb74461ade603e6f0ac4195
-#: ../../content/introduction.rst:5
-msgid ""
-"Loop antennas can be seperated into two categories: small loops and "
-"large loops, as seen in :numref:`loop_antennas_en`."
 msgstr ""
 
-# 49f1bba393034111abb9f101f201175e
-#: ../../content/introduction.rst:12
-msgid ": Loop Antennas"
-msgstr ": Halka Antenler"
+# 0378fc4df65046a29f8a4839edfa2b30
+#: ../../content/introduction.rst:7
+msgid ""
+"In the case of loop antennas, the dipole consists of a usually circular "
+"or rectangular current loop which acts like a coil and functions in "
+"response to the magnetic component of the electromagnetic field "
+":cite:`rohner:2006`."
+msgstr ""
 
-# 6a9998a2582c4b35876dc9556b456bec
-#: ../../content/introduction.rst:14
+# c54d05d289c44c84a22296c47769caa2
+#: ../../content/introduction.rst:11
+msgid ""
+"A small loop (circular or square) is equivalent to an infinitesimal "
+"magnetic dipole whose axis is perpendicular to the plane of the loop. "
+"That is, the fields radiated by an electrically small circular or square "
+"loop are of the same mathematical form as those radiated by an "
+"infinitesimal magnetic dipole :cite:`balanis:2005`."
+msgstr ""
+
+# abb0767224cb41cead1595a24ba133e5
+#: ../../content/introduction.rst:15
+msgid ""
+"Loop antennas can be seperated into two categories: small loops and large"
+" loops, as seen in :numref:`loop_antennas_en`."
+msgstr ""
+
+# b258b1ccc36b41e8a7d091c288fb09fb
+#: ../../content/introduction.rst:22
+msgid ": Loop Antennas"
+msgstr ""
+
+# ac4741360408428f94b9900581b03db9
+#: ../../content/introduction.rst:26
 msgid ""
 "**Electrically small loops:** overall length (circumference) less than "
 "about one-tenth of a wavelength."
 msgstr ""
 
-# b3dc2d099a654c7eb266156fe05273c7
-#: ../../content/introduction.rst:16
+# 5949cc2067164ea4acc19afed6733fa6
+#: ../../content/introduction.rst:28
 msgid ""
 "Small radiation resistance that are usually smaller than their loss "
 "resistances. They are very poor radiators and usually in the receiving "
 "mode :cite:`balanis:2005`."
 msgstr ""
 
-# e671f50f1e6546d694a3406b06750771
-#: ../../content/introduction.rst:17
+# 302b8edea02e4608b5e0ab9489b5022f
+#: ../../content/introduction.rst:29
 msgid ""
 "The radiation resistance of the loop can be increased by increasing "
 "(electrically) its perimeter and/or the number of turns. Another way is "
 "to insert a ferrite core :cite:`balanis:2005`."
 msgstr ""
 
-# 78f42ac4b3bf4541aa7b38394904d99e
-#: ../../content/introduction.rst:18
+# 1817837990524c0f8d1ec8cb5c04b78a
+#: ../../content/introduction.rst:30
 msgid ""
 "In view of their small dimensions the current in the entire loop can be "
 "regarded as locally constant. Consequently, they generate the same sort "
 "of field as a Hertzian dipole, i.e. a very short electrical antenna on "
 "which the current distribution is a function of position to an equally "
-"small extent :cite:`rohner:2006`. The field pattern of electrically "
-"small antennas of any shape is similar to that of an infinitesimal "
-"dipole :cite:`balanis:2005`."
+"small extent :cite:`rohner:2006`. The field pattern of electrically small"
+" antennas of any shape is similar to that of an infinitesimal dipole "
+":cite:`balanis:2005`."
 msgstr ""
 
-# c588ae31daf04690990bbf136ada59f9
-#: ../../content/introduction.rst:19
+# a21a1794b6b34bb48550beb3c416ce49
+#: ../../content/introduction.rst:31
 msgid ""
-"Used as probes for field measurements, directional antennas for "
-"radiowave navigation :cite:`balanis:2005`."
+"Used as probes for field measurements, directional antennas for radiowave"
+" navigation :cite:`balanis:2005`."
 msgstr ""
 
-# 0f8febe6e3304171b75c4b90502bc230
-#: ../../content/introduction.rst:21
+# 8d37777b623240b891c90b1d6efed13e
+#: ../../content/introduction.rst:35
 msgid ""
 "**Electrically large loops:** circumference is about a free-space "
 "wavelength."
 msgstr ""
 
-# 98fb89496a6645e88f0dec2acbd3a66f
-#: ../../content/introduction.rst:23
+# 86178b1d1f404ced90bfba1fce1bb01e
+#: ../../content/introduction.rst:37
 msgid "Used primarily in directional arrays."
 msgstr ""
 
-# 0c9ca63d4b3043599b19ac70e8ae01d8
-#: ../../content/introduction.rst:24
+# e5060f76768b4ee1aed215f93427c115
+#: ../../content/introduction.rst:38
 msgid ""
 "To achieve such directional pattern characteristics, the circumference "
 "(perimeter) of the loop should be about one free-space wavelength."
 msgstr ""
 
-# 6b39e9d76d22449580cb0ea9f9292115
-#: ../../content/introduction.rst:26
+# ef94a1642b4a4236b7c0e3755f979502
+#: ../../content/introduction.rst:42
 msgid ""
 "They have become less significant as transmitting antennas for "
 "frequencies below 30 MHz. An exception to this is the tuned transmitting "
@@ -109,3 +126,4 @@ msgid ""
 "extremely narrowband systems and therefore have to be retuned whenever "
 "the frequency is changed :cite:`rohner:2006`."
 msgstr ""
+

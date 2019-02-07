@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 01e52ea3058b4b98b779c75648e276d6
+#: ../../loaded-loops/history.rst:2
+msgid "History"
+msgstr ""
+
+# 096fd5a62509499dbf57c638b156c238
+#: ../../loaded-loops/history.rst:4
+msgid ""
+"Fratianni investigated the effect of iron cores on the receiving "
+"efficiency of VLF loop antennas, in air and underwater [Fratianni, 1950]."
+msgstr ""
+
+# 5199d59d15574a38a748e8d1822cd69e
+#: ../../loaded-loops/history.rst:6
+msgid ""
+"Rumsey and Weeks investigated electrically small, ferrite loaded loop "
+"antennas. Approximate formulas have been developed for the impedance, "
+"efficiency, and Q of electrically small, ferrite-loaded loop antennas. "
+"The formulas are based on an assumed knowledge of these parameters for "
+"the antenna without ferrite loading. Radiation resistance formulation is "
+"also given [Rumsey and Weeks, 1956]."
+msgstr ""
+
+# 96f22a36423e42cda45a5f1ee6fb67b6
+#: ../../loaded-loops/history.rst:8
+msgid ""
+"A general discussion relating to the application of small loop antennas "
+"with air and ferrite cores k given. A general procedure for simplified "
+"testing of ferrite-loaded magnetic type small antennas is outlined in "
+"which radiofrequency radiation performance is expressed in tern of "
+"quantities easily measured at audio frequencies. Only a single "
+"measurement is needed to characterize the elementary-dipole type ferrite-"
+"loaded antenna. Finally, a number of measurement results are given which "
+"apply to the usual rod-type ferrite-loaded loop antenna: measurement "
+"parameters cover a broad range of core lengths and diameters. It is found"
+" that typical ferrite-loaded loops have little electrical advantage over "
+"air loops although the packaging advantage of ferrite loops may be "
+"significant [Stewart, 1958]."
+msgstr ""
+
+# 0a18bb546b084177b6f041b0ad9e9779
+#: ../../loaded-loops/history.rst:10
+msgid ""
+"Devore and Bohley investigated an analytical model of a class of "
+"electrically small multiturn loop antennas has been formulated and "
+"compared with experimental measurements over a frequency range of 3 to 86"
+" MHz. Both air core and magnetically loaded cases were examined. The "
+"analytical model described in this paper should prove an effective design"
+" aid for a volumetrically constrained antenna of the class [Devore and "
+"Bohley, 1977]."
+msgstr ""
+
+# c90781e36197474db5b3f77c1a47228f
+#: ../../loaded-loops/history.rst:12
+msgid ""
+"Burton et. al. investigated the electromagnetic field of an electrically "
+"small loop antenna with a cylindrical core. The infinitely long cylinder "
+"may be conducting or insulating. With the help of the principle of "
+"similitude, measurements made with a small loop at a high frequency with "
+"cylinders of water with widely different conductivities are applied to a "
+"very large loop around a mountain at a very low frequency. An approximate"
+" equivalent circuit for the loop with a core is described and tested "
+"[Burton et. al., 1983]."
+msgstr ""
+
+# 8799125376a24172afccb2f64ececbd7
+#: ../../loaded-loops/history.rst:14
+msgid ""
+"The goal of this research is to develop and validate a low-frequency "
+"modeling code for high-moment transmitter rod antennas to aid in the "
+"design of future low-frequency TX antennas with high magnetic moments. "
+"modeling code can predict the TX antenna’s gain, maximum magnetic moment,"
+" saturation current, series inductance, and core series loss resistance, "
+"provided the user enters the corresponding complex permeability for the "
+"desired core magnetic flux density [Jordan et. al., 2009]."
+msgstr ""
+

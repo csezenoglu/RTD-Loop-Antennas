@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 0ece51f360fb4045bc083bf0f98c95c2
+#: ../../content/quality-factor.rst:2
+msgid "Quality Factor"
+msgstr ""
+
+# b80ded923efb46b088bbeffea285f685
+#: ../../content/quality-factor.rst:9
+msgid ": Equivalent circuit of small magnetic core loop antenna."
+msgstr ""
+
+# df59c2ed56304c5b937bdd7078614a4f
+#: ../../content/quality-factor.rst:11
+msgid ""
+"Quality factor of the equivalent circuit can be approximated as follows "
+"where R_w≪R_m is assumed [Abe and Takada, 2007]."
+msgstr ""
+
+# 716608164520428fab5073e648ee7e56
+#: ../../content/quality-factor.rst:13
+msgid ""
+"Q = \\frac{1}{\\frac{R_w}{\\omega L}+\\frac{\\omega L}{R_m}} \\cong "
+"\\frac{1}{\\frac{R_w}{\\omega L}+\\Bigl( \\frac{\\tan \\delta}{\\mu_i} "
+"\\mu_{app} \\Bigr)}"
+msgstr ""
+
+# e21ffd2c5ae94aacb765a3994d91d3c1
+#: ../../content/quality-factor.rst:18
+msgid ""
+"where :math:`\\tan \\delta / \\mu_i` is relative loss factor of the core "
+"(from datasheet), :math:`\\mu_{app}=L/L_0` is ratio between the "
+"inductance of the coil attached to the core and the coil itself and "
+":math:`R_w` is winding resistance."
+msgstr ""
+
+# eb396f548a5f446bbe386b6ae8bbb709
+#: ../../content/quality-factor.rst:20
+msgid ""
+"Quality factor of a resonator, Q, indicates its bandwidth relative to the"
+" center frequency:"
+msgstr ""
+
+# bf8af2072fcd466fb637db5848565d1c
+#: ../../content/quality-factor.rst:22
+msgid "Q=\\frac{f}{\\Delta f}"
+msgstr ""
+
+# c31404c67507445aa899c0181fa24642
+#: ../../content/quality-factor.rst:27
+msgid ""
+"Alternatively, it can be defined as a ratio of average stored energy and "
+"energy loss:"
+msgstr ""
+
+# c0e5882c528741a1a01a28c6d9ab150c
+#: ../../content/quality-factor.rst:29
+msgid "Q = \\omega \\frac{W_m+W_e}{P_{loss}}"
+msgstr ""
+
+# 61bc613ca4ef475d9739023238353190
+#: ../../content/quality-factor.rst:34
+msgid ""
+"where :math:`W_m` and :math:`W_e` are the average magnetic and electric "
+"energy stored in the circuit and :math:`P_{loss}` is the power loss. At "
+"resonance Wm and We are equal."
+msgstr ""
+
+# cc29ea08938843c1b9f40fd666b4008f
+#: ../../content/quality-factor.rst:36
+msgid ""
+"Higher :math:`Q` indicates a lower rate of energy loss relative to the "
+"stored energy of the resonator; the oscillations die out more slowly "
+"[wiki: Q factor]."
+msgstr ""
+
+# 7e8dae75698b4dd8b58a516c759d12f6
+#: ../../content/quality-factor.rst:38
+msgid ""
+"As the ferrite rod antenna is not a pure parallel resonator mainly due to"
+" the series resistance of the inductor, the quality factor is derived "
+"from the total quality factor of the individual quality factors of the "
+"inductor and the parallel capacitor:"
+msgstr ""
+
+# b60dc33da50049748b75b22bbdeb5d27
+#: ../../content/quality-factor.rst:40
+msgid "Q_i = \\frac{\\omega L}{R_i}"
+msgstr ""
+
+# f9755d41a28047e69609b7b34dbe2ba7
+#: ../../content/quality-factor.rst:45
+msgid "Q_c = \\frac{1}{\\omega C R_c}"
+msgstr ""
+
+# 75dcf2a3c62c40d7855ba26f7fe43c46
+#: ../../content/quality-factor.rst:50
+msgid "The resulting quality factor is"
+msgstr ""
+
+# 046ea6f2de964a49b15a5f6cde9fc3c4
+#: ../../content/quality-factor.rst:52
+msgid "Q = \\frac{\\omega L}{\\omega^2 LCR_c+R_i}"
+msgstr ""
+
+# 9cd66de273ad4245a8649dd12a7861e6
+#: ../../content/quality-factor.rst:57
+msgid "which at resonance becomes"
+msgstr ""
+
+# 3acb7bf451b947b9937e5e9b2e0517d2
+#: ../../content/quality-factor.rst:59
+msgid "Q = \\frac{\\omega L}{R_c+R_i}"
+msgstr ""
+
+# fd43cc288d9049abaa4ed08e814d3a62
+#: ../../content/quality-factor.rst:64
+msgid ""
+"Typically, capacitors have a much higher quality factor with a small "
+"resistance :math:`R_c` compared to the coil resistances. The quality "
+"factor of the system is determined by the quality factor of the coil "
+"[Koskimaa, 2016]."
+msgstr ""
+

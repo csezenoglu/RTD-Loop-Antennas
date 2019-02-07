@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# fe7428f7b95f4ff4802b59376d5d34ab
+#: ../../small-loops/loop-geometry.rst:2
+msgid "Loop Geometry"
+msgstr ""
+
+# 298c7d14c20e4314841e60e0e2a05e9b
+#: ../../small-loops/loop-geometry.rst:5
+msgid "Dimensions"
+msgstr ""
+
+# e536f8b8913a4ed78e0ef9d4c45c543a
+#: ../../small-loops/loop-geometry.rst:7
+msgid ""
+"For comparable performance, it appears that the length of the ferrite "
+"core must be roughly equal to the diameter of an equivalent air loop. "
+"However, other dimensions are smaller; that is, an air loop must be "
+"“large” in two dimensions, whereas a ferrite loop need be large in only "
+"one. The net result is a packaging advantage for the ferrite loop, "
+"somewhat less electrostatic pick-up than that for the air loop, and a "
+"structurally simpler device to electrostatically shield, if desired "
+"[Stewart, 1958]. The static measuring technique enables reasonably valid "
+"data to be accumulated at a rapid rate such that tests of ferrite-cored "
+"antennas covering a whole range of parameters can be obtained on a modest"
+" budget [Stewart, 1958]."
+msgstr ""
+
+# 189114d312d742de84e60bb71ea3f14d
+#: ../../small-loops/loop-geometry.rst:10
+msgid ""
+"Cylindrical cores longer than a solenoid winding are used to increase L "
+"for a given physical size. Cylindrical cores shorter than the solenoid "
+"winding and moved along the winding axis are used for L tuning with the "
+"greatest L occurring with the core centered [Serkan Aksoy, Mail, "
+"04.04.2017]."
+msgstr ""
+
+# 3b66f3c5a3704540ae33096a892cc91d
+#: ../../small-loops/loop-geometry.rst:13
+msgid "Coil cross-section advantage/disadvantage"
+msgstr ""
+
+# fdf8888a8a194bdead1eaeb03480ba90
+#: ../../small-loops/loop-geometry.rst:19
+msgid "Circular"
+msgstr ""
+
+# bd39297016ac4f63925c3af609e4d75e
+#: ../../small-loops/loop-geometry.rst:20
+msgid "Rectangular"
+msgstr ""
+
+# b6d1cf3366b347008d31907c9e85f821
+#: ../../small-loops/loop-geometry.rst:29
+msgid "Others"
+msgstr ""
+
+# 01c04ce9efe5426e828329508dd6352a
+#: ../../small-loops/loop-geometry.rst:30
+msgid ""
+"Fundamental characteristics of the loop antenna radiation pattern (far "
+"field) are largely independent of the loop shape [Donohoe, ECE4990 "
+"Lecture Notes]."
+msgstr ""
+
+# db8c54985b604053bbbf30bb215c2515
+#: ../../small-loops/loop-geometry.rst:32
+msgid ""
+"The far fields of an electrically small loop antenna are dependent on the"
+" loop area but are independent of the loop shape [Donohoe, ECE4990 "
+"Lecture Notes]."
+msgstr ""
+
+# b1372548c310457098a5a20afc09eadb
+#: ../../small-loops/loop-geometry.rst:34
+#, python-format
+msgid ""
+"For any of the shapes given, there is less than 1% deviation between "
+"demagnetization factors of polygonal and circular cylinders for aspect "
+"ratios l_r/d_r above unity. For acicular particles (l_r/d_r  ~ 6.0) this "
+"deviation is less than 0.25% even for the most radical shape, the "
+"triangular cross-section [Moskowitz and Della Torre, 1966]."
+msgstr ""
+
+# cae2818d5d7f41bda5a7811661b513e3
+#: ../../small-loops/loop-geometry.rst:36
+msgid ""
+"Size and shape of coils affect their high frequency resistance very "
+"broadly. Cross section of coil had little effect on the observed "
+"resistance [Witzig, 1947]."
+msgstr ""
+

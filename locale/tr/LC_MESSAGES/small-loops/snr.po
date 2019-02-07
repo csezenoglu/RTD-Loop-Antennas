@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# adcae96dd11f470a8f25490e9d2c529a
+#: ../../small-loops/snr.rst:2
+msgid "Signal to Noise Ratio (SNR)"
+msgstr ""
+
+# c8e93cb16a9a4fa1bda6cb2244ef3150
+#: ../../small-loops/snr.rst:4
+msgid ""
+"The minimum signal that can produce a useful output from a radio receiver"
+" is determined by the output signal-to-noise ratio [CIA, 1957]."
+msgstr ""
+
+# 51e19be156f642ada086dbfcfdeed687
+#: ../../small-loops/snr.rst:6
+msgid "Noise Sources [CIA, 1957]"
+msgstr ""
+
+# 6f8f5abc65d14f529e405e2105e64140
+#: ../../small-loops/snr.rst:10
+msgid "Externally Generated"
+msgstr ""
+
+# 8ab6fea4573b4c2698924e3b845e02d5
+#: ../../small-loops/snr.rst:11
+msgid "Internally Generated"
+msgstr ""
+
+# 5e8d38806ae043f7949127ba52fa92c1
+#: ../../small-loops/snr.rst:12
+msgid "Atmospheric (electrical storms)"
+msgstr ""
+
+# d2155b825a0f4acfb3fb1608a422eb67
+#: ../../small-loops/snr.rst:13
+msgid "Antenna ohmic resistance (thermal)"
+msgstr ""
+
+# 1214db4d8b1b43b884481c8fc332438d
+#: ../../small-loops/snr.rst:14
+msgid "Cosmic (extra-terrestrial radiation)"
+msgstr ""
+
+# a8402bba512b430688365b79a72a131b
+#: ../../small-loops/snr.rst:15
+msgid "Coupling circuit resistance (thermal)"
+msgstr ""
+
+# f694bc3aa91d4860a532d9f4d1c4eb74
+#: ../../small-loops/snr.rst:16
+msgid "Man-made static"
+msgstr ""
+
+# 2c51d18f10834141ab63c5058f15f259
+#: ../../small-loops/snr.rst:17
+msgid "First amplifier or mixer (short noise)"
+msgstr ""
+
+# 52cbc3ee77794cbabc0a621b1ba90c7a
+#: ../../small-loops/snr.rst:18
+msgid "Precipitation static"
+msgstr ""
+
+# d3468d1b0fcb43fab3fb1b0a37e36cbb
+#: ../../small-loops/snr.rst:20
+msgid "Radiation resistance (thermal)"
+msgstr ""
+
+# d019f1b59c9449bbbb95543bb60436de
+#: ../../small-loops/snr.rst:24
+msgid "Rx"
+msgstr ""
+
+# 25882e9c599e427f82846b71a207f332
+#: ../../small-loops/snr.rst:26
+msgid ""
+"Laurent and Carvalho gave the signal to noise ratio of a receiving "
+"[Laurent and Carvalho, 1962]."
+msgstr ""
+
+# 0c99e5407a9443a1aa80a6d5cc05727b
+#: ../../small-loops/snr.rst:28
+msgid ""
+"\\frac{S}{N}=\\frac{EmA_r}{C}\\left[\\mu_{cer}+\\left(\\frac{d_c^2}{d_r^2}-1\\right)\\right]\\sqrt{\\frac{\\omega_0Q_L}{4KT\\Delta"
+" f d_c\\mu_cF}}"
+msgstr ""
+
+# bb4ff929cacb4b9db28b77c7dfffaf54
+#: ../../small-loops/snr.rst:33
+msgid "E     magnitude of the electric field intensity vector"
+msgstr ""
+
+# 1630b26c5e7b409a879162cb2e6ea8ad
+#: ../../small-loops/snr.rst:34
+msgid "m     modulation index"
+msgstr ""
+
+# 74bf4c48cbb84653a47bf19c5bb8a3a8
+#: ../../small-loops/snr.rst:35
+msgid "A_r   area of the rod"
+msgstr ""
+
+# 8d6dfe2891834a8e84884aab873455f0
+#: ../../small-loops/snr.rst:36
+msgid "C     total tuning capacitance"
+msgstr ""
+
+# a6f85e9fca4a4df7b6df48b797599fcd
+#: ../../small-loops/snr.rst:37
+msgid "\\omega_0      resonance frequency"
+msgstr ""
+
+# 6f35ee7c4b06472b82639460d310c733
+#: ../../small-loops/snr.rst:38
+msgid "Q_L=\\omega_0\\frac{R_pR_L}{R_p+R_L}C"
+msgstr ""
+
+# cc4e378426094611ba2a3b45e75a7b87
+#: ../../small-loops/snr.rst:39
+msgid "K=1.38\\ {10}^{-23}    Boltzmann's constant [Joules/Kelvin]"
+msgstr ""
+
+# 9d9ed7cfbcc34500b5b5f2a5727cada3
+#: ../../small-loops/snr.rst:40
+msgid "T     Temperature in degrees Kelvin"
+msgstr ""
+
+# e8c35c8fd6344ce7bdb9a1f4362fee4a
+#: ../../small-loops/snr.rst:41
+msgid "\\Delta f      3 db bandwidth of the device"
+msgstr ""
+
+# b00967f495664c52a897d538f1e7ddb4
+#: ../../small-loops/snr.rst:42
+msgid ""
+"\\mu_c=L_2/L_1 coefficient of change in inductance when the rod is "
+"inserted"
+msgstr ""
+
+# 2308bdd1920d41de8d8d6635c7674447
+#: ../../small-loops/snr.rst:43
+msgid "F     form factor (geometry of the coil)"
+msgstr ""
+
+# 3c26abe4c2c64988b180f358df6e19bd
+#: ../../small-loops/snr.rst:45
+msgid ""
+"Fratianni obtained the optimum signal to noise ratio equation for a "
+"transformer coupled loop system and direct coupled loop system[Fratianni,"
+" 1948]"
+msgstr ""
+
+# c7b8de1479a24ba7b82d501caa747c33
+#: ../../small-loops/snr.rst:48
+msgid "Transformer coupled"
+msgstr ""
+
+# c53635c7be2d4bf280ffd166b875794b
+#: ../../small-loops/snr.rst:55
+msgid ": ex17."
+msgstr ""
+
+# 2cc5b8b6927d4a9c9f07d6e0d94efe31
+#: ../../small-loops/snr.rst:62
+msgid ": snr-transformer-coupled."
+msgstr ""
+
+# 0cef9e9c16a04640aa669113ea654d78
+#: ../../small-loops/snr.rst:65
+msgid "Direct Connected"
+msgstr ""
+
+# b44d063b3ee44e5b9fd84e56ccdf690a
+#: ../../small-loops/snr.rst:72
+msgid ": ex18."
+msgstr ""
+
+# 0983d7f72b7447d69b24270b8255a9e8
+#: ../../small-loops/snr.rst:79
+msgid ": snr-direct-connected."
+msgstr ""
+
+# 5f6cb9e79e4542538d1d3e767503ef4d
+#: ../../small-loops/snr.rst:81
+msgid "Lp: primary inductance"
+msgstr ""
+
+# a9e1dcf26aa545b0af98c138a9d307b0
+#: ../../small-loops/snr.rst:82
+msgid "Lo: loop inductance"
+msgstr ""
+
+# 79ac1e0ab209482886e2a9f92e2ae6f6
+#: ../../small-loops/snr.rst:83
+msgid "K1: coupling coefficient of transformer"
+msgstr ""
+
+# 77e5e3d560bd453fa16a88fb15503808
+#: ../../small-loops/snr.rst:84
+msgid "Q0: q value of loop"
+msgstr ""
+
+# bbb3e332b882482db7cc7050273b2be9
+#: ../../small-loops/snr.rst:85
+msgid "Qp: q value of primary"
+msgstr ""
+
+# 2cabf67deda645529f35255eb4d752d0
+#: ../../small-loops/snr.rst:86
+msgid "Q2: q value of secondary"
+msgstr ""
+
+# 51b01ceea23f409c9d286d67deb94ed0
+#: ../../small-loops/snr.rst:87
+msgid ""
+"Delta f: the width in cps of the equivalent rectangle having the same "
+"area as the squared transmission characteristic of the input circuit"
+msgstr ""
+
+# d704e9c8178743b4b942a8ca6089e86a
+#: ../../small-loops/snr.rst:88
+msgid "XL0: reactance of loop"
+msgstr ""
+
+# 9a655a0e85ec4932a1d97292e4be0d0e
+#: ../../small-loops/snr.rst:89
+msgid "E: loop induced voltage"
+msgstr ""
+

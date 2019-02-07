@@ -2,53 +2,41 @@
 # Copyright (C) 2018, Ceyhun Sezenoglu
 # This file is distributed under the same license as the Loop Antennas
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loop Antennas 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-03 10:29+0300\n"
-"PO-Revision-Date: 2018-10-04 11:04+0300\n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: tr\n"
-"X-Generator: Poedit 2.1.1\n"
 
-# 5e190899611b48b198df326e55f3f59e
-#: ../../index.rst:7
+# 2ea5d2c180ac455183a7e43eb090777c
+#: ../../index.rst:8
 msgid "Loop Antennas"
-msgstr "Halka Antenler"
-
-# a1099950ee6a49f68027cacf608d009a
-#: ../../index.rst:9
-msgid "Table of Contents:"
-msgstr "İçindekiler:"
-
-# 6be6f50cb8134c60addf9c4d39dd32fe
-#: ../../index.rst:24
-msgid "Appendix:"
-msgstr "Ekler:"
-
-# 6fbd2ac6c5874506bf1c2e165b8ef904
-#: ../../index.rst:32
-msgid ""
-"In the case of loop antennas, the dipole consists of a usually circular "
-"or rectangular current loop which acts like a coil and functions in "
-"response to the magnetic component of the electromagnetic field :cite:"
-"`rohner:2006`."
 msgstr ""
 
-# abccee8fca3a45f9931f5e478b16407b
-#: ../../index.rst:34
-msgid ""
-"A small loop (circular or square) is equivalent to an infinitesimal "
-"magnetic dipole whose axis is perpendicular to the plane of the loop. "
-"That is, the fields radiated by an electrically small circular or square "
-"loop are of the same mathematical form as those radiated by an "
-"infinitesimal magnetic dipole :cite:`balanis:2005`."
+# c424d82afc9c4efe8eeedcb4cb146d16
+#: ../../index.rst:23
+msgid "Special Chapters"
 msgstr ""
+
+# 4accc5f9501a4e9282eb85dfd00cbcd7
+#: ../../index.rst:30
+msgid "Appendices"
+msgstr ""
+
+# 7e82ed65eed94eac8bf696328fd4f029
+#: ../../index.rst:41
+msgid ""
+"This book is a kind of Loop Antennas book by Prof. Serkan Aksoy. For "
+"further information, please visit the page of the book: |Loop_Antennas|."
+msgstr ""
+

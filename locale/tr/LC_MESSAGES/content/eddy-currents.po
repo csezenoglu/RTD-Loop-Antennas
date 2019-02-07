@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 5d2bd4685c0d43f0b57e7d19d45bec5f
+#: ../../content/eddy-currents.rst:3
+msgid "Eddy Currents"
+msgstr ""
+
+# a319e659b13c44c2bd1207e5664e176d
+#: ../../content/eddy-currents.rst:5
+msgid ""
+"#According to electromagnetic induction principle, alternate current "
+"produces alternate magnetic field. The metal produces alternate eddy "
+"current when it is in alternate magnetic field. The eddy current then "
+"produces secondary magnetic field and react to original alternate "
+"magnetic field by changing its amplitude and phase [c]."
+msgstr ""
+
+# d6236a4c04094b2eb3098d3bb163a573
+#: ../../content/eddy-currents.rst:8
+msgid "Multifield Eddy Current Effect"
+msgstr ""
+
+# 049c88e656c6484a88edba863057dd9b
+#: ../../content/eddy-currents.rst:10
+msgid ""
+"Rabinovici and Kaplan investigated an eddy current effect which occurs in"
+" nonlinear magnetic conductors excited by multiple alternating fields in "
+"1983. The field penetrating into the material contains new magnetic "
+"fields whose frequencies is much lower than the frequencies of the "
+"exitation fields. They noted that this is due to the realtive "
+"cancellation (filtering) of the orginally high frequency fields by the "
+"screening of eddy currents :cite:`rabinovici:1983`."
+msgstr ""
+
+# b700a73e49aa41bf8a8233561893827c
+#: ../../content/eddy-currents.rst:12
+msgid ""
+"In 1985, Kaplan and Rabinovici investigated an **eddy current sensor** "
+"for DC and low-frequency magnetic fields as shown in :numref:`eddy-"
+"current-sensor`. This new sensor based on multifield eddy current effects"
+" could measure fields with intensities about :math:`10^{-5}` Oe or Gauss "
+":cite:`kaplan:1985`."
+msgstr ""
+
+# 974d64abfb294888a2cb5b33b4e7886b
+#: ../../content/eddy-currents.rst:19
+msgid ": Eddy current sensor."
+msgstr ""
+

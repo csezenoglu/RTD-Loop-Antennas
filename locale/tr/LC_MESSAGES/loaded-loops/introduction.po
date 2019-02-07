@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 224c2c9fba274d0a815ef18e5635395c
+#: ../../loaded-loops/introduction.rst:2
+msgid "Introduction"
+msgstr ""
+
+# a24f3c83ab184f9bb8770097e366a7f7
+#: ../../loaded-loops/introduction.rst:4
+msgid ""
+"Ferrite core electrically small loops are often used for receiving "
+"signals, such as in radios and pagers, where the signal to noise ratio is"
+" much important than efficiency."
+msgstr ""
+
+# 41b739e29af5460681aa0222f9faa591
+#: ../../loaded-loops/introduction.rst:11
+msgid ": Effect of the ferrite rod [Laurent and Carvalho, 1962]."
+msgstr ""
+
+# 09405534a01e489084c0a28242f8da50
+#: ../../loaded-loops/introduction.rst:18
+msgid ""
+": Influence of a ferrite rod [Alex Goldman-Modern Ferrite Technology-"
+"Springer (2010) p305]."
+msgstr ""
+
+# ebed060a3fec4252883312d6c3e93ed3
+#: ../../loaded-loops/introduction.rst:20
+msgid ""
+"Eshraghian et al. (1982), Ranasinghe (2007), and Cole et al. (2003) show "
+"that without the magnetic core the coupling volume of a long solenoid is "
+"just the physical volume, but when a magnetic core is inserted, the "
+"coupling volume increases by a factor equal to the effective permeability"
+" of the magnetic core [Serkan Aksoy, Mail, 10.08.2017]."
+msgstr ""
+
+# e27088fdf63c44cdaf90f0ac791476dd
+#: ../../loaded-loops/introduction.rst:22
+msgid ""
+"The loops are rarely used as transmitting antennas above low levels of "
+"power due to their poor radiation efficiency (low radiation resistance). "
+"As transmitting antennas, they become less significant below 30 MHz. If "
+"the efficiency is not an issue and power levels are very low, they are "
+"used as a transmitter. Because they would soon become very hot when any "
+"reasonable levels of power are fed into them, they must be cooled (for "
+"example by water as in torpedo transmitter)."
+msgstr ""
+
+# 7dbd4e0b26c348f880b5836fcc359de2
+#: ../../loaded-loops/introduction.rst:24
+msgid ""
+"As an exception, a tuned transmitting loop, can be equipped with a "
+"remotely controlled capacitor to make a resonant circuit, is used to "
+"transmit waves. However, such loops have to be retuned whenever the "
+"frequency is changed (even in the same operating band) because they are "
+"extremely narrowband. Nonetheless, they are sometimes the only "
+"practicable option for transmission when space is restricted [Serkan "
+"Aksoy, Mail, 01.06.2017]."
+msgstr ""
+
+# 717f801db8a945a4ad86ed07a4d3acfb
+#: ../../loaded-loops/introduction.rst:27
+msgid "Dimensions"
+msgstr ""
+
+# 3171efc7f1534d2daddd2f10e6678ea5
+#: ../../loaded-loops/introduction.rst:30
+msgid "Frequency"
+msgstr ""
+
+# 61830bc094ae43e49191b3bfda55e960
+#: ../../loaded-loops/introduction.rst:32
+msgid ""
+"Above 20 MHz or so, ferrite losses increase to the extent that ferrite "
+"loops may not be as good as air loops; relatively loss-free ferrites at "
+"higher frequencies tend to have low permeability and hence the slight "
+"advantage obtained with ferrites at low frequencies tends to disappear "
+"[Stewart, 1958]. At a moderate distance R from the dipole, provided R is "
+"large compared to dipole dimensions, and in the static case (that is, in "
+"the audio frequency region), k/R2 and k2/R are very small relative to "
+"l/R3 and hence can be ignored by comparison. This permits a static "
+"measurement of magnetic field intensity to be made in order to find "
+"dipole moment. Then radiation at some radio frequency can be determined "
+"providing that the dipole moment does not change from static to radio "
+"frequencies and providing the dipole is small enough to still be "
+"considered an elementary dipole at the radio frequency of interest "
+"[Stewart, 1958]."
+msgstr ""
+
+# 4f0877d8c3f540cf9b6798f9a7eb20fd
+#: ../../loaded-loops/introduction.rst:36
+msgid "Measurement"
+msgstr ""
+
+# 52bb0c2d96e64a97b9419790cf9f7900
+#: ../../loaded-loops/introduction.rst:38
+msgid ""
+"Direct radio-frequency measurements usually require that the magnetic "
+"dipole antenna be electrostatically shielded; otherwise, incidental "
+"electric dipole radiation makes it almost impossible to separate "
+"radiation into electric and magnetic types. With static magnetic "
+"measurements of a radio-frequency antenna, on the other hand, antenna "
+"inductance is so small that no appreciable voltage is required to obtain "
+"antenna driving current and hence no significant electric dipole moment "
+"exists [Stewart, 1958]."
+msgstr ""
+
+# c51413e693dd4e48bee81fa5eb6bf021
+#: ../../loaded-loops/introduction.rst:40
+msgid ""
+"An unshielded magnetic dipole at radio frequencies will radiate to a "
+"certain extent as an electric dipole. As a result, radiated power will "
+"exceed that calculated for magnetic dipole radiation alone. Electric "
+"dipole radiation typically affects radiation intensity most where the "
+"magnetic dipole radiation is a minimum; in the case of the loop, the "
+"major effect is to fill in the nulls. Magnetostatic measurements cannot "
+"account for electric dipole radiation; hence, magnetostatically predicted"
+" radio-frequency radiation resistance may be somewhat less than actual "
+"radiation resistance if the magnetic-type antenna is unshielded [Stewart,"
+" 1958]."
+msgstr ""
+
+# 1b705c7c525445fe8ff5eea371fa8438
+#: ../../loaded-loops/introduction.rst:43
+msgid "Permeability (Influence of High-Frequency Magnetic Fields)"
+msgstr ""
+
+# d3b13714ff384e8e99f1840a5c9796d6
+#: ../../loaded-loops/introduction.rst:45
+msgid ""
+"The reaction of the magnetic induction B (and thus also of the "
+"magnetization) on an external alternating magnetic field H with a time "
+"dependence can be expressed as:"
+msgstr ""
+
+# fcc7eb4270ee468e93051892dc6e8d33
+#: ../../loaded-loops/introduction.rst:47
+msgid ""
+"\\begin{array}{c} B=B_0 e^{i(\\omega t - \\delta)}\\\\ H=H_0 e^{i\\omega "
+"t} \\end{array}"
+msgstr ""
+
+# 9ffb7f8d5183439d839d0f18c45d40ca
+#: ../../loaded-loops/introduction.rst:55
+msgid "As a consequence the permeability  :math:`\\mu` becomes complex:"
+msgstr ""
+
+# 31add53f70ff4eee8c1953d72edd24fb
+#: ../../loaded-loops/introduction.rst:57
+msgid ""
+"\\mu = \\frac{B}{H} = \\frac{B_0 e^{i(\\omega t - \\delta)}}{H_0 "
+"e^{i\\omega t}} = \\frac{B_0}{H_0}e^{-i\\delta}"
+msgstr ""
+
+# 9e9f433f594e45499403b883ca84a366
+#: ../../loaded-loops/introduction.rst:62
+msgid "Using :math:`e^{-i\\delta}=\\cos⁡{\\delta}-i \\sin⁡{\\delta}`  we get:"
+msgstr ""
+
+# 223569d6093b4ddcb9434f9da29a1de6
+#: ../../loaded-loops/introduction.rst:64
+msgid "\\mu = \\frac{B_0}{H_0}\\cos⁡{\\delta} - i \\frac{B_0}{H_0}\\sin{\\delta}"
+msgstr ""
+
+# ee21670dd27a4ac2bfcb972e3cc8c5b9
+#: ../../loaded-loops/introduction.rst:69
+msgid ""
+"Characterizing the real and negative imaginary part of the permeability "
+"by:"
+msgstr ""
+
+# 8f48fe4b4ac646fb953d9ce70be47d40
+#: ../../loaded-loops/introduction.rst:71
+msgid ""
+"\\begin{array}{c} \\mu'=\\frac{B_0}{H_0}\\cos⁡{\\delta}\\\\ "
+"\\mu''=\\frac{B_0}{H_0}\\sin{\\delta} \\end{array}"
+msgstr ""
+
+# 4d934a89710547a7b3340efb989a6398
+#: ../../loaded-loops/introduction.rst:79
+msgid "we obtain [Fundamentals of magnetism - M.Getzlaff – 2008, p.139]:"
+msgstr ""
+
+# 02429e6785c7432b8a452617d1535340
+#: ../../loaded-loops/introduction.rst:81
+msgid "\\mu = \\mu' -i\\mu''"
+msgstr ""
+
+# a7d6989cddd84a10a9ba4cc73d2a7aeb
+#: ../../loaded-loops/introduction.rst:86
+msgid ""
+"Due to the finite size of the ferrite rods, the effective permeability of"
+" the rod decreases near the ends of the solenoid. As a consequence of "
+"this, the inductance of the solenoid does not always grow as the square "
+"of the number of turns, as would be expected [Serkan Aksoy, Mail, "
+"15.03.2017]."
+msgstr ""
+
+# 73fb8d90ee4141ae95cecfca4cd58e8a
+#: ../../loaded-loops/introduction.rst:88
+msgid ""
+"Figure 1 shows the rod permeability as a function of the length to "
+"diameter ratio for the six materials available in rods [Fair-Rite Rods "
+"Datasheet]."
+msgstr ""
+
+# c2d282577b724ab5a395fc61fbce8ace
+#: ../../loaded-loops/introduction.rst:95
+msgid ": Rod permeability [fair-rite-datasheet]."
+msgstr ""
+
+# b356f6cc515e4493a252f5fd1b315fb6
+#: ../../loaded-loops/introduction.rst:98
+msgid "Two Winding Solenoid"
+msgstr ""
+
+# b65df662d3514f52892a42ad570570cb
+#: ../../loaded-loops/introduction.rst:105
+msgid ": Two winding solenoid."
+msgstr ""
+
+# 04b992b627f94316ae4fad98f5513557
+#: ../../loaded-loops/introduction.rst:107
+msgid ""
+"Loopstick antenna from an AM radio having two windings, one for long wave"
+" and one for medium wave (AM broadcast) reception. Typically, 10 cm long,"
+" these loop antennas are usually hidden inside the radio receiver [Serkan"
+" Aksoy, Mail, 03.04.2017]."
+msgstr ""
+
+# 0cd3949119524166be5182be09faec55
+#: ../../loaded-loops/introduction.rst:109
+msgid ""
+"In the contra-wound configuration, introduced by the US Army Signal Corp "
+"many years ago and described in publications by Burhans and by Cornell, "
+"the coil wound on the ferrite rod is split into two equal parts wound "
+"withopposite sense. If the \"outside\" ends of these coils are grounded, "
+"a single-ended signal can be taken from the midpoint of the coil "
+"resulting in muchsimplified preamp design. Also, since the total coil "
+"inductance is halved (the half-coils would be in parallel), for a given "
+"required total inductance the number of turns can be increased providing "
+"increased sensitivity. (The total self-capacity of the windings is "
+"increased but ordinarily such would not be of principal concern.) [Serkan"
+" Aksoy, Mail, 29.07.2017]"
+msgstr ""
+
+# fd0d3535dda1436eb2fcd059a12161d8
+#: ../../loaded-loops/introduction.rst:112
+msgid "Notes"
+msgstr ""
+
+# ce1146d1f58c4c6d92a93ed2087cf785
+#: ../../loaded-loops/introduction.rst:114
+msgid "Mark 48 torpedo"
+msgstr ""
+
+# 4d7608065d3d42ba9cdc511e3ad72636
+#: ../../loaded-loops/introduction.rst:116
+msgid ""
+"Unconfirmed reports indicate that the torpedo's sensors can monitor "
+"surrounding electrical and magnetic fields. This may refer to the "
+"electromagnetic coils on the warhead (at least from 1977 to 1981), used "
+"to sense the metallic mass of the ship's hull and detonate at the proper "
+"stand-off distance [Serkan Aksoy, Mail, 08.04.2017]."
+msgstr ""
+
+# 0b2f623ac8e743d6a477d5488a7e30c1
+#: ../../loaded-loops/introduction.rst:118
+msgid ""
+"A magnetic fuze reacts to the variable magnetic field of a ship is "
+"necessary for the most successful position of detonation under the keel "
+"of the ship. Work on this aspect of the bomb was found to be far from "
+"complete. The susceptibility to disturbances and the reaction capacity of"
+" such fuzes had not been investigated thoroughly either. A magnetic "
+"proximity fuze, however, is necessary for greater release ranges and for "
+"curved underwater trajectories."
+msgstr ""
+
+# 4ca978f00cf749d19a6a90cbe5ad5717
+#: ../../loaded-loops/introduction.rst:120
+msgid ""
+"Good detonation positions can be achieved with straight underwater travel"
+" if the fuze is set to go off after a specific distance through the "
+"water. The angle of entry must naturally not be altered as the underwater"
+" travel depends on the angle of entry. The time delay set on the fuze can"
+" be determined most simply by assuming a constant time for underwater "
+"travel."
+msgstr ""
+
+# fb9bc2c6f5974749b50c9a45eeaed679
+#: ../../loaded-loops/introduction.rst:122
+msgid ""
+"In designing the fuze system, the following points must be borne in mind."
+" Further, the speed and range of release must be functioned very "
+"accurately for a pre-set time as the tolerance of plus or minus 0.1 "
+"second can only be achieved with a clockwork fuze. Finally, the tail "
+"section must be jettisoned by explosive bolts or by some other adequate "
+"method on impact with the water [Serkan Aksoy, Mail, 11.04.2017]."
+msgstr ""
+
+# 5f8788508a3c4aeb92fdfbdc9b089d4d
+#: ../../loaded-loops/introduction.rst:124
+msgid ""
+"The (modern) German navy uses submarines whose hulls are made entirely "
+"out of some classified non-magnetic alloy. This protects them from "
+"setting off static magnetic fuses and submarine detection systems [Serkan"
+" Aksoy, Mail, 11.04.2017]."
+msgstr ""
+
+# b806dc4ed2e84e1ab6b02b22bdd1321d
+#: ../../loaded-loops/introduction.rst:131
+msgid ": distribution-of-flux-density-along-ferrite-snelling-1969 p188."
+msgstr ""
+

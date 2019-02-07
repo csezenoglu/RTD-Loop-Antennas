@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# ce93ec026c794f82b828754214e91832
+#: ../../small-loops/impedance.rst:2
+msgid "Impedance of a Small Loops"
+msgstr ""
+
+# 267d48b5a05144f0bc74507fac90db80
+#: ../../small-loops/impedance.rst:5
+msgid "Over a Conducting Medium"
+msgstr ""
+
+# f6b915bf451344eb8f0321e597beaafd
+#: ../../small-loops/impedance.rst:7
+msgid ""
+"In 1973 Wait and Spies investigated low-frequency input impedance of a "
+"circular loop over a conducting medium as shown in :numref:`loop-"
+"impedance-with-conducting-earth`. Impedance equation was given and "
+"calculated numerically. The impedance of the loop was analysed in terms "
+"of wire and loop radius, skin depth and loop height from ground. The "
+"limiting value of :math:`R` for the rate of loop radius to skin depth "
+"(:math:`a/\\delta`) tending towards infinity was noted "
+":cite:`wait:1973low`."
+msgstr ""
+
+# 9a2c6c72b8804b92bb97af9b53f94de4
+#: ../../small-loops/impedance.rst:14
+msgid ": Side view of circular loop over the conducting earth."
+msgstr ""
+

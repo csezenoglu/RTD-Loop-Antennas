@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 1dad1967a2e246229041ec6bda84bad5
+#: ../../loaded-loops/applications.rst:2
+msgid "Applications"
+msgstr ""
+
+# 49a4fbb0007f45ceb8b05797ee03dbcf
+#: ../../loaded-loops/applications.rst:5
+msgid "Wireless Power Transfer"
+msgstr ""
+
+# a5dc47b7ca2d4199a6e39e168f15a51e
+#: ../../loaded-loops/applications.rst:7
+msgid ""
+"Zhang et al. investigated a quadrature-shaped receiver (pickup) coil for "
+"omnidirectional wireless power transfer (WPT) as shown in :numref"
+":`quadrature-shaped-pickup-zhang-2018`. A cross-shaped core is placed "
+"inside the receiver and the windings are wrapped around the core. "
+"Receiver is simulated for different geometric dimensions of the core and "
+"the results are presented in terms of both power and efficiency "
+":cite:`zhang:2018optimal`."
+msgstr ""
+
+# 6397b8a74a4e4776954191b34b3fe898
+#: ../../loaded-loops/applications.rst:14
+msgid ""
+": Schematics of (a) omnidirectional WPT system and (b) quadrature-shaped "
+"pickup."
+msgstr ""
+

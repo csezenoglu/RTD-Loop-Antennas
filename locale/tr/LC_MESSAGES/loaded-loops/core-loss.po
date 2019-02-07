@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 4be9481710d94170ba5c820546ccc52a
+#: ../../loaded-loops/core-loss.rst:2
+msgid "Core Loss"
+msgstr ""
+
+# baa5fc3297064c8e9f8703a95c1f8cff
+#: ../../loaded-loops/core-loss.rst:5
+msgid "Spheroidal Core"
+msgstr ""
+
+# 8308d8b0f40d4d8db6cf01ceb84d74a6
+#: ../../loaded-loops/core-loss.rst:7
+msgid ""
+"The core loss may be computed if the loss tangent of the core material is"
+" known or is available from published data. The loss tangent is defined "
+"in terms of a complex effective relative permeability, "
+":math:`\\mu_r=\\mu_r^\\prime-j\\mu_r^{\\prime\\prime}`, as "
+":math:`\\tan{\\delta=\\mu_r^{\\prime\\prime}/}\\mu_r^\\prime` [Simpson "
+"and Zhu, 2007]."
+msgstr ""
+
+# 3179f005237c4a1c808b994b2595ec07
+#: ../../loaded-loops/core-loss.rst:14
+msgid ": ex15."
+msgstr ""
+
+# bd067dcedc21431695ab5043e1fdf107
+#: ../../loaded-loops/core-loss.rst:17
+msgid "Cylindrical Core"
+msgstr ""
+
+# 1775fda03eb94a5e831ab8b0a57405a2
+#: ../../loaded-loops/core-loss.rst:19
+msgid ""
+"Devore and Bohley gave the core loss formulation which is dependent "
+"complex permeability of core below [Devore and Bohley, 1977]."
+msgstr ""
+
+# a3bfbc35b86243deaf8f69ae17626f83
+#: ../../loaded-loops/core-loss.rst:26
+msgid ": ex16."
+msgstr ""
+
+# b79713d582584cd5a438ce96492c6148
+#: ../../loaded-loops/core-loss.rst:28
+msgid ""
+"Another core loss formulation for ferrite loaded FM receiver antennas was"
+" given [Lindberg and Kaikkonen, 2007]"
+msgstr ""
+
+# 05675bb1b20d41228823f82bd34d422e
+#: ../../loaded-loops/core-loss.rst:30
+msgid ""
+"R_f=2\\pi "
+"f\\mu_0\\mu_{cer}\\frac{\\mu\\prime\\prime}{\\mu\\prime}n^2\\frac{A}{l}"
+msgstr ""
+
+# be4090a8d5724221bdaec7731f2b7400
+#: ../../loaded-loops/core-loss.rst:35
+msgid "Core Data"
+msgstr ""
+
+# 45aa433346d648249138a31442705428
+#: ../../loaded-loops/core-loss.rst:37
+msgid ""
+"Example catalog data of complex permeability as a function of frequency "
+"is shown below [Data Handbook of Soft Ferrites and Accessories, 2004]."
+msgstr ""
+
+# 0bd9fb8b8cac407d97b7efc4e5ce157f
+#: ../../loaded-loops/core-loss.rst:44
+msgid ": core-data."
+msgstr ""
+
+# 48b6a4ab84924d21b0fcc6f47f07db61
+#: ../../loaded-loops/core-loss.rst:46
+msgid ""
+"Another catalog data of Siemens EC52 ferrite core is given below "
+"[Kazimierczuk et. al., 1999]."
+msgstr ""
+
+# 03ac848c190e4638b073d05b0e0e5e62
+#: ../../loaded-loops/core-loss.rst:53
+msgid ": core-data-siemens."
+msgstr ""
+

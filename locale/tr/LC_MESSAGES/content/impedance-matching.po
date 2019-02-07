@@ -1,0 +1,231 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# c6fc7d850da54b3e892fa369ec4241be
+#: ../../content/impedance-matching.rst:2
+msgid "Impedance Matching"
+msgstr ""
+
+# 05f57750d891431c8d29a3bbb3f10650
+#: ../../content/impedance-matching.rst:4
+msgid ""
+"The impedance in the antenna’s main RLC circuit is not well matched to 50"
+" :math:`\\Omega`. The induced voltage is highly reflected if connected "
+"directly to a 50 :math:`\\Omega` input. One way to improve the matching "
+"is to use a secondary coil or a so called pick-up coil next to the main "
+"coil [Koskimaa, 2016]."
+msgstr ""
+
+# b3bb2fe891fb45158894f0182b7ad1d0
+#: ../../content/impedance-matching.rst:7
+msgid "Pick-up Coil"
+msgstr ""
+
+# 66009e3f7035414dab62734ff6f7ffb5
+#: ../../content/impedance-matching.rst:9
+msgid ""
+"The pick-up coil will act as an impedance transformer. The impedance "
+"transformer transforms the main coil impedance and voltage into the "
+"secondary coil according to the equation"
+msgstr ""
+
+# c8bccc15bf5c401190b3b3cbf986e2ca
+#: ../../content/impedance-matching.rst:11
+msgid "\\frac{N_2}{N_1} = \\frac{U_2}{U_1} = \\sqrt{\\frac{Z_2}{Z_1}}"
+msgstr ""
+
+# 0c6fb1b37188420e9b9a573cee199f30
+#: ../../content/impedance-matching.rst:16
+msgid ""
+"When the pick-up works as intended the output voltage from the decreased "
+"secondary coil voltage is still higher than the original main coil output"
+" voltage due to the improved matching."
+msgstr ""
+
+# 6ced188ed7624dc29b8416c3abbd8539
+#: ../../content/impedance-matching.rst:18
+msgid ""
+"When inductors are coupled a current change in one inductor induces a "
+"voltage in the second inductor. The mutual inductance between the "
+"inductors is defined as"
+msgstr ""
+
+# b2ee3066ac3f4ac6ba7a4510efe12ee2
+#: ../../content/impedance-matching.rst:20
+msgid "M = k \\sqrt{L_1 L_2}"
+msgstr ""
+
+# a2b5ee219a6946d398ea4bbb87fe3d72
+#: ../../content/impedance-matching.rst:25
+msgid ""
+"where k is the coupling coefficient. The equivalent circuit of two "
+"coupled inductors is a T-circuit shown in figure below."
+msgstr ""
+
+# f1f9e02b3bfa4b0486ead1c5d3449922
+#: ../../content/impedance-matching.rst:32
+msgid ": Equivalent circuit of two coupled inductors."
+msgstr ""
+
+# 2ff889a5f24a48ffa2c8e8bf3426ac61
+#: ../../content/impedance-matching.rst:34
+msgid ""
+"The voltage over the two coils can be expressed with the mutual "
+"inductance as the following:"
+msgstr ""
+
+# 2c9598650f8c40a19ff817bd79e0a92c
+#: ../../content/impedance-matching.rst:36
+msgid ""
+"\\begin{array}{c} U_1 = j \\omega (L_1 I_1 + M I_2)\\\\ U_2 = j \\omega "
+"(M_1 I_1 + L_2 I_2) \\end{array}"
+msgstr ""
+
+# d56945e46ee34ff08139bdb0a4b6878f
+#: ../../content/impedance-matching.rst:44
+msgid ""
+"The coupling coefficient of the two coils can be measured by changing the"
+" secondary coil from open circuit to shorted and observing the change in "
+"the resonant frequency. When the second coil is shorted the voltage in "
+"the secondary coil becomes zero and the current will be"
+msgstr ""
+
+# d873cf9210944cbd8ae91fb335cfd291
+#: ../../content/impedance-matching.rst:46
+msgid "I_2 = -\\frac{MI_1}{L_2}"
+msgstr ""
+
+# 6226da30eac046ecad26972f16eca98f
+#: ../../content/impedance-matching.rst:51
+msgid ""
+"By inserting this into the voltage equation of the primary coil in "
+"equation U1_U2"
+msgstr ""
+
+# 81e65d5afec94ceda62e4c71907c6a64
+#: ../../content/impedance-matching.rst:53
+msgid "U_1 = j\\omega L_s I_1"
+msgstr ""
+
+# 4714eeec607e42829c004275e0e24135
+#: ../../content/impedance-matching.rst:58
+msgid ""
+"where L_s is the apparent/measured inductance over the primary coil when "
+"the secondary coil is shorted. Now the mutual inductance squared can be "
+"written as"
+msgstr ""
+
+# ce7d635b15384789851f47e45b2a6730
+#: ../../content/impedance-matching.rst:60
+msgid "M^2 = L_2 (L_1 - L_s)"
+msgstr ""
+
+# 9f8878960b124dd4a8e0dde046cdf6ed
+#: ../../content/impedance-matching.rst:65
+msgid "Using this the coupling coefficient becomes"
+msgstr ""
+
+# 395e97c6716e4315898a2cdc059e4492
+#: ../../content/impedance-matching.rst:67
+msgid ""
+"k = \\frac{M}{\\sqrt{L_1 L_2}} = \\sqrt{1-\\frac{L_s}{L_1}} = "
+"\\sqrt{1-\\biggl(  \\frac{f_0}{f_s} \\biggr)^2}"
+msgstr ""
+
+# faa3a845baea45408ea7903e4cc5f09f
+#: ../../content/impedance-matching.rst:72
+msgid ""
+"where f_0 and f_s are the resonance frequencies related to the "
+"inductances L_1 and L_s according to resonance frequency of the RLC with "
+"the secondary coil open and shorted, respectively."
+msgstr ""
+
+# c9d29bbb7f5448a8bb5369648ca2f4e0
+#: ../../content/impedance-matching.rst:74
+msgid ""
+"The impedance at the antenna output is Z_2. A portion of the pick-up "
+"voltage U_2 is reflected at the antenna output according to equation"
+msgstr ""
+
+# ee30b3514ab7403fb144a83218e7b989
+#: ../../content/impedance-matching.rst:76
+msgid "\\Gamma = \\frac{Z_L - Z_2}{Z_L + Z_2}"
+msgstr ""
+
+# 8587108e6ce64bc39b921323f90bfa78
+#: ../../content/impedance-matching.rst:81
+msgid ""
+"where the load impedance is 50 :math:`\\Omega`. The output voltage of the"
+" antenna is [Koskimaa, 2016]"
+msgstr ""
+
+# b287bd5e26534d629417d1863a043154
+#: ../../content/impedance-matching.rst:83
+msgid "U_{out} = (1-\\Gamma)U_2"
+msgstr ""
+
+# 0cf4f7d30a21471dbfd1632ff9f7ccdf
+#: ../../content/impedance-matching.rst:89
+msgid "Transformer Coupling"
+msgstr ""
+
+# 53eccf50d2b4467ea4aa390082f8b2b0
+#: ../../content/impedance-matching.rst:91
+#, python-format
+msgid ""
+"Bachman investigated a low-impedance loop with coupling transformer and "
+"explained the transformer parameters in terms of the circuit and "
+"transformer coupling coefficients in 1945. The gain of the transformer "
+"coupled loop system was analysed. The low-impedance transformer-coupled "
+"loop and a high-impedance loop connected directly to the same tuning "
+"capacitor was compared. He concluded that an ideal transformer-coupled "
+"loop has 38.4% of the gain from a direct-connected loop of the same area,"
+" assuming the same Q in the transformer secondary as in the direct "
+"connected loop. In :numref:`transformer-coupling-low-impedance` the low-"
+"impedance loop coupling-transformer circuit was shown "
+":cite:`bachman:1945loop`."
+msgstr ""
+
+# 3173812475ab4ed994dd36021a2ea0d3
+#: ../../content/impedance-matching.rst:98
+msgid ": Low-impedance loop coupling-transformer circuit."
+msgstr ""
+
+# bc426bf7e0be4016b15e179be964b68b
+#: ../../content/impedance-matching.rst:100
+msgid ""
+"In 1948 Fratianni investigated methods of coupling loops to receivers "
+"that transformer-coupled and direct connected as shown in :numref"
+":`transformer-coupling`. Mathematical analysis and theoritical treatment "
+"of transformer-coupled was done. Coupling design for *maximum voltage "
+"amplification* and *optimum signal-to-noise ratio* was studied. In order "
+"to show the effects of parameters on circuit performance eight conditions"
+" were built. All direct coupled cases were better than transformer-"
+"coupled cases with regard to signal-to-noise ratio. Only two transformer-"
+"coupled sets better than direct coupled sets for voltage amplification "
+"basis. He also noted that if a long cable length was required, "
+"transformer-coupled circuits could be preferred :cite:`fratianni:1948`."
+msgstr ""
+
+# 4056310f093243b3b7a3e6c945c43a9e
+#: ../../content/impedance-matching.rst:108
+msgid ": Transformer-coupled and direct connected receiving loops."
+msgstr ""
+

@@ -18,8 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 7113609dc1b740cca7e1d242bf20a0c7
-#: ../../content/em-modeling.rst:3
-msgid "EM Modeling"
+# 8ce26b454f1d403eb9d4f87d66d0ec32
+#: ../../appendices/zreferences.rst:16
+msgid "References"
 msgstr ""
 

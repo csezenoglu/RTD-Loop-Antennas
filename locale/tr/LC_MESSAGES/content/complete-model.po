@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 3c0b7c14ffbe44eea740b7b7b33d5b0d
+#: ../../content/complete-model.rst:2
+msgid "Complete Model"
+msgstr ""
+
+# 7c1599ec33e54dcfa8606f5860b10f0c
+#: ../../content/complete-model.rst:5
+msgid "Model 1"
+msgstr ""
+
+# 564daac8522f4ab0afb52d3dd3fe6a56
+#: ../../content/complete-model.rst:7
+msgid ""
+"Cheng et. al. investigated a small solenoid coils for millimeter-sized "
+"biomedical implants. This paper focuses on the optimization of the "
+"solenoid-type Rx coils. Analytical model of solenoid coils that includes "
+"the impact of tissue and coating around the coils. Optimal operating "
+"frequency for the Rx and number of turns are found to be 500 MHz and 6, "
+"respectively for the wireless power transfer. A significantly more "
+"accurate formulation for the implanted solenoid coil lumped RLC model is "
+"devised, which is valid at the frequencies lower than the Rx coil self-"
+"resonance frequency (SRF), where L, R_s, C_p and R_p are the inductance, "
+"parasitic series resistance (due to conductor’s ohm loss), parasitic "
+"capacitance, and parasitic parallel resistance (due to dielectric loss in"
+" the coating and tissue), respectively [Cheng et. al., 2017]."
+msgstr ""
+
+# 65a0beb0990a46598390cc3e2eea8ad8
+#: ../../content/complete-model.rst:14
+msgid ": Circuit model 1."
+msgstr ""
+
+# 5ed9b19f408743a9ac20d2b6d72a82fa
+#: ../../content/complete-model.rst:16
+msgid "Resistance:"
+msgstr ""
+
+# b52b18e34dd844de99a3ee802f21f6b0
+#: ../../content/complete-model.rst:18
+msgid "R_S = R_{sk} + R_{pr}"
+msgstr ""
+
+# 7c9e4098f2f6456b92e5db12733254b9
+#: ../../content/complete-model.rst:23
+msgid "Inductance:"
+msgstr ""
+
+# 68a84389c9ec48ca9d1c3e9becfd45e9
+#: ../../content/complete-model.rst:25
+msgid "L = \\mu_{eff} \\pi r_{HF}^2 N^2 K_L K_P"
+msgstr ""
+
+# fc8bfd16e42a4c28a13a1f7bee4c0a45
+#: ../../content/complete-model.rst:30
+msgid "Capacitance and Parallel Resistance:"
+msgstr ""
+
+# f7300e2a48144921af8a9dd690017d22
+#: ../../content/complete-model.rst:32
+msgid ""
+"C_P = Re\\biggl( C_{Pco1} + \\frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} "
+"\\biggr) \\frac{1}{R_P} = -\\omega \\cdot Im\\biggl( C_{Pco1} + "
+"\\frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} \\biggr)"
+msgstr ""
+
+# 2e7128cff0674dc5b832a97b37d55341
+#: ../../content/complete-model.rst:38
+msgid "Coil Impedance and Q-Factor:"
+msgstr ""
+
+# 0601d03632a04026a8c25d324490adc9
+#: ../../content/complete-model.rst:40
+msgid ""
+"\\begin{array}{c} Z = \\frac{1}{1/(R_S+j\\omega L)+j\\omega C_P + "
+"1/R_P}\\\\ Q = Im(Z)/Re(Z) \\end{array}"
+msgstr ""
+
+# 25498e433b46413d9772dbfbff56c9dd
+#: ../../content/complete-model.rst:49
+msgid "Model 2"
+msgstr ""
+
+# 79fbe37c5a4d4316ac2dcee295aabce6
+#: ../../content/complete-model.rst:51
+msgid ""
+"Simpson and Zhu investigated an analysis of the electrically small multi "
+"turn loop antenna with a spheroidal core and a full-wave analysis of a "
+"practical loop with a cylindrical core in 2005 and 2006 [Simpson, 2005, "
+"Simpson and Zhu, 2006]."
+msgstr ""
+
+# fb7e8b8558b144598d1b52f190a92e65
+#: ../../content/complete-model.rst:58
+msgid ": Circuit model 2."
+msgstr ""
+
+# 2bbb2a442d1d4862b3fa3a7686ba983c
+#: ../../content/complete-model.rst:60
+msgid ""
+"\\begin{array}{c} R = \\frac{R_0}{6\\pi}\\biggr( \\frac{S_{coil}}{l^2} "
+"\\biggl)^2 \\left[ 1+(\\mu_m - 1) F(\\xi_0,\\mu_m) \\right]^2\\\\ L = "
+"\\mu_0 \\mu_m (N/2a) S_{coil} F(\\xi_0,\\mu_m)\\\\ C = \\frac{\\pi "
+"\\epsilon_0}{25} \\frac{b^2}{\\sqrt{a^2-b^2}} \\left[ "
+"12K_1+\\frac{1}{7}K_3 \\right] \\end{array}"
+msgstr ""
+
+# cd0e37bf218d4065bfe4a995b502211d
+#: ../../content/complete-model.rst:69
+msgid ""
+"Approximate values for the series inductance :math:`\\Delta L=1.8 \\ \\mu"
+" H`, and shunt capacitance, :math:`\\Delta C=25.1 \\ pF`, were "
+"determined."
+msgstr ""
+
+# 6e75a87872ba499898b9cf51c7cd6dca
+#: ../../content/complete-model.rst:72
+msgid "Model 3"
+msgstr ""
+
+# 046d3c60d8d24bd1b417c927bb278cb8
+#: ../../content/complete-model.rst:74
+msgid ""
+"Kazimierczuk et. al. investigated a circuit model of ferrite core "
+"inductors. The behavior of the model parameters vs frequency is "
+"considered [Kazimierczuk et. al., 1999]."
+msgstr ""
+
+# c04834a01cb44d72872765c400ebecd8
+#: ../../content/complete-model.rst:81
+msgid ": Circuit model 3."
+msgstr ""
+
+# ef3de4903eec45a9907d30bd13f594bb
+#: ../../content/complete-model.rst:83
+msgid ""
+"As shown in figures above all parameters of circuit model are constant "
+"and independent from frequency below 1 kHz."
+msgstr ""
+
+# 36102fd98e4246eeaf42c4427b9287db
+#: ../../content/complete-model.rst:90
+msgid ": Circuit model 3 graphics."
+msgstr ""
+
+# 423097524bae4fe6abde4785277f9f28
+#: ../../content/complete-model.rst:93
+msgid "Model 4 - Air Core Solenoid"
+msgstr ""
+
+# ac6cd2a8db054369a1676316d2214a9d
+#: ../../content/complete-model.rst:95
+msgid ""
+"Fraga et. al. investigated the impedance of long solenoids. In the case "
+"of ac, their properties can be studied in terms of an equivalent circuit."
+" When frequency is not too high so that the distributed capacitances have"
+" a negligible influence, this circuit is the series connection of a "
+"resistance R_s, and an inductance L_s, both parameters usually taking "
+"their dc values, and thus the impedance Z_s=R_s-iωL_s. They noted that "
+"corrections are needed for low and high frequencies [Fraga et. al., "
+"1998]."
+msgstr ""
+
+# b6347c18e0964e4e8368968c7a4e12c6
+#: ../../content/complete-model.rst:102
+msgid ": Circuit model 4 graphics."
+msgstr ""
+
+# 13e62aab95704226929f32b396e6fb41
+#: ../../content/complete-model.rst:105
+msgid "Model 5"
+msgstr ""
+
+# 1689417b5fb749daacd5bb6d9e783636
+#: ../../content/complete-model.rst:107
+msgid ""
+"The ferrite rod antenna consists of a coil which can be modeled as an "
+"inductor that has various resistances in series due to the antenna "
+"losses. Together with a parallel capacitance the antenna forms a parallel"
+" RLC circuit as shown in figure 3 [Koskimaa, 2016]."
+msgstr ""
+
+# 49d5ff0f52534f579004dd5283da4ee5
+#: ../../content/complete-model.rst:114
+msgid ": Circuit model 5."
+msgstr ""
+
+# 74ce59753a074a3ea6b4312e0e44f69a
+#: ../../content/complete-model.rst:116
+msgid "Inductance formula is [Koskimaa, 2016, Snelling, 1969]"
+msgstr ""
+
+# b4c12ee078514fe29244864c417b2cf2
+#: ../../content/complete-model.rst:118
+msgid "L=\\mu_0 \\mu_{cer} N^2 \\frac{A}{l_f}"
+msgstr ""
+
+# b7465874baf0491fb0c554b0a2c8d18f
+#: ../../content/complete-model.rst:123
+msgid ""
+"Most of the capacitance in the circuit is due to the parallel capacitor. "
+"The coil itself has a small capacitance between individual turns and the "
+"total capacitance between all turns is"
+msgstr ""
+
+# 950a527c52254e1dbe6cda9affce4edc
+#: ../../content/complete-model.rst:125
+msgid ""
+"C=\\frac{\\pi^2 2 r_c \\epsilon_0 \\epsilon_r}{\\cosh^{-1}\\biggr( "
+"\\frac{2r_w+d_w}{2r_w} \\biggl)(N-1)}"
+msgstr ""
+
+# 123a508382f24500ace91628e680bf56
+#: ../../content/complete-model.rst:130
+msgid ""
+"where dw is the distance or gap between individual wires and r relative "
+"permittivity of the medium which in a tightly wound coil is the coating "
+"on the metal wire. The resistances in the antenna are divided into ohmic "
+"losses and the radiation resistance. Ohmic losses in the antenna are "
+"caused by losses in the wire itself and losses in the ferrite core. "
+"Increased losses lead to the antenna being less sensitive at the resonant"
+" frequency. The half-power bandwidth also becomes wider [Koskimaa, 2016]."
+msgstr ""
+
+# 2007ea52fdf64b1ea1b175b7c4b0b564
+#: ../../content/complete-model.rst:134
+msgid "Ferrite Core loss"
+msgstr ""
+
+# c9349f7207a249d2911d33b283e4350e
+#: ../../content/complete-model.rst:135
+msgid ""
+"Ferrite core is a lossy material that absorbs power from the magnetic "
+"field flowing through the coil. The magnitude of the ferrite loss depends"
+" on the material of the rod and the dimensions of both the wire coil and "
+"the rod. The equation for the ferrite loss is"
+msgstr ""
+
+# f071f5921293402d9853cc584c973f2a
+#: ../../content/complete-model.rst:137
+msgid "R_f = \\omega \\mu_0 \\mu_{cer} \\tan{\\delta_m} N^2 \\frac{A}{l_f}"
+msgstr ""
+
+# 03eea46d8a2a44fa8fff75b953477720
+#: ../../content/complete-model.rst:143
+msgid "Model 6 - Receiving Loaded Antenna"
+msgstr ""
+
+# cae291be52fc445f80e3c3697bb8cd84
+#: ../../content/complete-model.rst:150
+msgid ": Circuit model 6 [Laurent and Carvalho, 1962]."
+msgstr ""
+

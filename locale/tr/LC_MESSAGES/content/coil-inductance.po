@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 323bba83fd5e447c976f6eb52c173995
+#: ../../content/coil-inductance.rst:2
+msgid "Coil Inductance"
+msgstr ""
+
+# 0cb4ade5e6a94138b0ba76d8942d8230
+#: ../../content/coil-inductance.rst:5
+msgid "Air Core"
+msgstr ""
+
+# 828e1ecf85b64425bf053f1fae5eda4f
+#: ../../content/coil-inductance.rst:7
+msgid ""
+"Wheeler gave simple inductance formulas for circular and square coils "
+"[Wheeler, 1982]."
+msgstr ""
+
+# 316ea6bf74be4f4eb0a594004265842f
+#: ../../content/coil-inductance.rst:14
+msgid ": A circular or square coil."
+msgstr ""
+
+# 7d665b11f08541c5be531917be41309e
+#: ../../content/coil-inductance.rst:21
+msgid "**Circular Coil**"
+msgstr ""
+
+# e6e12231d03748fe9044600701ae7aa7
+#: ../../content/coil-inductance.rst:22
+msgid "**Square Coil**"
+msgstr ""
+
+# 268aaba8953c4b1a89b574f253cf9ee5
+#: ../../content/coil-inductance.rst:25
+msgid "**Simple**"
+msgstr ""
+
+# 6da7c7cfeb8d4556a8c32a5be5a7739d
+#: ../../content/coil-inductance.rst:29
+msgid "**Short Coil**"
+msgstr ""
+
+# 790df35b7f284789961a65a8548c1fd4
+#: ../../content/coil-inductance.rst:33
+msgid "**Long Coil**"
+msgstr ""
+
+# 4d73634891574ab69963e963f0334856
+#: ../../content/coil-inductance.rst:37
+msgid ""
+"Lundin gave a formula for the inductance of a single-layer circular coil "
+"or solenoid. He noted that a single-layer circular coil can be idealized "
+"to a cylindrical current sheet. If 2a<b then [Lundin, 1985]:"
+msgstr ""
+
+# c119574179f9493684c49ac2aa46e937
+#: ../../content/coil-inductance.rst:46
+msgid "Air Core Solenoid"
+msgstr ""
+
+# c7f07c88f17d485889e51fc0049ed5ed
+#: ../../content/coil-inductance.rst:48
+msgid ""
+"A simple chart as shown in Figure 1 presents the relation between "
+"inductance, over-all dimensions, and density of winding for a solenoid "
+"coil. Any one unknown may be determined if the other quantities are "
+"given. The chart is accurate for many turns of fine wire, close wound in "
+"a single layer. It is also accurate at low frequencies for one turn or "
+"many turns of thin ribbon, close-wound in a single layer [Wheeler, 1950]."
+msgstr ""
+
+# 86e55b9e7afd48e08896a9ca66fe20ac
+#: ../../content/coil-inductance.rst:55
+msgid ": Dimensions of solenoid coil."
+msgstr ""
+
+# 10376defbde3454faaec856660a200ee
+#: ../../content/coil-inductance.rst:62
+msgid ""
+": Relation between inductance, over-all dimensions, and density of "
+"winding for a solenoid coil [Wheeler, 1950]."
+msgstr ""
+
+# d82c87a4c9db41979fc56fef01526f4e
+#: ../../content/coil-inductance.rst:65
+msgid "Self-inductance of solenoid is given by [Smythe, 1989]"
+msgstr ""
+
+# e6332139352d49ee8ac885e0c516d4d9
+#: ../../content/coil-inductance.rst:67
+msgid "L = \\mu_0 \\pi a^2 N^2 \\frac{1}{\\sqrt{l_s^2+a^2}-a}"
+msgstr ""
+
+# 0f7a05eb5ce54fb79385ef3f4abe41e9
+#: ../../content/coil-inductance.rst:72
+msgid ""
+"where :math:`a` is radius of the loop or solenoid in meters, :math:`l_s` "
+"is length of solenoid in meters and :math:`N` is number of turns of the "
+"loop."
+msgstr ""
+
+# 79433eb2d860445387cdcf8bdbac1ead
+#: ../../content/coil-inductance.rst:74
+msgid "Inductance of solenoid air core for single layer [Burhans, 1979]:"
+msgstr ""
+
+# ddc4bf97ce534893b9b69c99605e060f
+#: ../../content/coil-inductance.rst:76
+msgid "L_h = \\frac{0.2 d^2 N^2}{3d+9b}"
+msgstr ""
+
+# 162455b02510438ebacbcfdd1907da1a
+#: ../../content/coil-inductance.rst:81
+msgid ""
+"where :math:`d` is diameter and :math:`b` is length in inches. Then, "
+"inductance of loop on core [Burhans, 1979]:"
+msgstr ""
+
+# aabcf313773b4cb2b3c569971ffd48d7
+#: ../../content/coil-inductance.rst:83
+msgid "L_{cored} = \\mu_{cer} L_h"
+msgstr ""
+
+# 2826dda65e3b4b2fa1979000bc89d003
+#: ../../content/coil-inductance.rst:89
+msgid "Ferrite Core"
+msgstr ""
+
+# da3d3afccbcc4f4c8848a81946bf1ce9
+#: ../../content/coil-inductance.rst:91
+msgid ""
+"Devore and Bohley gave the inductance of coil formulation. They also "
+"noted that μ_r^''≪μ_r^' which is reasonable assumptions for long "
+"solenoids with low loss cores. [Devore and Bohley, 1977]."
+msgstr ""
+
+# 648ff62a6738432bb66bd30febed92fe
+#: ../../content/coil-inductance.rst:96
+msgid ""
+"Jutty et. al. developed an equivalent model of inductors at high "
+"frequencies."
+msgstr ""
+
+# 1112d9fa8e984ca69ca22ddf6dfda326
+#: ../../content/coil-inductance.rst:103
+msgid ": Equivalent circuit of an inductor."
+msgstr ""
+
+# 753384a55dbb48f5be85a02382f469e7
+#: ../../content/coil-inductance.rst:105
+msgid ""
+"It is shown that an inductor behaves like a capacitor beyond its resonant"
+" frequency. The measured inductance L_S of an inductor with the effect of"
+" the capacitance included given by"
+msgstr ""
+
+# 292220050df54d4992fe388ae809d384
+#: ../../content/coil-inductance.rst:107
+msgid "L_s = \\frac{L}{1-\\omega^2 LC} = \\frac{L}{1-(\\omega/\\omega_{res})^2}"
+msgstr ""
+
+# b1db58d30a3f4251aa3fe5ba349f7b3a
+#: ../../content/coil-inductance.rst:112
+msgid ""
+"Figure 1 shows the rod permeability as a function of the length to "
+"diameter ratio for the six materials available in rods. The inductance "
+"modifier is found in Figure 2. The ratio winding length divided by the "
+"rod length will give the inductance modifier. If the rod is totally wound"
+" the K=1. Shorter but centered winding will yield higher K values [Fair-"
+"Rite Rods Datasheet]."
+msgstr ""
+
+# 0785db171ff04b5a9a0155e3bc9b5174
+#: ../../content/coil-inductance.rst:119
+msgid ": Rod permeability and inductance modifier."
+msgstr ""
+
+# 12268b7780f7429887713a38ea42f67f
+#: ../../content/coil-inductance.rst:121
+msgid ""
+"To calculate the inductances of a wound rod the following formula can be "
+"used,"
+msgstr ""
+
+# 689e781415ab4b3eb00556696c91b6a3
+#: ../../content/coil-inductance.rst:126
+msgid ""
+"This formula was also given in Soft Ferrites book. [Snelling, 1969, Fair-"
+"Rite Rods Datasheet]"
+msgstr ""
+

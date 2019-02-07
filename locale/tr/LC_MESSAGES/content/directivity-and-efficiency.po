@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# c68065d176e944258c1a659d3a475d43
+#: ../../content/directivity-and-efficiency.rst:2
+msgid "Directivity and Efficiency"
+msgstr ""
+
+# 3a2614c8c0274f488d3f2b621837d140
+#: ../../content/directivity-and-efficiency.rst:4
+#, python-format
+msgid ""
+"One very important quantitative description of an antenna is how much it "
+"concentrates energy in one direction in preference to radiation in other "
+"directions. This characteristic of an antenna is called directivity and "
+"is equal to its gain if the antenna is 100% efficient."
+msgstr ""
+
+# 9b1b1833aa2e47c69d2d41b75900c5d4
+#: ../../content/directivity-and-efficiency.rst:6
+msgid ""
+"**Directivity** is defined as the ratio of the radiation intensity in a "
+"certain direction to the average radiation intensity [Stutzman and "
+"Thiele, 2012]."
+msgstr ""
+
+# 6b2ada7cee3e4da08c3700887f5c765b
+#: ../../content/directivity-and-efficiency.rst:14
+msgid ": Illustration of radiation pattern and directivity."
+msgstr ""
+
+# 653c32f07fb74cddba9cebc16e90522d
+#: ../../content/directivity-and-efficiency.rst:16
+msgid ""
+"Directivity can be tied more directly to the pattern function. First, we "
+"define beam solid angle, :math:`\\Omega_A`:"
+msgstr ""
+
+# dff5d2795ffa47a18b8fbdb3337324d0
+#: ../../content/directivity-and-efficiency.rst:18
+msgid "\\Omega_A = \\iint_{sphere} \\vert F(\\theta,\\phi)\\vert^2 d\\Omega"
+msgstr ""
+
+# 256f456a8a404fa195b8cecdcd7541be
+#: ../../content/directivity-and-efficiency.rst:24
+msgid "D = \\frac{4\\pi}{\\Omega_A}"
+msgstr ""
+
+# 56004f3e711d4d42a5e324e203e6bd69
+#: ../../content/directivity-and-efficiency.rst:29
+msgid ""
+"These results show that directivity is entirely determined by the pattern"
+" shape; it is independent of the details of the antenna hardware "
+"[Stutzman and Thiele, 2012]."
+msgstr ""
+
+# 9a041b2d18a24f7e92513569c6f743c0
+#: ../../content/directivity-and-efficiency.rst:36
+msgid ": Illustration of directivity."
+msgstr ""
+
+# ca86a961cc904c2793145f31da9cdf84
+#: ../../content/directivity-and-efficiency.rst:39
+msgid ""
+"The concept of directivity is illustrated in "
+":numref:`illustration_of_directivity` [Stutzman and Thiele, 2012]."
+msgstr ""
+
+# d53c3844080a43878de9983b8514e7c8
+#: ../../content/directivity-and-efficiency.rst:41
+msgid ""
+"The *radiation efficiency* of an antenna is defined as the portion of "
+"power that is not absorbed in the antenna structure as ohmic losses. This"
+" is characterized by the :math:`R_{rad}` and the ohmic loss resistance, "
+":math:`R_{loss}`, with which the radiation efficiency, :math:`\\eta_r`, "
+"is [Koskimaa, 2016]"
+msgstr ""
+
+# c34e8d06693147adb17d705dc7de60ed
+#: ../../content/directivity-and-efficiency.rst:43
+msgid ""
+"\\eta_r = \\frac{R_{rad}}{R_{rad}+R_{loss}} = \\frac{P_{rad}}{P_{in}} = "
+"\\frac{P_{rad}}{P_{rad}+P_{loss}}"
+msgstr ""
+
+# 43158e355ab6467485507ee119e7007d
+#: ../../content/directivity-and-efficiency.rst:48
+msgid ""
+"where :math:`P_{rad}` is the radiated power, :math:`P_{in}` is the power "
+"accepted by the antenna and :math:`P_{loss}` is the power loss in the "
+"antenna. The antenna has losses due to the impedance mismatch between the"
+" antenna output and feed input. The mismatch causes power reflection. The"
+" total efficiency of the antenna is defined as [Koskimaa, 2016]"
+msgstr ""
+
+# a48be92d64254f438ebeb0d6b9a2c03c
+#: ../../content/directivity-and-efficiency.rst:50
+msgid "\\eta_t = (1-\\vert \\Gamma \\vert^2)\\eta_r"
+msgstr ""
+
+# ceeb324bd3f14ae9865c533c5ddeb30f
+#: ../../content/directivity-and-efficiency.rst:55
+msgid ""
+"These are used to define antenna gain, :math:`G`, and realized gain, "
+":math:`G_{real}`, respectively [Koskimaa, 2016]:"
+msgstr ""
+
+# 9ff6db2de00f45e09ca89bd3c1a850e8
+#: ../../content/directivity-and-efficiency.rst:57
+msgid "\\begin{array}{c} G = \\eta_r G_{real} = \\eta_t D \\end{array}"
+msgstr ""
+
+# 5deea10f9b754aff9b7b8aec6ade1be8
+#: ../../content/directivity-and-efficiency.rst:66
+msgid "Omnidirectivity"
+msgstr ""
+
+# 1c99e63773584d30a5d15a4bc80711c7
+#: ../../content/directivity-and-efficiency.rst:70
+msgid ""
+"The two loop antennas are positioned perpendicular to each other to make "
+"the receiver omnidirectional. If a 90 degree electrical phase shift is "
+"added to the loop antennas, a circular antenna pattern is formed as shown"
+" in :numref:`omnidirectional-pattern` :cite:`toth:1950`."
+msgstr ""
+
+# 1221482b6f544d0ea551f3f77cf80d52
+#: ../../content/directivity-and-efficiency.rst:77
+msgid ": Field patterns of crossed loops."
+msgstr ""
+
+# 6507b1f357b7433b8b3e699d44516afd
+#: ../../content/directivity-and-efficiency.rst:81
+msgid ""
+"Electrical circuit of an omnidirectional loop antenna system is given by "
+":numref:`omnidirectional-loop-system` :cite:`toth:1950`."
+msgstr ""
+
+# a1132f2cc5474672b3699a2bcf8eb6a2
+#: ../../content/directivity-and-efficiency.rst:88
+msgid ": Electrical circuit of an omnidirectional loop antenna system."
+msgstr ""
+
+# 9980e106fc38447087ed80a42678be27
+#: ../../content/directivity-and-efficiency.rst:92
+msgid ""
+"In an application where omnidirectivity is required, two separate loop "
+"antennas located at right angles to each other can be used to give equal "
+"reception in all directions by introducing a 90 deg phase shift in one of"
+" the induced signals before they are combined [Laurent and Carvalho, "
+"1962]."
+msgstr ""
+
+# 42dd4ebca0e64f7499e55d206331e1e2
+#: ../../content/directivity-and-efficiency.rst:100
+msgid ": Loopstick Reception Pattern & Omnidirectional Array."
+msgstr ""
+

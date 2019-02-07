@@ -18,8 +18,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-# 7113609dc1b740cca7e1d242bf20a0c7
-#: ../../content/em-modeling.rst:3
-msgid "EM Modeling"
+# 621d7cd3986f493b819c6995b8865c84
+#: ../../small-loops/shielding.rst:3
+msgid "Shielding"
+msgstr ""
+
+# a3752b33e63a41e7b0498ddd05b35be8
+#: ../../small-loops/shielding.rst:5
+msgid ""
+"A practical version of a single-winding loop for test purposes is shown "
+"in Fig. 4.12. As a protection against electric field effects, the actual "
+"winding is additionally surrounded by a tubular metal shield that must "
+"have a slot at one point in order not to short-circuit the magnetic field"
+" :cite:`rohner:2006`"
 msgstr ""
 

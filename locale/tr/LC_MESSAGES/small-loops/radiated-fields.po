@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# e5bca46ae95c48e3a3596a59c34306a1
+#: ../../small-loops/radiated-fields.rst:2
+msgid "Radiated Fields"
+msgstr ""
+
+# a5720b76f10b46beb44b972d8c944237
+#: ../../small-loops/radiated-fields.rst:5
+msgid "Thin Wire, Constant Current, Small Circumference"
+msgstr ""
+
+# 413b61027023432bb2bf9f55cac97e9c
+#: ../../small-loops/radiated-fields.rst:7
+msgid ""
+"The wire is assumed to be very thin and the current spatial distribution "
+"is given by :math:`I_\\phi = I_0` where :math:`I_0` is a constant. "
+"Although this type of current distribution is accurate only for a loop "
+"antenna with a very small circumference, a more complex distribution "
+"makes the mathematical formulation quite cumbersome :cite:`balanis:2005`."
+msgstr ""
+
+# bc028154c07948faa09b1d0e3ec37341
+#: ../../small-loops/radiated-fields.rst:9
+msgid ""
+"\\vec A = j \\frac{k \\mu a^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + "
+"\\frac{1}{jkr} \\right] e^{-jkr} \\vec a_\\phi"
+msgstr ""
+
+# 48577dc4f9794845ae7b0570d01ffe9e
+#: ../../small-loops/radiated-fields.rst:14
+msgid ""
+"\\begin{aligned} E_r &= 0 \\\\ E_\\theta &= 0 \\\\ E_\\phi &= \\eta "
+"\\frac{ (ka)^2 I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} "
+"\\right] e^{-jkr} \\end{aligned}"
+msgstr ""
+
+# f6f58ca285eb4cd1bb3519136545ddbe
+#: ../../small-loops/radiated-fields.rst:23
+msgid ""
+"\\begin{aligned} H_r &= j \\frac{k a^2 I_0 \\cos \\theta}{2 r^2} \\left[ "
+"1 + \\frac{1}{jkr} \\right] e^{-jkr} \\\\ H_\\theta &= - \\frac{ (ka)^2 "
+"I_0 \\sin \\theta}{4 r} \\left[ 1 + \\frac{1}{jkr} - \\frac{1}{(kr)^2} "
+"\\right] e^{-jkr} \\\\ H_\\phi &= 0 \\end{aligned}"
+msgstr ""
+

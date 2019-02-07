@@ -1,0 +1,343 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# 35cad18a17164f7ca325f7cefec6c771
+#: ../../loaded-loops/demagnetization-factor.rst:2
+msgid "Demagnetization Factor"
+msgstr ""
+
+# ba8386557ce1471ba24901d690f9b5ff
+#: ../../loaded-loops/demagnetization-factor.rst:4
+msgid ""
+"Demagnetization factor has been found experimentally for different core "
+"geometries, as shown in :numref:`demagnetization-factor-balanis`. In "
+"general, demagnetization factor is a function of the geometry of the "
+"ferrite core :cite:`balanis:2005`."
+msgstr ""
+
+# 2eefe3ec6baf4c1b8a127488b8c11fbc
+#: ../../loaded-loops/demagnetization-factor.rst:11
+msgid ": Demagnetization factor as a function of core lenght/diameter ratio."
+msgstr ""
+
+# 4e61dd335a31405d9205cf7e54443f1b
+#: ../../loaded-loops/demagnetization-factor.rst:13
+msgid ""
+"The demagnetizing factor can be calculated precisely only for ellipsoids "
+"of revolution, which have uniform magnetization. For a sphere, :math:`D_F"
+" = 1/3`, for a very thin plate, :math:`D_F = 1`; and for an infinitely "
+"long cylinder in a transverse field, :math:`D_F = 1/2`. For some "
+"specimens of simple shape, the demagnetizing factor is calculated by "
+"empirical formulas, but in most cases, it is determined experimentally "
+"[Dictionary, 2003]."
+msgstr ""
+
+# b77ca5e7a3b54b31ab75e73f84ff856e
+#: ../../loaded-loops/demagnetization-factor.rst:15
+msgid ""
+"The literature distinguishes between “magnetometric” and “fluxmetric” (or"
+" “ballistic”) demagnetizing factors :math:`D_m` and :math:`D_f`. If the "
+"sample is in a uniform applied field :math:`H_a` along its axis, the "
+"fluxmetric (or ballistic) demagnetizing factor :math:`D_f` is defined as "
+"the ratio of the average demagnetizing field to the average magnetization"
+" at the midplane perpendicular to the axis. The magnetometric "
+"demagnetizing factor :math:`D_m`, is defined as the ratio of the average "
+"demagnetizing field to the average magnetization of the entire sample "
+"[Chen at al., 1991]."
+msgstr ""
+
+# 11995f3fa52d46c1beb2ee9aeb6e9e8c
+#: ../../loaded-loops/demagnetization-factor.rst:18
+msgid "Demagnetization Factor from Charts"
+msgstr ""
+
+# e2749c7a704745a69f824778dbc1894a
+#: ../../loaded-loops/demagnetization-factor.rst:20
+msgid ""
+"Bozorth and Chapin investigated :math:`D_F` of rods. A chart is "
+"constructed for converting the :math:`\\mu_{ce}` to :math:`\\mu` of "
+"cylinders of any given ratio of :math:`l_r/d_r`. The demagnetizing "
+"factors for oblate and prolate ellipsoids of revolution, and for rods "
+"having finite permeabilities, are plotted in :numref:`demagnetization-"
+"factor-bozorth` [Bozorth and Chapin, 1942]."
+msgstr ""
+
+# d3d60dcacad2497cb9b82e422fe90586
+#: ../../loaded-loops/demagnetization-factor.rst:22
+msgid ""
+"Osborn investigated demagnetizing factors of the general ellipsoid. This "
+"article presents charts and tables which make possible easy determination"
+" of the demagnetizing factor for any principal axis of an ellipsoid of "
+"any shape. Formulas for the demagnetizing factors of the general "
+"ellipsoid are included together with supplementary formulas which cover "
+"many special cases [Osborn, 1945]."
+msgstr ""
+
+# c89da8dd3b354f1a9700fdbf47b24c65
+#: ../../loaded-loops/demagnetization-factor.rst:24
+msgid ""
+"Rumsey and Weeks noted that the value of :math:`D_F` is known from the "
+"static solution; it depends on the shape of the ellipsoid and is "
+"independent of :math:`\\mu` [Rumsey and Weeks, 1956]."
+msgstr ""
+
+# 83f470219b5c4178afae3271ff1e6439
+#: ../../loaded-loops/demagnetization-factor.rst:31
+msgid ": Demagnetization factors of ellipsoids and cylinders."
+msgstr ""
+
+# a6e6a062b15b4f63b474726b8fdea41b
+#: ../../loaded-loops/demagnetization-factor.rst:33
+msgid ""
+"Moskowitz et. al. investigated magnetometric demagnetization factors for "
+"regular polygonal cylinders. Longitudinal magnetometric demagnetization "
+"factors for several equilateral polygonal cylinders have been determined "
+"by inductance analogy from available tables of inductance. These values "
+"are listed in Table at :numref:`demagnetization-factor-moskowitz-table` "
+"as a function of the equivalent-area aspect ratio :math:`l_r/d_r` "
+"[Moskowitz et. al., 1966]."
+msgstr ""
+
+# 0acab910564e491bae75488dc2fa88fa
+#: ../../loaded-loops/demagnetization-factor.rst:41
+msgid ": Demagnetization factors of polygonal cylinders."
+msgstr ""
+
+# 8dbea4f581564aea96e837ac837307de
+#: ../../loaded-loops/demagnetization-factor.rst:44
+msgid "Demagnetization Factor from Formulas"
+msgstr ""
+
+# 06dca56f79ca4ae9b97be75175cb967b
+#: ../../loaded-loops/demagnetization-factor.rst:46
+msgid ""
+":math:`D_F` is the demagnetizing factor of an ellipsoid with the "
+"dimensional ratio :math:`l_r/d_r` [Mager, 1968]."
+msgstr ""
+
+# a284b02c6d69423880c16ab4b35b6dbb
+#: ../../loaded-loops/demagnetization-factor.rst:48
+msgid "D_F=\\frac{1}{\\left(l_r/d_r\\right)^2-1}\\left[\\frac{l_r/d_r}{\\sqrt{\\left(l_r/d_r\\right)^2-1}\\ln{\\left(l_r/d_r+\\sqrt{\\left(l_r/d_r\\right)^2-1}\\right)}}-1\\right]"
+msgstr ""
+
+# a707757619614acf92b1111850ed3fc2
+#: ../../loaded-loops/demagnetization-factor.rst:58
+msgid ""
+": Demagnetizing factors for ellipsoids and cylinders as functions of m (="
+" long axis/short axis for ellipsoids and length/diameter for cylinders) "
+"[Snelling, 1969, p184]."
+msgstr ""
+
+# 3035a924d1c249ccb40b20782ce94ef9
+#: ../../loaded-loops/demagnetization-factor.rst:60
+msgid ""
+"A formula for can be constructed by fitting data given in the book "
+"[Snelling, 1969] as"
+msgstr ""
+
+# 2b9e960aa07149508ac946d2444b979b
+#: ../../loaded-loops/demagnetization-factor.rst:62
+msgid "D=\\frac{0.28}{l_r/d_r}-0.0158-\\frac{0.0915}{\\mu_r}+\\frac{0.00063l_r/d_r}{\\log{\\left(\\mu_r\\right)}}"
+msgstr ""
+
+# 5feea9637844427186a6a3eae8d6b4a5
+#: ../../loaded-loops/demagnetization-factor.rst:66
+msgid ""
+"where :math:`l_r/d_r` is the length to diameter ratio of the core, not "
+"the winding. The validity ranges are :math:`1<l_r/d_r<100` and "
+":math:`1<\\mu_r<1000` [Rhea, 1994]."
+msgstr ""
+
+# 3f3f1bc39e7043d28e85fd46cd4f32d4
+#: ../../loaded-loops/demagnetization-factor.rst:68
+msgid ""
+"Over a practical range of interest (:math:`2<lr/dr<20`) :math:`D` can be "
+"modeled as [Pettengill et.al., 1977, Burhans, 1979]"
+msgstr ""
+
+# 6e9d488835d4478f8a3665c09d9268ca
+#: ../../loaded-loops/demagnetization-factor.rst:70
+msgid "D=0.37\\left(\\frac{l_r}{d_r}\\right)^{-1.44}"
+msgstr ""
+
+# c59ffc77369b455db9e562567d865ea0
+#: ../../loaded-loops/demagnetization-factor.rst:74
+msgid "Demagnetizing factors of the rectangular rod"
+msgstr ""
+
+# 60e35fee5f28447a9900457eeb0c8b1b
+#: ../../loaded-loops/demagnetization-factor.rst:76
+msgid "D=\\frac{1}{2(l_r/d_r)+1}"
+msgstr ""
+
+# ae2ca9442eab4de6b2d5405998e69ff9
+#: ../../loaded-loops/demagnetization-factor.rst:80
+msgid "and cylinder"
+msgstr ""
+
+# 2fa5ac65bbb745dda4ad7113712e2d53
+#: ../../loaded-loops/demagnetization-factor.rst:82
+msgid "D=\\frac{1}{2\\left(\\frac{2\\left(l_r/d_r\\right)}{\\sqrt\\pi}\\right)+1}"
+msgstr ""
+
+# 4969e7d2cb584b3da021b481bf1970ce
+#: ../../loaded-loops/demagnetization-factor.rst:86
+msgid ""
+"magnetized uniformly along the long axis are found to be expressed by the"
+" simple and approximate expressions [Sato and Ishii, 1989]."
+msgstr ""
+
+# 46396192c438430a862a2a5605da7558
+#: ../../loaded-loops/demagnetization-factor.rst:93
+msgid ": demagnetizing-factor-sato-ishii-1989."
+msgstr ""
+
+# 0aa3bbe63f1c44de918dfe0158a039b9
+#: ../../loaded-loops/demagnetization-factor.rst:95
+msgid ""
+"lt is found in Tables I and II that the results obtained by the simple "
+"and approximate expressions given by two equations above (ref!) well "
+"agree with the results obtained by the exact of the demagnetizing factors"
+" [Sato and Ishii, 1989]."
+msgstr ""
+
+# 2ff2f888ee5c45e9b80b07968ffcdbfe
+#: ../../loaded-loops/demagnetization-factor.rst:97
+msgid ""
+"Aharoni gave an analytic expression for the magnetometric demagnetizing "
+"factors of the general rectangular prism [Aharoni, 1998, Magpar, 2017]."
+msgstr ""
+
+# 01eb6b4d16774450aa5231eda50ca7fe
+#: ../../loaded-loops/demagnetization-factor.rst:104
+msgid ": ex14."
+msgstr ""
+
+# 69817dce0258495e9ace6be83898f340
+#: ../../loaded-loops/demagnetization-factor.rst:107
+msgid "Demagnetization Factor from Formulas with Inductance"
+msgstr ""
+
+# 0af95f2ebded4b23a7e73f40f0f44abc
+#: ../../loaded-loops/demagnetization-factor.rst:109
+msgid ""
+"Moskowitz and Della Torre investigated a magnetometric demagnetization "
+"tensor for uniformly-magnetized samples of arbitrary geometry. The axial "
+"demagnetizing factor can be obtained from existing tables designed for "
+"calculating the inductance of solenoids. This is due to the analogous "
+"fields of the solenoid and the uniformly-magnetized cylinder. The analogy"
+" between the single-layer solenoid and the uniformly-magnetized cylinder"
+msgstr ""
+
+# f39649b240204ae99debe821e77f6d4c
+#: ../../loaded-loops/demagnetization-factor.rst:111
+msgid "D_m=1-\\left(\\frac{L}{\\mu_0n^2l_rA_r}\\right)"
+msgstr ""
+
+# bbf7a13648464fd4ab89b21994b50a28
+#: ../../loaded-loops/demagnetization-factor.rst:115
+msgid "where L is the inductance, A_r is the cross-section of the cylinder."
+msgstr ""
+
+# 789676cd405440f2b288299fc221a2a4
+#: ../../loaded-loops/demagnetization-factor.rst:117
+msgid ""
+"It is of interest to consider samples of uniform equilateral-polygonal "
+"cross-section. For such samples the aspect ratio l_r/d_r is the ratio of "
+"length to the diameter of the right circular cylinder of equal cross-"
+"sectional area. Thus, in general,"
+msgstr ""
+
+# 90f16167054f4cc28503a8900d690e31
+#: ../../loaded-loops/demagnetization-factor.rst:119
+msgid "\\frac{l_r}{d_r} = \\frac{1}{2} \\sqrt{ \\frac{\\pi}{A_r} }"
+msgstr ""
+
+# 7bfdf9e384a54c888c2c5e92dac305ac
+#: ../../loaded-loops/demagnetization-factor.rst:123
+msgid ""
+"where l is the length of the particle and d is the diameter of the "
+"circular cylinder of equal cross-sectional area A_r."
+msgstr ""
+
+# 6da6485e8942435b8c3c913e2c3607ef
+#: ../../loaded-loops/demagnetization-factor.rst:125
+#, python-format
+msgid ""
+"The demagnetization factor curves in Figure 4 are based on inductance "
+"values from [Grover, 1962, 1973], for coils of polygonal geometry. For "
+"any of the shapes given, there is less than 1% deviation between "
+"demagnetization factors of polygonal and circular cylinders for aspect "
+"ratios l_r/d_r above unity. For acicular particles (l_r/d_r~6.0) this "
+"deviation is less than 0.25% even for the most radical shape, the "
+"triangular cross-section [Moskowitz and Della Torre, 1966]."
+msgstr ""
+
+# 9e4536a30a9e4c61b35aa03d14b75db2
+#: ../../loaded-loops/demagnetization-factor.rst:132
+msgid ": demagnetization-magnetometric-moskowitz-1966."
+msgstr ""
+
+# e543abb490fe427abde30ce15f42e6bd
+#: ../../loaded-loops/demagnetization-factor.rst:134
+msgid ""
+"Values of D_F have been calculated for the right circular cylinder by "
+"direct integration and by the inductance analogy. Both results agree with"
+" tables published by Brown [Brown, 1962] and will not be repeated here. "
+"From Figure 4 note that the square cylinder has a demagnetization factor "
+"of 1/3 when it becomes a cube [Moskowitz and Della Torre, 1966]."
+msgstr ""
+
+# 9c18238a28ea47b19bbc8fa65804a282
+#: ../../loaded-loops/demagnetization-factor.rst:136
+msgid ""
+"Chen et. al. evaluated fluxmetric (ballistic) and magnetometric "
+"demagnetizing factors D_f and D_m, for cylinders as functions of "
+"susceptibility \\chi and the ratio m_A of length to diameter. D_f and D_m"
+" were computed exactly using inductance formulas [Chen et. al., 1991]."
+msgstr ""
+
+# 671ea5858f4548b7a6d18a5c3a1dda71
+#: ../../loaded-loops/demagnetization-factor.rst:138
+msgid ""
+"Chen et al. evaluated, using exact general formulas, the fluxmetric D_f "
+"and magnetometric D_m demagnetizing factors of a rectangular prism of "
+"dimensions 2a\\times2b\\times2c with susceptibility \\chi=0 and the "
+"demagnetizing factor, D, of an ellipsoid of semiaxes a,b, and c along the"
+" c axis [Chen et al., 2002]."
+msgstr ""
+
+# 2e28600c11054f28a91acf2bb73cb907
+#: ../../loaded-loops/demagnetization-factor.rst:140
+msgid ""
+"Chen et. al. calculated numerically fluxmetric and magnetometric "
+"demagnetizing factors, D_f and D_m, for cylinders along the axial "
+"direction as functions of material susceptibility \\chi and the ratio "
+"l_r/d_r of length to diameter. The results have an accuracy better than "
+"0.1% [Chen et. al., 2006]."
+msgstr ""
+
+# b86b969166044cc7a88764422c7b4af4
+#: ../../loaded-loops/demagnetization-factor.rst:142
+msgid ""
+"Note: Sintered magnet demagnetization curves and demagnetization force "
+"for magnets are given by Tokyoferrite Corporation [Tokyo Ferrite, 2017]."
+msgstr ""
+

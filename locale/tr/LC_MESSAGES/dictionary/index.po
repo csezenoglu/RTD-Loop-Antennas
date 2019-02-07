@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# ef908395a19b47e58279c186e1c6b1f1
+#: ../../dictionary/index.rst:2
+msgid "Dictionary"
+msgstr ""
+
+# 48a98ad81f02468eadc82a23e9d425f4
+#: ../../dictionary/index.rst:5
+msgid "Aperture (of an antenna)"
+msgstr ""
+
+# 8fc30c98ee794ba3a2598261e5e567f5
+#: ../../dictionary/index.rst:7
+msgid ""
+"#A surface, near or on an antenna, on which it is convenient to make "
+"assumptions regarding the field values for the purpose of computing "
+"fields at external points. **Note**: The aperture is often taken as that "
+"portion of a plane surface near the antenna, perpendicular to the "
+"direction of maximum radiation, through which the major part of the "
+"radiation passes :cite:`ieee145:1993`."
+msgstr ""
+
+# 63696f0d90db4f799e3261fd80f3f117
+#: ../../dictionary/index.rst:9
+msgid ""
+"#The power received by an antenna can be described in terms of a "
+"collecting area known as the effective aperture. This may be associated "
+"with a physical aperture but even a linear wire antenna can be described "
+"in terms of a notional collecting area. If the electromagnetic field has "
+"a power density of :math:`P_d`, and the receiving antenna has an "
+"effective aperture of :math:`A_e` then it will capture a power of "
+":math:`P_d A_e`. The effective area depends only on the wavelength of the"
+" radiation and the directivity or gain :cite:`gibson:2010`."
+msgstr ""
+
+# a7a13b0d19174a6abec744237ee86970
+#: ../../dictionary/index.rst:12
+msgid "Chu Limit"
+msgstr ""
+
+# 64fb91c33ce64a60b0939125f6d3e4eb
+#: ../../dictionary/index.rst:14
+msgid ""
+"#In electrical engineering and telecommunications the Chu–Harrington "
+"limit or Chu limit sets a lower limit on the Q factor for a small radio "
+"antenna. The theorem was developed in several papers between 1948 and "
+"1960 by Lan Jen Chu, Harold Wheeler, and later by Roger Harrington. The "
+"definition of a small antenna is one that can fit inside a sphere of "
+"radius :math:`k^{-1}`, where :math:`k=2\\pi /\\lambda` is the wavenumber."
+" For a small antenna the Q is proportional to the reciprocal of the "
+"volume of a sphere that encloses it. In practice this means that there is"
+" a limit to the bandwidth of data that can be sent to and received from "
+"small antennas such as are used in mobile phones."
+msgstr ""
+
+# 56abc03d229a4ffca9f3fb30e3f47de0
+#: ../../dictionary/index.rst:16
+msgid ""
+"More specifically, Chu established the limit on Q for a lossless and "
+"linear polarized antenna as"
+msgstr ""
+
+# fc1acb46610740b492bbd6d5274fb76f
+#: ../../dictionary/index.rst:18
+msgid "Q\\geq \\frac{1}{k^3 a^3}+\\frac{1}{ka}"
+msgstr ""
+
+# 496c55d2bc1e48368a3dbb485bee525d
+#: ../../dictionary/index.rst:22
+msgid ""
+"where :math:`a` a is the radius of the smallest sphere containing the "
+"antenna and its current distribution. A circular polarized antenna can be"
+" half the size. (an extension of the theory of Chu by Harrington). As "
+"antennas are made smaller, the bandwidth shrinks and radiation resistance"
+" becomes smaller compared to loss resistances that may be present, thus "
+"reducing the radiation efficiency. For users this decreases the bitrate, "
+"limits range, and shortens battery life. "
+"[http://en.turkcewiki.org/wiki/Chu–Harrington_limit]"
+msgstr ""
+
+# 68c8d51badf54ed4a74791cc5a605b99
+#: ../../dictionary/index.rst:26
+msgid "Coupling Coefficient"
+msgstr ""
+
+# 4487bb6e282848a4a47f9d048b032663
+#: ../../dictionary/index.rst:28
+msgid ""
+"The coupling coefficient between the transmitting and the receiving coils"
+" as :cite:`zhang:2019wireless`"
+msgstr ""
+
+# 9af607676c224d5bad4885f7468a3fe0
+#: ../../dictionary/index.rst:30
+msgid "\\kappa_{12} = \\frac{M_{12}}{\\sqrt{L_1L_2}}"
+msgstr ""
+
+# 4f224099caa846d781ad62b9f12cc9c5
+#: ../../dictionary/index.rst:35
+msgid "Magnetic susceptibility"
+msgstr ""
+
+# 59eafe47656844939385179028658002
+#: ../../dictionary/index.rst:37
+msgid ""
+"#Magnetic susceptibility is a dimensionless proportionality constant that"
+" indicates the degree of magnetization of a material in response to an "
+"applied magnetic field. A related term is magnetizability, the proportion"
+" between magnetic moment and magnetic flux density. A closely related "
+"parameter is the permeability, which expresses the total magnetization of"
+" material and volume."
+msgstr ""
+
+# 3214f532d2924b409366976198ce9f5f
+#: ../../dictionary/index.rst:39
+msgid ""
+"#The volume magnetic susceptibility, represented by the symbol \\chi_v "
+"(often simply \\chi , sometimes \\chi_m magnetic, to distinguish from the"
+" electric susceptibility), is defined in the SI units by the following "
+"relationship:"
+msgstr ""
+
+# 4e5a074f87404d699f389605cfe5c7ba
+#: ../../dictionary/index.rst:41
+msgid "M=\\chi H"
+msgstr ""
+
+# a2afb96929df4a519a2791480d15ce55
+#: ../../dictionary/index.rst:45
+msgid "Here"
+msgstr ""
+
+# 39e3af6be30b487f85cda690e03f1527
+#: ../../dictionary/index.rst:47
+msgid ""
+"M is the magnetization of the material (the magnetic dipole moment per "
+"unit volume), measured in amperes per meter,"
+msgstr ""
+
+# 79f4ff747bf84eab9b0e920f013f4332
+#: ../../dictionary/index.rst:48
+msgid "H is the magnetic field strength, also measured in amperes per meter."
+msgstr ""
+
+# 02b7a3841b7e46799432996fd8dd79b2
+#: ../../dictionary/index.rst:49
+msgid ":math:`\\chi` is therefore a dimensionless quantity."
+msgstr ""
+
+# 6cb4796d360e47108ddd3a9cb59163ba
+#: ../../dictionary/index.rst:52
+msgid "Magnetic Torquer Rod"
+msgstr ""
+
+# 6a69cc394e234ce4a4216a86806793d4
+#: ../../dictionary/index.rst:54
+msgid ""
+"#Magnetic torquer rods (also known as torquers, torque rods, torque bars,"
+" torqrods, or magnetorquers) are widely used as attitude control system "
+"(ACS) actuators for geostationary satellites, small satellites, and "
+"microsatellites. A magnetic torquer rod is essentially a long copper wire"
+" wound around a core. The core material could be special alloys or simply"
+" air. With a metal core, the magnetic torquer rod can generate a larger "
+"magnetic dipole moment at the expense of a larger residual moment as "
+"compared with the air-core type. Magnetic torquer rods are designed to "
+"generate controllable magnetic dipole moments that interact with the "
+"Earth’s magnetic field and generate torques for active attitude control "
+"purposes for spacecraft (Sidi, 1997;Wertz, 1978). Torque Tmag of a "
+"magnetic torquer is given by the cross product of its magnetic dipole "
+"moment M and the Earth’s magnetic-field vector B, i.e., Tmag = M × B. "
+"Magnetic control systems have the characteristics of relatively light "
+"weight and require no moving parts, expendables, or complex hardware."
+msgstr ""
+
+# a0c588f44947449ebbd7782016316690
+#: ../../dictionary/index.rst:58
+msgid "Modal Analysis"
+msgstr ""
+
+# e067e2da8d584a8db45cf5bf3210cf07
+#: ../../dictionary/index.rst:60
+msgid ""
+"Modal analysis is the study of the dynamic properties of systems in the "
+"frequency domain. [http://en.turkcewiki.org/wiki/Modal_analysis]"
+msgstr ""
+
+# da07d7014cac451f92149cd7f86628b5
+#: ../../dictionary/index.rst:64
+msgid "Orthogonal Signals"
+msgstr ""
+
+# d7fed43a7bec4a9e92d3a92ae5362098
+#: ../../dictionary/index.rst:66
+msgid ""
+"The orthognality in signals means that the receiver can detect any one of"
+" them seperatly, and that is the meaning of non interference."
+msgstr ""
+

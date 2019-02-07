@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Ceyhun Sezenoglu
+# This file is distributed under the same license as the Loop Antennas
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loop Antennas 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-07 15:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+# d907f72da3064aa5a60ed31757a351da
+#: ../../small-loops/introduction.rst:3
+msgid "Introduction"
+msgstr ""
+
+# e1f056ab2e0146188a490228d90ff63f
+#: ../../small-loops/introduction.rst:5
+msgid ""
+"The most convenient geometrical arrangement for the field analysis of a "
+"loop antenna is to position the antenna symmetrically on the :math:`x-y` "
+"plane, at :math:`z = 0`. The wire is assumed to be very thin and the "
+"current is assumed to be constant. A constant current distribution is "
+"accurate only for a loop antenna with a very small circumference "
+":cite:`balanis:2005`."
+msgstr ""
+
+# 26b5a425004e427aaabb69c1f05b008f
+#: ../../small-loops/introduction.rst:12
+msgid ": Geometrical arrangement for loop antenna analysis"
+msgstr ""
+
+# cf584b168af94e7ba798a900ef12b1ff
+#: ../../small-loops/introduction.rst:14
+msgid ""
+"In the analysis of radiation problems, the usual procedure is to specify "
+"the sources and then require the fields radiated by the sources. It is a "
+"very common practice in the analysis procedure to introduce auxiliary "
+"functions, known as vector potentials, which will aid in the solution of "
+"the problems. The most common vector potential functions are the "
+":math:`A` (magnetic vector potential) and :math:`F` (electric vector "
+"potential). While it is possible to determine the :math:`E` and :math:`H`"
+" fields directly from the source-current densities :math:`J` and "
+":math:`M`, as shown in "
+":numref:`geometrical_arrangement_for_loop_antenna_analysis`, it is "
+"usually much simpler to find the auxiliary potential functions first and "
+"then determine the :math:`E` and :math:`H`. This two-step procedure is "
+"also shown in :numref:`geometrical_arrangement_for_loop_antenna_analysis`"
+" :cite:`balanis:2005`."
+msgstr ""
+
+# a1d3be2de72c4ddfa0f69788594f0468
+#: ../../small-loops/introduction.rst:23
+msgid ""
+": Block diagram for computing fields radiated by electric and magnetic "
+"sources."
+msgstr ""
+
+# 09656b86a7e949a38a3d5a301775f21c
+#: ../../small-loops/introduction.rst:25
+msgid ""
+"Defining properties for an electrically small antenna are low "
+"directivity, low input resistance, high input reactance and low radiation"
+" efficiency [Stutzman and Thiele, 2012]."
+msgstr ""
+
