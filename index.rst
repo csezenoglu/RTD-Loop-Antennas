@@ -25,7 +25,8 @@ Loop Antennas
    :caption: Special Chapters
    :name: sec-special
 	
-   content/eddy-currents
+   special-chapters/eddy-currents
+   special-chapters/msw
 
 .. toctree::
    :caption: Appendices
