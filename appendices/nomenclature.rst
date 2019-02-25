@@ -18,3 +18,6 @@ Derivations from other quantities
 Abbreviations
 *************
 
+- FEM: Finite Element Method
+- MPW: Magnetoplated Wire 
+- MSW: Magnetically Shielded Wire

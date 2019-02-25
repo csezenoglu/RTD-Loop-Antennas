@@ -27,6 +27,7 @@ Loop Antennas
 	
    special-chapters/eddy-currents
    special-chapters/msw
+   special-chapters/lossy-medium
 
 .. toctree::
    :caption: Appendices

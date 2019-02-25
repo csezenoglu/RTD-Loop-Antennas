@@ -3,7 +3,7 @@ Directivity and Efficiency
 
 One very important quantitative description of an antenna is how much it concentrates energy in one direction in preference to radiation in other directions. This characteristic of an antenna is called directivity and is equal to its gain if the antenna is 100% efficient.
 
-**Directivity** is defined as the ratio of the radiation intensity in a certain direction to the average radiation intensity [Stutzman and Thiele, 2012].
+**Directivity** is defined as the ratio of the radiation intensity in a certain direction to the average radiation intensity [Stutzman and Thiele, 2012]. Directivity of any small antenna can be assumed approximately equal to 3/2 :cite:`manteghi:2014study`.
 
 
 .. figure:: ../img/radiation-pattern-and-directivity.png

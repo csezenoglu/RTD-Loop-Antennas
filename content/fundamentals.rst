@@ -49,39 +49,17 @@ Once :math:`A` is known, :math:`H_A` can be found from :eq:`H_A` and :math:`E_A`
 
 When loop current varies sinusoidally, all the electromagnetic field components about the dipole are proportional to the dipole moment. These fields vary with distance :math:`R` as :math:`k^2/R` for the radiation field components, as :math:`k/R^2` for the transition field components, and as :math:`I/R^3` for the induction field components, where :math:`k=2π/ \lambda`. Given the wavelength :math:`\lambda`, and any one of the three field components, the remaining components may be calculated. Alternately, given dipole moment and frequency, all three field components may be calculated :cite:`stewart:1958`.
 
-VLF Antennas
-------------
+Electromagnetic spectrum
+------------------------
 
-VLF (Very Low Frequency) Band take place from 3kHz to 30 kHz in the frequency spectrum :cite:`ekmekci:2004`.
+The electromagnetic spectrum is the range of frequencies (the spectrum) of electromagnetic radiation and their respective wavelengths and photon energies :cite:`wiki:electromagnetic`.
 
-.. list-table::
-	:widths: 1 1
-	:header-rows: 1
-	
-	*	- Advantages
-		- Disadvantages
-		
-	*	- EM waves penetrate well in the sea water
-		- High background noise levels
-	
-	*	- Low atmospheric attenuation
-		- Communication needs large amount of power at the output of the transmitter
-	
-	*	- Appropriate for long range communication
-		- 
+.. figure:: ../img/electromagnetic-spectrum.png
+	:align: center
+	:scale: 100 %
+	:name: electromagnetic-spectrum
 
-
-VLF antennas operate on VLF band. They are electrically small and this simplifies analysis. They are physically large structures. In other words, they generally have a number of towers that 200-300 m high and cover areas of up to a square kilometer or more. The VLF antennas support worldwide communication :cite:`ekmekci:2004`.
-
-The VLF antennas have some problems that listed below :cite:`ekmekci:2004`:
-
-- Bandwidth is less than 200 Hz.
-- Small radiation resistance.
-- They are expensive structures.
-- Antenna system covers a large area.
-- Designing an efficient transmitting antenna is difficult.
-- High power levels are needed for transmission.
-
+	: Electromagnetic Spectrum.
 
 Antenna Types
 -------------
@@ -354,3 +332,10 @@ Other Antennas
 	 	- .. image:: ../img/at-wearable.png
 			:width: 100px
 			:align: center
+
+.. _Magnetic Testing:
+
+Magnetic Testing
+----------------
+
+There is a standart about expressing symbols and definitions relating to magnetic testing. Dictionary style definitions of terms are good orginized and some important notes clarify complicated issues :cite:`astm340-18:2018`.  

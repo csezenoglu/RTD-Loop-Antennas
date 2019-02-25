@@ -9,4 +9,5 @@ EM Modeling
    effective-height
    directivity-and-efficiency
    quality-factor
+   losses
 
