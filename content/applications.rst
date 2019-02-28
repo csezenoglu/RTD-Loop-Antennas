@@ -76,3 +76,9 @@ The operation of the loop antenna under water significantly increases the effici
 
         : Computed attenuation of underwater radio field per foot of submergence.
 
+Real-time Locating Systems
+==========================
+
+Real-time locating systems (RTLS) are used to automatically identify and track the location of objects or people in real time, usually within a building or other contained area. Wireless RTLS tags are attached to objects or worn by people, and in most RTLS, fixed reference points receive wireless signals from tags to determine their location. Examples of real-time locating systems include tracking automobiles through an assembly line, locating pallets of merchandise in a warehouse, or finding medical equipment in a hospital :cite:`wiki:realtimelocating`.
+
+Richards et al. investigated omnidirectional transmitting loopstick antennas with ferrite core that operates low frequency band for RTLS. Simulations run under various parameters which were type of ferrite, form factor, coil covering factor, number of turns, wire gauge, wire spacing, and gap between coil and ferrite. Comparative results were not given in details. They noted that resistive losses in the coil of the loopstick antenna dominate over in the ferrite core like 5% was core and 95% was solenoid :cite:`richards:2010electrically`.

@@ -40,3 +40,4 @@ Loop antennas can be seperated into two categories: small loops and large loops,
 .. rst-class:: check
 
 They have become less significant as transmitting antennas for frequencies below 30 MHz. An exception to this is the tuned transmitting loop, which can be equipped with a remotely controlled capacitor to make a resonant circuit (a receiving loop can be provided with additional selectivity and sensitivity in the same way). However, such loops are extremely narrowband systems and therefore have to be retuned whenever the frequency is changed :cite:`rohner:2006`.
+

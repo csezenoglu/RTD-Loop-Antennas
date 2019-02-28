@@ -38,6 +38,10 @@ Loop Antennas
    appendices/zreferences
    dictionary/index
 
+.. note::
+    
+    Loop antennas that operate low frequency (LF) or below are taken part in for the most part of this book. Medium frequency (MF) or above antennas are taken part in only if necessary. 
+
 .. note:: 
 
     This book is a kind of Loop Antennas book by Prof. Serkan Aksoy. For further information, please visit the page of the book: |Loop_Antennas|.

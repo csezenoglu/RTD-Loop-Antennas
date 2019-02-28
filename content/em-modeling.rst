@@ -10,4 +10,5 @@ EM Modeling
    directivity-and-efficiency
    quality-factor
    losses
+   near-field-propagation
 
