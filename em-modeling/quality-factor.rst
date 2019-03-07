@@ -1,5 +1,5 @@
 Quality Factor
---------------
+==============
 
 .. figure:: ../img/equivalent-circuit-of-cored-small-loop.png
         :align: center

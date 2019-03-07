@@ -1,5 +1,5 @@
 Effective Height (Length)
--------------------------
+=========================
 
 Effective height (or length) of an air core loop in meters is [Rohner, 2006]
 

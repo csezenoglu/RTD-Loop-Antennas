@@ -1,5 +1,5 @@
 Directivity and Efficiency
---------------------------
+==========================
 
 One very important quantitative description of an antenna is how much it concentrates energy in one direction in preference to radiation in other directions. This characteristic of an antenna is called directivity and is equal to its gain if the antenna is 100% efficient.
 
@@ -63,7 +63,7 @@ These are used to define antenna gain, :math:`G`, and realized gain, :math:`G_{r
         \end{array}
 
 Omnidirectivity
-^^^^^^^^^^^^^^^
+---------------
 
 .. rst-class:: written
 

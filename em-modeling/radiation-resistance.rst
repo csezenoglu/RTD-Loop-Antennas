@@ -1,5 +1,5 @@
 Radiation Resistance
---------------------
+====================
 
 As the energy lost on the ohmic resistance transforms into heat, the energy that is lost in the radiation resistance turns into electromagnetic radiation.
 
@@ -35,7 +35,7 @@ Using radiation resistance of air core loop equation and for an N-turn loop [Bal
 In order to determine the radiation resistance of a ferrite core, it is necessary to find the relative effective magnetic permeability of the ferrite core ( :math:`\mu_{cer}` ). Other variables are known geometrical and electrical properties.
 
 Relative effective permeability
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 A simple model of the relative effective permeability of the ferrite core :math:`\mu_{cer}` is related to the relative permeability of the unbounded ferrite material :math:`\mu_r = \mu / \mu_0` by :cite:`balanis:2005`
 

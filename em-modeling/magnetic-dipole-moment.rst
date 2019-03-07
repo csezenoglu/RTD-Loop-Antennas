@@ -1,5 +1,5 @@
 Magnetic Dipole Moment
-----------------------
+======================
 
 Magnetic dipole moment is a vector that point out of the plane of the loop and the magnitude of moment for a static field equals to the product of the flowing current in and cross-sectional area of the loop.
 
@@ -45,7 +45,7 @@ where :math:`S = \pi a^2` (area of the loop). Thus, for analysis purposes, the s
 Loop analysis based on magnetic dipole moment is given in Electromagnetic Waves & Antennas - S. J.Orfanidis – 2008 book CH 15.
 		
 Time-Varying, Cored and N-Turn Loop Antenna
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 Dunbar noted that in order to increase the effective area artificially through the use of a permeable core and a multi-turn coil. It is quite successful provided the flux density is kept well below the saturation level. Thus, the effective area becomes :math:`NS\mu_{cer}` and magnetic dipole moment becomes [Dunbar, 1972]. This magnetic moment can be also used in a conductive medium.
 
@@ -66,7 +66,7 @@ In order to quantify the magnetic moment for our rod antenna, we will compare it
 The electromagnetic field of the ferrite-loaded transmitting loop is given by Eq 5-1 to 5-3 with the moment :math:`m=\mu_rod F_v I_o NA`. The ferrite-loaded loop, however, is seldom used as a transmitting antenna because of the problems associated with the nonlinearity and the dissipation in the ferrite at high magnetic field strengths [Antenna Engineering Handbook 3Ed - R.C.Johnson H.Jasik – 1993, p5-9].
 
 Static, Cored and N-Turn Loop Antenna
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Devore and Bohley noted that magnetic dipole moment of a ferrite loaded loop has two component that magnetic dipole moment of ferrite core and winding [Devore Bohley, 1977]. 
 
@@ -96,7 +96,7 @@ where
 	\end{array}
 
 Torquer
-^^^^^^^
+-------
 
 .. figure:: ../img/torquer.png
 	:align: center

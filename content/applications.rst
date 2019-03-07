@@ -14,7 +14,7 @@ VLF (Very Low Frequency) Band take place from 3kHz to 30 kHz in the frequency sp
 	*	- Advantages
 		- Disadvantages
 		
-	*	- EM waves penetrate well in the sea water
+	*	- EM waves penetrate more than higher frequencies such as in the sea water
 		- High background noise levels
 	
 	*	- Low atmospheric attenuation
@@ -22,6 +22,10 @@ VLF (Very Low Frequency) Band take place from 3kHz to 30 kHz in the frequency sp
 	
 	*	- Appropriate for long range communication
 		- 
+	*	- Diffract around objects that would block higher frequencies
+		-
+	*	- Less prone to multipath
+		-
 
 VLF antennas operate on VLF band. They are electrically small and this simplifies analysis. They are physically large structures. In other words, they generally have a number of towers that 200-300 m high and cover areas of up to a square kilometer or more. The VLF antennas support worldwide communication :cite:`ekmekci:2004`.
 

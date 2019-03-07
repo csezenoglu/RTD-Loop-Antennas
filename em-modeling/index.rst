@@ -1,6 +1,6 @@
-============
+***********
 EM Modeling
-============
+***********
 
 .. toctree::
 
@@ -11,4 +11,4 @@ EM Modeling
    quality-factor
    losses
    near-field-propagation
-
+   antenna-gain

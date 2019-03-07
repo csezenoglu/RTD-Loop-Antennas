@@ -14,7 +14,7 @@ Loop Antennas
    content/introduction
    content/fundamentals
    small-loops/index
-   content/em-modeling
+   em-modeling/index
    content/circuit-modeling
    loaded-loops/index
    content/solenoid-loops

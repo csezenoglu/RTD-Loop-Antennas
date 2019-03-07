@@ -1,7 +1,7 @@
 Near field Propagation
-----------------------
+======================
 
-Within the near-field, propagation relation for electric-electric or magnetic-magnetic antennas is
+Within the near-field, propagation relation for electric-electric or magnetic-magnetic antennas (like antennas) is
 
 .. math::
 
