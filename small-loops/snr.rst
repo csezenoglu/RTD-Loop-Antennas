@@ -20,6 +20,18 @@ The minimum signal that can produce a useful output from a radio receiver is det
     * - Radiation resistance (thermal)
       -
 
+Belrose gives the SNR formula of a loaded-loop antenna :cite:`arrl:2007`:
+
+.. math::
+
+  SNR = \frac{66.3NA\mu_{rod}E}{\sqrt{b}}\sqrt{\frac{Qf}{L}}
+
+where :math:`E` is the field strength, :math:`L` is loop inductance, :math:`N` is number of turns, :math:`Q` is the loaded :math:`Q` of the loop, :math:`\mu_{rod}` is the permeability of the rod, :math:`b` is the receiver bandwidth, and :math:`A` is the loop area.
+
+.. note:: 
+
+  Higher sensitivity can also be obtained (especially at frequencies below 500 kHz) by bunching ferrite cores together to increase the loop area over that which would be possible with a single rod :cite:`arrl:2007`.
+
 Rx
 ---
 
