@@ -12,7 +12,7 @@ Loop Antennas
    :numbered:
 
    content/introduction
-   content/fundamentals
+   fundamentals/index
    small-loops/index
    em-modeling/index
    content/circuit-modeling

@@ -89,6 +89,8 @@ Schantz investigated an application of real-time locating system that operate at
 
 Richards et al. investigated omnidirectional transmitting loopstick antennas with ferrite core that operates low frequency band for RTLS. Simulations run under various parameters which were type of ferrite, form factor, coil covering factor, number of turns, wire gauge, wire spacing, and gap between coil and ferrite. Comparative results were not given in details. They noted that resistive losses in the coil of the loopstick antenna dominate over in the ferrite core like 5% was core and 95% was solenoid :cite:`richards:2010electrically`.
 
+Near field channel model document is to provide IEEE P802.15 for evaluating near field location aware wireless systems :cite:`schantz:2004near`.
+
 .. rubric:: Patents
 
 .. list-table::

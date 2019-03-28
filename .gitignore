@@ -1,5 +1,7 @@
 #build folder that includes html files
 _build/
+#ignored files
+_ignore/
 #visual studio code files
 .vscode/
 
