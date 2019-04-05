@@ -80,6 +80,8 @@ The operation of the loop antenna under water significantly increases the effici
 
         : Computed attenuation of underwater radio field per foot of submergence.
 
+.. _Real-time Locating Systems:
+
 Real-time Locating Systems
 ==========================
 
