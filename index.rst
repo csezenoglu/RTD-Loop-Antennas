@@ -25,6 +25,7 @@ Loop Antennas
    :caption: Special Chapters
    :name: sec-special
 	
+   special-chapters/fundamental-limit
    special-chapters/eddy-currents
    special-chapters/msw
    special-chapters/lossy-medium
