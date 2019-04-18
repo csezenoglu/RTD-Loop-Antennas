@@ -115,3 +115,9 @@ Near field channel model document is to provide IEEE P802.15 for evaluating near
 		- Method of near-field electromagnetic ranging and location 
 		- US20140062792A1
 
+Magnetometer
+============
+
+A magnetometer or magnetic sensor is an instrument that measures magnetism either the magnetization of a magnetic material like a ferromagnet, or the direction, strength, or relative change of a magnetic field at a particular location :cite:`wiki:magnetometer`.
+
+In 1977 an induction coil magnetometer that contains mu-metal rod core, several partial coils, and a preamplifier circuit was patented. Critical dimensions of magnetometer that coil width to core width ratio, coil diameter to core diameter ratio, and core diameter to core length ratio were given. In addition, manufacturing of magnetometer was described in details. The invention was that increasing the resolution of the magnetometer :cite:`patent:1977magnetometer`.

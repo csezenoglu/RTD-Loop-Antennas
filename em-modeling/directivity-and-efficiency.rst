@@ -52,6 +52,8 @@ where :math:`P_{rad}` is the radiated power, :math:`P_{in}` is the power accepte
 
 	\eta_t = (1-\vert \Gamma \vert^2)\eta_r
 
+A simple study about efficiency enhancement of transmitting loops was done. The study contains some investigation of previous works and analyse some parameters of antennas regarding to the previous works with a viewpoint of efficiency :cite:`jabbar:2013transmitting`.
+
 These are used to define antenna gain, :math:`G`, and realized gain, :math:`G_{real}`, respectively [Koskimaa, 2016]:
 
 .. math::
