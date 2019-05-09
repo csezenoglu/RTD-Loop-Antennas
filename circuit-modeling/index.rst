@@ -1,8 +1,6 @@
-================
+****************
 Circuit Modeling
-================
-
-From the agreement between the theoretical results and our experimental data, Fraga et. al. can conclude that the capacitance effect is quite small for the measured solenoids at frequencies below 100 kHz [Fraga et. al., 1998].
+****************
 
 The operation of the antenna can be analyzed by using an equivalent circuit. The ferrite rod antenna consists of a coil which can be modeled as an inductor that has various resistances in series due to the antenna losses. Together with a parallel capacitance the antenna forms a parallel RLC circuit. The RLC resonance frequency can be tuned by adjusting the capacitance of the capacitor. The impedance seen from the antenna terminals is the antenna impedance [Koskimaa, 2016]:
 
@@ -20,8 +18,9 @@ The operation of the antenna can be analyzed by using an equivalent circuit. The
 
 .. toctree::
 
-	complete-model
+	circuit-model-of-loop-antennas
 	coil-resistance
 	coil-inductance
+	coil-capacitance
 	impedance-matching
 

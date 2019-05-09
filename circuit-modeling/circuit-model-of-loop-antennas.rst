@@ -1,8 +1,18 @@
-Complete Model
---------------
+Circuit Model of Loop Antennas
+==============================
+
+Cheng et. al. developed the circuit model of a solenoid coil as shown in :numref:`circuit-model-2019-analytical` with ferrite tube that regards to their previous work. This work was based on the analytical effective permeability model of the ferrite tube. Formulation of components were given. Coils which one has a hollow cylinder ferrite core and the other one has ferrite rod were measured and compared. In addition, measurements of inductance and impedance of coils were compared wtih different works :cite:`cheng:2019analytical`.  
+
+.. figure:: ../img/circuit-model-2019-analytical.png
+        :align: center
+        :scale: 70 %
+        :name: circuit-model-2019-analytical
+
+        : (a) Diagram of the solenoidal Rx coil which is wound around a ferrite tube, coated with the biocompatible material, and implanted into the tissue. (b) Top view of the Rx coil and the ferrite tube. (c) Equivalent lumped model.
+
 
 Model 1
-^^^^^^^
+-------
 
 Cheng et. al. investigated a small solenoid coils for millimeter-sized biomedical implants. This paper focuses on the optimization of the solenoid-type Rx coils. Analytical model of solenoid coils that includes the impact of tissue and coating around the coils. Optimal operating frequency for the Rx and number of turns are found to be 500 MHz and 6, respectively for the wireless power transfer. A significantly more accurate formulation for the implanted solenoid coil lumped RLC model is devised, which is valid at the frequencies lower than the Rx coil self-resonance frequency (SRF), where L, R_s, C_p and R_p are the inductance, parasitic series resistance (due to conductor’s ohm loss), parasitic capacitance, and parasitic parallel resistance (due to dielectric loss in the coating and tissue), respectively [Cheng et. al., 2017]. 
 
@@ -46,7 +56,7 @@ Coil Impedance and Q-Factor:
 	\end{array}
 
 Model 2
-^^^^^^^
+-------
 
 Simpson and Zhu investigated an analysis of the electrically small multi turn loop antenna with a spheroidal core and a full-wave analysis of a practical loop with a cylindrical core in 2005 and 2006 [Simpson, 2005, Simpson and Zhu, 2006].
 
@@ -69,7 +79,7 @@ Simpson and Zhu investigated an analysis of the electrically small multi turn lo
 Approximate values for the series inductance :math:`\Delta L=1.8 \ \mu H`, and shunt capacitance, :math:`\Delta C=25.1 \ pF`, were determined. 
 
 Model 3
-^^^^^^^
+-------
 
 Kazimierczuk et. al. investigated a circuit model of ferrite core inductors. The behavior of the model parameters vs frequency is considered [Kazimierczuk et. al., 1999]. 
 
@@ -90,7 +100,7 @@ As shown in figures above all parameters of circuit model are constant and indep
         : Circuit model 3 graphics.
 
 Model 4 - Air Core Solenoid
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 Fraga et. al. investigated the impedance of long solenoids. In the case of ac, their properties can be studied in terms of an equivalent circuit. When frequency is not too high so that the distributed capacitances have a negligible influence, this circuit is the series connection of a resistance R_s, and an inductance L_s, both parameters usually taking their dc values, and thus the impedance Z_s=R_s-iωL_s. They noted that corrections are needed for low and high frequencies [Fraga et. al., 1998]. 
 
@@ -102,7 +112,7 @@ Fraga et. al. investigated the impedance of long solenoids. In the case of ac, t
         : Circuit model 4 graphics.
 
 Model 5
-^^^^^^^
+-------
 
 The ferrite rod antenna consists of a coil which can be modeled as an inductor that has various resistances in series due to the antenna losses. Together with a parallel capacitance the antenna forms a parallel RLC circuit as shown in figure 3 [Koskimaa, 2016].
 
@@ -140,7 +150,7 @@ Ferrite core is a lossy material that absorbs power from the magnetic field flow
 	R_f = \omega \mu_0 \mu_{cer} \tan{\delta_m} N^2 \frac{A}{l_f}
 
 Model 6 - Receiving Loaded Antenna
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 .. figure:: ../img/circuit-model-6.png
         :align: center

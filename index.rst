@@ -15,7 +15,7 @@ Loop Antennas
    fundamentals/index
    small-loops/index
    em-modeling/index
-   content/circuit-modeling
+   circuit-modeling/index
    loaded-loops/index
    content/solenoid-loops
    content/applications
