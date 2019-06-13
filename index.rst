@@ -9,6 +9,7 @@ Loop Antennas
 
 .. toctree::
    :maxdepth: 2
+   :caption: Loop Antennas
    :numbered:
 
    content/introduction
@@ -38,6 +39,7 @@ Loop Antennas
    appendices/nomenclature
    appendices/zreferences
    dictionary/index
+   appendices/useful-links
 
 .. note::
     
