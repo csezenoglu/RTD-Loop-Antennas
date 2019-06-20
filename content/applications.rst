@@ -47,8 +47,8 @@ Marris produced a ferrite core loopstick antenna for receiving application as sh
 
 	: Loopstick antenna.
 
-Underwater Loop Reception
-=========================
+Underwater Loop Antennas
+========================
 
 In the first world war, some submarines were equipped with radio signal receivers called "French" coils. An American submarine underwater at Long Island Sound received long-wave signals from Nauen, Germany in 1919 :cite:`toth:1950`.
 
@@ -89,6 +89,8 @@ The operation of the loop antenna under water significantly increases the effici
         :name: attenuation-of-underwater
 
         : Computed attenuation of underwater radio field per foot of submergence.
+
+In 2011, Waheed-uz-Zaman and Yousufzai presented a study about a VLF transmitting antennas for submerged submarines :cite:`waheed:2011design`.
 
 .. _Real-time Locating Systems:
 
@@ -132,12 +134,14 @@ A radio direction finder (RDF) is a device for finding the direction, or bearing
 
 In 1955, Hemphill investigated a magnetic radio compass antenna that the magnetic energy was picked up by the collector bars and conducted as magnetic energy to the small pickup coil in the center. Since the antenna was placed on the surface of the aircraft, it did not cause any additional drag :cite:`hemphill:1955magnetic`.
 
+.. _magnetometer:
+
 Magnetometer
 ============
 
 A magnetometer or magnetic sensor is an instrument that measures magnetism either the magnetization of a magnetic material like a ferromagnet, or the direction, strength, or relative change of a magnetic field at a particular location :cite:`wiki:magnetometer`.
 
-In 1962, Hill and Bostick investigated a magnetometer (with their own words micropulsation sensor) that had laminated mumetal core based on the resistance of winding and the character of the output signal. Aim of the design was a sensor with a lower impedance than the 1000 ohm source impedance. Therefore, the length and resistance of the coil in the sensor had been studied in detail. Within the core, eddy current and hysteresis losses and Within the winding, losses caused by skin effect, proximity effect, distributed capacity, and wire resistance were considered :cite:`hill:1962micropulsation`.
+In 1962, Hill and Bostick presented a report about a magnetometer (with their own words micropulsation sensor) that had laminated mumetal core based on the resistance of winding and the character of the output signal. Aim of the design was a sensor with a lower impedance than the 1000 ohm source impedance. Therefore, the length and resistance of the coil in the sensor had been studied in detail. Within the core, eddy current and hysteresis losses and Within the winding, losses caused by skin effect, proximity effect, distributed capacity, and wire resistance were considered :cite:`hill:1962micropulsation`.
 
 In 1977 an induction coil magnetometer that contains mumetal rod core, several partial coils, and a preamplifier circuit was patented. Critical dimensions of magnetometer that coil width to core width ratio, coil diameter to core diameter ratio, and core diameter to core length ratio were given. In addition, manufacturing of magnetometer was described in details. The invention was that increasing the resolution of the magnetometer :cite:`patent:1977magnetometer`.
 
@@ -163,3 +167,15 @@ Magnetotelluric
 .. Finished
 
 Magnetotelluric is a device that measure the electric and magnetic fields arising from natural sources (electromagnetic sounding of the Earth) at the surface of the earth over broad frequency bands and is based upon the skin depth effect in conductive media. Stanley and Tinkler investigated a practical, low-noise coil system for magnetotellurics. Aim of the work was implementation of the magnetometer with low-cost, light weight, broad bandwidth, ease of construction and reliability. Manufacturing steps were given in detail. A chopper amplifier had been improved according to existing systems :cite:`stanley:1983practical`.
+
+Wireless Power Transfer
+=======================
+
+Zhang et al. investigated a quadrature-shaped receiver (pickup) coil for omnidirectional wireless power transfer (WPT) as shown in :numref:`quadrature-shaped-pickup-zhang-2018`. A cross-shaped core is placed inside the receiver and the windings are wrapped around the core. Receiver is simulated for different geometric dimensions of the core and the results are presented in terms of both power and efficiency :cite:`zhang:2018optimal`.
+
+.. figure:: ../img/quadrature-shaped-pickup-zhang-2018.png
+    :align: center
+    :scale: 100 %
+    :name: quadrature-shaped-pickup-zhang-2018
+
+    : Schematics of (a) omnidirectional WPT system and (b) quadrature-shaped pickup.

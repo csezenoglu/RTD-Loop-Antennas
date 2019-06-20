@@ -1,6 +1,6 @@
-************
-Loaded Loops
-************
+*******************
+Magnetic Core Loops
+*******************
 
 .. toctree::
    :maxdepth: 2
@@ -11,7 +11,6 @@ Loaded Loops
    magnetic-cores
    demagnetization-factor
    induced-voltage
-   applications
    core-loss
 
 

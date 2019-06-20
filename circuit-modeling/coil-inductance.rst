@@ -1,8 +1,8 @@
 Coil Inductance
 ---------------
 
-Air Core
-^^^^^^^^
+Air Core Loop
+^^^^^^^^^^^^^
 
 Wheeler gave simple inductance formulas for circular and square coils [Wheeler, 1982]. 
 
@@ -85,8 +85,8 @@ where :math:`d` is diameter and :math:`b` is length in inches. Then, inductance 
 
 	L_{cored} = \mu_{cer} L_h
 
-Ferrite Core
-^^^^^^^^^^^^
+Magnetic Core Loop
+^^^^^^^^^^^^^^^^^^
 
 Devore and Bohley gave the inductance of coil formulation. They also noted that μ_r^''≪μ_r^' which is reasonable assumptions for long solenoids with low loss cores. [Devore and Bohley, 1977].
 

@@ -1,5 +1,5 @@
 Coil Resistance
----------------
+===============
 
 The resistances in the antenna are divided into ohmic losses and the radiation resistance. Ohmic losses in the antenna are caused by losses in the wire itself and losses in the ferrite core. Increased losses lead to the antenna being less sensitive at the resonant frequency. The half-power bandwidth also becomes wider [Koskimaa, 2016].
 
@@ -65,3 +65,14 @@ Fig. 1 is a chart giving the surface resistivity R, and the depth of penetration
 
         : Surface resistivity and the depth of penetration over a wide range of frequency.
 
+Loaded Loop Resistance
+----------------------
+
+Hill and Bostick investigated a sensor (:ref:`magnetometer <magnetometer>`) that had laminated mumetal core. The length and resistance of the coil in the sensor had been studied in detail. Within the core, eddy current and hysteresis losses and Within the winding, losses caused by skin effect, proximity effect, distributed capacity, and wire resistance were considered :cite:`hill:1962micropulsation`.
+
+.. figure:: ../img/circuit-model-1962-micopulsation.png
+	:align: center
+	:scale: 100 %
+	:name: circuit-model-1962-micopulsation
+
+	: Equivalent circuit of sensor with magnetic core.
