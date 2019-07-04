@@ -18,7 +18,6 @@ Loop Antennas
    em-modeling/index
    circuit-modeling/index
    magnetic-core-loops/index
-   content/solenoid-loops
    content/applications
 
 .. toctree::

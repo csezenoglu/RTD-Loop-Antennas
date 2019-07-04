@@ -12,3 +12,5 @@ In 1973 Wait and Spies investigated low-frequency input impedance of a circular 
     :name: loop-impedance-with-conducting-earth
 
     : Side view of circular loop over the conducting earth.
+
+# The self resonance frequency (SRF) can be obtained by finding the frequency in which Im(Z) = 0 :cite:`cheng2017:analytical`.

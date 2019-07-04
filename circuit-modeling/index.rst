@@ -18,7 +18,7 @@ The operation of the antenna can be analyzed by using an equivalent circuit. The
 
 .. toctree::
 
-	circuit-model-of-loop-antennas
+	complete-model
 	coil-resistance
 	coil-inductance
 	coil-capacitance

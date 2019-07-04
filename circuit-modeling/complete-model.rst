@@ -1,3 +1,68 @@
+Complete Model
+==============
+
+Circuit Model of Solenoid Receiver
+----------------------------------
+
+Cheng et. al. investigated optimization of a solenoid type receiver coil for biomedical implants in order to create a WPT link. Lumped RLC model was seen in :numref:`circuit-model-1`. The model was valid at the frequency lower than the SRF of the coil :cite:`cheng2017:analytical`.
+
+.. figure:: ../img/circuit-model-1.png
+        :align: center
+        :scale: 100 %
+        :name: circuit-model-1
+
+        : Lumped RLC model of a solenoid coil.
+
+- :math:`L` : self-inductance of coil
+- :math:`R_S` : the parasitic series resistance due to conductor’s ohm loss
+- :math:`C_p` : parasitic capacitance
+- :math:`R_p` : parasitic parallel resistance due to dielectric loss in the coating and tissue
+
+
+.. rubric:: Series Resistance:
+
+The parasitic series resistance was sum of the skin effect and proximity effect resistance. :math:`R_{sk}` and :math:`R_{pr}` were formed by Kelvin functions. 
+
+.. math::
+	:label: resistance
+
+	R_S = R_{sk} + R_{pr}
+
+.. rubric:: Inductance:
+
+The self-inductance at high frequency was given :eq:`high-frequency-inductance` and the derivation was explained in paper.  
+
+.. math::
+        :label: high-frequency-inductance
+
+	L = \mu_{eff} \pi r_{HF}^2 N^2 K_L K_P
+
+.. rubric:: Capacitance and Parallel Resistance:
+
+The parasitic parallel capacitance :math:`C_P` was proportional to the relative permittivity :math:`\epsilon_r` of the dielectric medium surrounding the solenoid. For a lossy dielectric medium, :math:`\epsilon_r` was a complex number. In other words, :math:`C_P` could be considered as a complex capacitance. The complex capacitance was represented by a real capacitance and a parallel resistance. The model in the study had a multidielectric medium and which was an extension of the uniform dielectric medium. 
+
+.. math::
+	:label: parasitic_cap_and_res
+
+	C_P = Re\biggl( C_{Pco1} + \frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} \biggr) \\
+	\frac{1}{R_P} = -\omega \cdot Im\biggl( C_{Pco1} + \frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} \biggr)
+
+.. rubric:: Coil Impedance:
+
+.. math::
+
+	Z = \frac{1}{1/(R_S+j\omega L)+j\omega C_P + 1/R_P}\\
+
+.. rubric:: Q-Factor:
+
+.. math::
+
+	Q = Im(Z)/Re(Z)
+
+.. rubric:: Self Resonance Frequency:
+
+The SRF could be obtained by finding the frequency in which :math:`Im(Z) = 0`.
+
 Circuit Model of Loop Antennas
 ==============================
 
@@ -10,50 +75,6 @@ Cheng et. al. developed the circuit model of a solenoid coil as shown in :numref
 
         : (a) Diagram of the solenoidal Rx coil which is wound around a ferrite tube, coated with the biocompatible material, and implanted into the tissue. (b) Top view of the Rx coil and the ferrite tube. (c) Equivalent lumped model.
 
-
-Model 1
--------
-
-Cheng et. al. investigated a small solenoid coils for millimeter-sized biomedical implants. This paper focuses on the optimization of the solenoid-type Rx coils. Analytical model of solenoid coils that includes the impact of tissue and coating around the coils. Optimal operating frequency for the Rx and number of turns are found to be 500 MHz and 6, respectively for the wireless power transfer. A significantly more accurate formulation for the implanted solenoid coil lumped RLC model is devised, which is valid at the frequencies lower than the Rx coil self-resonance frequency (SRF), where L, R_s, C_p and R_p are the inductance, parasitic series resistance (due to conductor’s ohm loss), parasitic capacitance, and parasitic parallel resistance (due to dielectric loss in the coating and tissue), respectively [Cheng et. al., 2017]. 
-
-.. figure:: ../img/circuit-model-1.png
-        :align: center
-        :scale: 100 %
-        :name: circuit-model-1
-
-        : Circuit model 1.
-
-Resistance:
-
-.. math::
-	:label: resistance
-
-	R_S = R_{sk} + R_{pr}
-
-Inductance:
-
-.. math::
-	:label: inductance
-
-	L = \mu_{eff} \pi r_{HF}^2 N^2 K_L K_P
-
-Capacitance and Parallel Resistance:
-
-.. math::
-	:label: cap_and_res
-
-	C_P = Re\biggl( C_{Pco1} + \frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} \biggr)
-	\frac{1}{R_P} = -\omega \cdot Im\biggl( C_{Pco1} + \frac{C_{Pco2}C_{Pti}}{C_{Pco2}+C_{Pti}} \biggr)
-
-Coil Impedance and Q-Factor:
-
-.. math::
-	:label: imp_and_q
-
-	\begin{array}{c}
-	Z = \frac{1}{1/(R_S+j\omega L)+j\omega C_P + 1/R_P}\\
-	Q = Im(Z)/Re(Z)
-	\end{array}
 
 Model 2
 -------

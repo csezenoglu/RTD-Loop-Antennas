@@ -76,3 +76,13 @@ Hill and Bostick investigated a sensor (:ref:`magnetometer <magnetometer>`) that
 	:name: circuit-model-1962-micopulsation
 
 	: Equivalent circuit of sensor with magnetic core.
+
+Skin Effect Resistance
+----------------------
+
+# When the wire diameter is much smaller than the coil diameter, a circular coil can be approximated as a straight conductor for the calculation of the skin effect resistance :cite:`cheng2017:analytical,kim:2014approximate`
+
+Proximity Effect Resistance
+---------------------------
+
+# The proximity effect resistance Rpr induced by adjacent parallel conductors is a classic and yet difficult problem. Butterworth [38] considered Rpr as a part of Rsk by multiplying an empirical factor from a lookup table. This table was revised by Medhurst [39] for higher accuracy. However, both [38] and [39] are valid only when the number of turns is large [40] and not appropriate for general use because of the limited scope of its applications [41]. Smith [42] obtained an exact solution for the case of two parallel conductors. However, an approximation method using Fourier series expansion with cumbersome numerical calculations is needed when N > 2 [43]. Dwell [44] and Ferreira [45] considered these parallel turns as a foil and used a porosity factor to revise the error induced from omitting the gap between turns, which were improved further by weighting these two methods [46], [47]. The methods reported in [44]–[47] are suitable for traditional transformers with ferrite cores. On the other hand, eddy current in a cylindrical conductor and its corresponding resistance have analytical closed-form solutions [48]. Note that the formulas in [35] and [49] have typos [48]. The turns in solenoid coils can be considered as several parallel cylindrical conductors, changing the problem to how to calculate Hn for each turn. An iterative method has been proposed to solve this problem [49]. The successive approximations method starts by considering the wires as filaments to calculate the initial magnetic field and proceeds by using the new magnetic field to calculate the induced current and  magnetic field. A simpler and more direct approximation method from [37] is selected and improved in this paper :cite:`cheng2017:analytical`.

@@ -25,3 +25,7 @@ Abbreviations
 - FEM: Finite Element Method
 - MPW: Magnetoplated Wire 
 - MSW: Magnetically Shielded Wire
+- RLC: Resistance, Inductance, Capacitance
+- Rx: Receiver
+- SRF: Self-Resonance Frequency
+- WPT: Wireless Power Transfer
