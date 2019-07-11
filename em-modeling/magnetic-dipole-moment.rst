@@ -95,17 +95,17 @@ where
 	V_F = l_F \pi {a_F}^2
 	\end{array}
 
-Torquer
--------
+Moment of Torquer
+-----------------
 
 .. figure:: ../img/torquer.png
 	:align: center
 	:scale: 100 %
-	:name: torquer
+	:name: torquer-image
 
 	: Torquer.
 
-The definition of variables for the magnetic torquer is as shown in :numref:`torquer`, where :math:`M` represents the dipole moment of the torquer, :math:`\theta` is the angle with respect to the torquer axis, :math:`R` is the distance from the center of the coil, and :math:`l` is the effective coil length. Also, :math:`B` is the magnetic-flux density, :math:`B_r` and :math:`B_t` are the radial and tangential components of :math:`B`, respectively [Lee et. al., 2002].
+The definition of variables for the magnetic torquer is as shown in :numref:`torquer-image`, where :math:`M` represents the dipole moment of the torquer, :math:`\theta` is the angle with respect to the torquer axis, :math:`R` is the distance from the center of the coil, and :math:`l` is the effective coil length. Also, :math:`B` is the magnetic-flux density, :math:`B_r` and :math:`B_t` are the radial and tangential components of :math:`B`, respectively [Lee et. al., 2002].
 
 If :math:`\theta = 90^\circ`,
 

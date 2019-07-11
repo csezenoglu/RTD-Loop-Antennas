@@ -49,4 +49,4 @@ in which the ratio of received power :math:`P_{rx}` to transmitted power :math:`
 
 .. note::
 
-    All these works provides a basis to :ref:`Real-time Locating Systems`.
+    All these works provides a basis to :ref:`real-time-locating-system`.

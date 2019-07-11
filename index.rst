@@ -18,7 +18,7 @@ Loop Antennas
    em-modeling/index
    circuit-modeling/index
    magnetic-core-loops/index
-   content/applications
+   applications/index
 
 .. toctree::
    :maxdepth: 1
@@ -29,6 +29,7 @@ Loop Antennas
    special-chapters/eddy-currents
    special-chapters/msw
    special-chapters/lossy-medium
+   special-chapters/electric-dipole
 
 .. toctree::
    :caption: Appendices
