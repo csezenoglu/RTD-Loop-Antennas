@@ -24,12 +24,15 @@ Loop Antennas
    :maxdepth: 1
    :caption: Special Chapters
    :name: sec-special
-	
-   special-chapters/fundamental-limit
-   special-chapters/eddy-currents
-   special-chapters/msw
-   special-chapters/lossy-medium
+
+   special-chapters/eddy-currents	
    special-chapters/electric-dipole
+   special-chapters/fundamental-limit
+   special-chapters/inductors
+   special-chapters/lossy-medium
+   special-chapters/msw
+
+
 
 .. toctree::
    :caption: Appendices
