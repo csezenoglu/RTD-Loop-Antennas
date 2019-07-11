@@ -23,3 +23,5 @@ While it is possible to determine the :math:`E` and :math:`H` fields directly fr
         : Block diagram for computing fields radiated by electric and magnetic sources.
 		
 Defining properties for an electrically small antenna are low directivity, low input resistance, high input reactance and low radiation efficiency [Stutzman and Thiele, 2012].
+
+# In practice, a dipole antenna is usually operated at or near its first resonant frequency. However, electrically small antennas, such as active receiving antennas, operate well below the resonant frequency :cite:`tang:1993equivalent`.

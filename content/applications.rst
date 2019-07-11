@@ -189,7 +189,7 @@ Cheng et. al. investigated optimization of a solenoid type receiver coil for bio
 
 ==== ================================================================
 2015 Electrically small loop antennas for RFID applications
-2017 Analytical modeling and optimization of small solenoid coils for 
+2017 Analytical modeling and optimization of small solenoid coils for
      millimeter-sized biomedical implants
 ==== ================================================================
 
