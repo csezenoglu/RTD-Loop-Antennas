@@ -17,13 +17,13 @@ Other tests to obtain other relevant information are as follows :cite:`isely:194
 - Effect of sea bottom on signals. 
 - Noise survey of ship.
 
-In the report, some important results were highlighted :cite:`isely:1941test`. 
+In the report, some important results were highlighted :cite:`isely:1941test`:
 
 - The depth of the sea bottom seems to have practically no effect of the strength of the signals. 
 - Theoritical considerations of the design of a loop for underwater reception that a narrow loop with its long side parallel to the water surface is best. 
 - Signals of 1000 microvolts per meter in air should be readable to a depth of 10 meters (34 feet)(above loop) in ocean water and 11.5 meters (38 feet)(above loop) in water of less salinity.
 
-Toth and Fratianni investigated underwater loop reception and concluded that these results: a) Long-distance underwater radio receivers should be used in the range of 15-30 kHz and about maximum of 6 m (20 ft). b) A convenient underwater receiver system should be omnidirectional and at a certain distance from the water surface :cite:`toth:1950`.
+In 1950, Toth and Fratianni investigated underwater loop reception and concluded that these results: a) Long-distance underwater radio receivers should be used in the range of 15-30 kHz and about maximum of 6 m (20 ft). b) A convenient underwater receiver system should be omnidirectional and at a certain distance from the water surface :cite:`toth:1950`.
 
 Induced voltage at the terminals of the antenna in the air is a function of the time of the frontwave that comes to the opposite edge of the coil that parallel to the electric vector. A similar induced voltage occurs at a loop antenna under water. However, since the wavelength of underwater wave propagation is much slower (1000 times slower than air) and the attenuation is too high, the phase differences of the induced voltages at the coil edges are high as shown in :numref:`induced-voltage-underwater` :cite:`toth:1950`.
 
@@ -42,5 +42,7 @@ The operation of the loop antenna under water significantly increases the effici
         :name: attenuation-of-underwater
 
         : Computed attenuation of underwater radio field per foot of submergence.
+
+In 1955, Fratianni investigated three experimental iron-cored omnidirectional loop antennas in regards to VLF signal reception. The aim of the investigation was to achive greater receiving efficiency with no increase in physical size, and weight, as compared to the Model AT-317 antenna which was employed on submarines at that time. They also noted that the interference effects of undesired radio signals were not changed by the presence of the Faraday shield. The experimental antennas were superior in pickup efficiency than the Model AT-317 antenna because of the greater winding areas and core lengths :cite:`fratianni:1955vlf`. 
 
 In 2011, Waheed-uz-Zaman and Yousufzai presented a study about a VLF transmitting antennas for submerged submarines :cite:`waheed:2011design`.
