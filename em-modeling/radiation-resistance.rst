@@ -3,6 +3,8 @@ Radiation Resistance
 
 As the energy lost on the ohmic resistance transforms into heat, the energy that is lost in the radiation resistance turns into electromagnetic radiation.
 
+The radiation resistance of receiving loop antennas is usually very small that in the milli- or micro-ohm range. The loops are typically extremely inefficient because losses due to wire resistance and core magnetic material (if exist) are literally hundreds of times larger than radiation resistance :cite:`stewart:1958on`.
+
 A ferrite core in the loop that tends to increase the magnetic flux, the magnetic field, the open-circuit voltage, and in turn the antenna efficiency of the loop. 
 
 The radiation resistance of the ferrite loop is given by

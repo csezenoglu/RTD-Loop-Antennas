@@ -26,18 +26,14 @@ As an exception, a tuned transmitting loop, can be equipped with a remotely cont
 Dimensions
 ----------
 
-Frequency
----------
+For magnetic core antennas, the length of the magnetic core should be equal to the diameter of the equivalent air-core loop antenna in order to achieve an comparable performance over the air-core antennas. The two dimensions of the air-core antenna are large, whereas the magnetic core antenna is only one dimension large. Thus, the magnetic core antenna has the advantage of packaging. Electrostatic immunity is better and electrostatic protection can be applied more easily :cite:`stewart:1958on`.
 
-Above 20 MHz or so, ferrite losses increase to the extent that ferrite loops may not be as good as air loops; relatively loss-free ferrites at higher frequencies tend to have low permeability and hence the slight advantage obtained with ferrites at low frequencies tends to disappear [Stewart, 1958].
-At a moderate distance R from the dipole, provided R is large compared to dipole dimensions, and in the static case (that is, in the audio frequency region), k/R2 and k2/R are very small relative to l/R3 and hence can be ignored by comparison. This permits a static measurement of magnetic field intensity to be made in order to find dipole moment. Then radiation at some radio frequency can be determined providing that the dipole moment does not change from static to radio frequencies and providing the dipole is small enough to still be considered an elementary dipole at the radio frequency of interest [Stewart, 1958].
+# Cylindrical cores longer than a solenoid winding are used to increase L for a given physical size. Cylindrical cores shorter than the solenoid winding and moved along the winding axis are used for L tuning with the greatest L occurring with the core centered [Serkan Aksoy, Mail, 04.04.2017].
 
 Measurement
 -----------
 
-Direct radio-frequency measurements usually require that the magnetic dipole antenna be electrostatically shielded; otherwise, incidental electric dipole radiation makes it almost impossible to separate radiation into electric and magnetic types. With static magnetic measurements of a radio-frequency antenna, on the other hand, antenna inductance is so small that no appreciable voltage is required to obtain antenna driving current and hence no significant electric dipole moment exists [Stewart, 1958].
-
-An unshielded magnetic dipole at radio frequencies will radiate to a certain extent as an electric dipole. As a result, radiated power will exceed that calculated for magnetic dipole radiation alone. Electric dipole radiation typically affects radiation intensity most where the magnetic dipole radiation is a minimum; in the case of the loop, the major effect is to fill in the nulls. Magnetostatic measurements cannot account for electric dipole radiation; hence, magnetostatically predicted radio-frequency radiation resistance may be somewhat less than actual radiation resistance if the magnetic-type antenna is unshielded [Stewart, 1958].
+Stewart investigated measurement of a ferrite core loop antenna. A general discussion was given about applications of small loops with air core and ferrite core. The data received by static measurement (below audio frequency) are largely valid and can be collected very quickly so that the tests of the magnetic core antennas with many parameters are obtained on a reasonable budget. Losses of the magnetic core increase above 20 MHz frequency and the magnetic core antennas are no longer as good as air-cored loops. RF measurements of the magnetic dipole antenna usually require that the antenna is electrically shielded; otherwise, it is impossible to seperate radiation into electric and magnetic components :cite:`stewart:1958on`.
 
 Permeability (Influence of High-Frequency Magnetic Fields)
 ----------------------------------------------------------
@@ -129,3 +125,5 @@ The (modern) German navy uses submarines whose hulls are made entirely out of so
         :name: distribution-of-flux-density-along-ferrite-snelling-1969
 
         : distribution-of-flux-density-along-ferrite-snelling-1969 p188.
+
+Analytical calculations of magnetic cored loops could not be calculated except for the special case of an ellipsoidal core, and even then calculations were approximate :cite:`stewart:1958on`. 

@@ -23,4 +23,5 @@ The operation of the antenna can be analyzed by using an equivalent circuit. The
 	coil-inductance
 	coil-capacitance
 	impedance-matching
+	self-resonance-frequency
 

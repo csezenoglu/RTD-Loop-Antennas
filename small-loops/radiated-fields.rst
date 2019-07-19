@@ -1,6 +1,8 @@
 Radiated Fields
 ===============
 
+A small loop in which loop current is everywhere in phase can be expressed a magnetic dipole with dipole moment :math:`M`. All the electromagnetic field components of the magnetic dipole are proportional to the :math:`M` when the loop current varies sinusoidally. These fields vary with distance :math:`R` as :math:`k^2/R` for the radiation or far field components, as :math:`k/R^2` for the transition field components, and as :math:`l/R^3` for the induction or reactive field components. If the wavelength :math:`\lambda`, and any one of the three field components are given, the remaining components may be calculated. Alternately, if the :math:`M` is given, all three field components may be calculated :cite:`stewart:1958on`.
+
 Thin Wire, Constant Current, Small Circumference
 ------------------------------------------------
 
