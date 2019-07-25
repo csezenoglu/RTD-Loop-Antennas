@@ -82,3 +82,8 @@ Nickel-Iron (Ni-Fe) alloys are a special class of magnetic materials based on th
 .. Standard
 
 There is a standard about Nickel-Iron (Ni-Fe) soft magnetic materials that includes permeability and coercive field strength values for different shapes and four different alloy types :cite:`astm:2013`. 
+
+Magneto-mechanical Effect
+-------------------------
+
+Magneto-mechanical effect (i.e., mechanical stress) causes characteristics deterioration that decrease of permeability of electrical steel sheets used in electric machines :cite:`rasilo:2019equivalent`. Aydin et al., investigated magneto-mechanical modeling of electrical steel sheets and compared two models based on simplified multiscale and Helmholtz free energy approach :cite:`aydin:2017magneto`. A testing device of magneto-mechanical effects in steel sheets was designed :cite:`aydin:2019rotational` and then equivalent strain and stress approach was proposed for modeling permeability change in ferromagnetic materials due to mechanical loadings :cite:`rasilo:2019equivalent`.

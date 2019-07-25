@@ -10,9 +10,6 @@ Magnetic dipole moment is a vector that point out of the plane of the loop and t
 
         : Magnetic dipole moment equivalent of a loop.
 
-
-.. rst-class:: rewrite
-
 A comparison of magnetic and electric field components with those of the infinitesimal magnetic dipole indicates that they have similar forms. In fact, the electric and magnetic field components of an infinitesimal magnetic dipole of length l and constant “magnetic” spatial current :math:`I_m` are givenby
 
 .. math::

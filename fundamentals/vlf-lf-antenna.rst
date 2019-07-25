@@ -44,3 +44,9 @@ Marris produced a ferrite core loopstick antenna for receiving application as sh
 	:name: loopstick-ultima
 
 	: Loopstick antenna.
+
+.. role:: red
+
+==== ================================================================
+1939 :red:`The Screened Loop Aerial`
+==== ================================================================

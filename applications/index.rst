@@ -1,3 +1,6 @@
+.. _applications:
+
+************
 Applications
 ************
 
@@ -11,5 +14,4 @@ Applications
     real-time-locating-system
     rfid
     underwater-loop-antenna
-    vlf-lf-antenna
     wireless-power-transfer

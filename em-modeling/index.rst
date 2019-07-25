@@ -1,3 +1,5 @@
+.. _em-modeling:
+
 ***********
 EM Modeling
 ***********

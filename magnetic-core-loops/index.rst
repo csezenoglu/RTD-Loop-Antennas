@@ -1,3 +1,5 @@
+.. _magnetic-core-loops:
+
 *******************
 Magnetic Core Loops
 *******************
@@ -12,7 +14,3 @@ Magnetic Core Loops
    demagnetization-factor
    induced-voltage
    core-loss
-
-
-
-        

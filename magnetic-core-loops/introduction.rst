@@ -1,5 +1,8 @@
+.. _introduction:
+
+************
 Introduction
-============
+************
 
 Ferrite core electrically small loops are often used for receiving signals, such as in radios and pagers, where the signal to noise ratio is much important than efficiency. 
 

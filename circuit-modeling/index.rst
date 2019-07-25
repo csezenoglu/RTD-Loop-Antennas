@@ -1,3 +1,5 @@
+.. _circuit-modeling:
+
 ****************
 Circuit Modeling
 ****************

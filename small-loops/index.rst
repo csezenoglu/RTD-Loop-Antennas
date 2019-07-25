@@ -1,3 +1,5 @@
+.. _small-loops:
+
 ***********
 Small Loops
 ***********
@@ -17,6 +19,5 @@ Breed carried out an article on electrically small antennas. Here, the electrica
    radiated-fields   
    loop-geometry
    impedance
-   shielding
    receiving-signal
    snr
