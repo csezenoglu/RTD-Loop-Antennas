@@ -22,7 +22,6 @@ Loop Antennas
    special-chapters/eddy-currents	
    special-chapters/electric-dipole
    special-chapters/fundamental-limit
-   special-chapters/inductors
    special-chapters/lossy-medium
    special-chapters/msw
 

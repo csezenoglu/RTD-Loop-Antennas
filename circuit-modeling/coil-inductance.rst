@@ -125,3 +125,7 @@ To calculate the inductances of a wound rod the following formula can be used,
 
 This formula was also given in Soft Ferrites book. [Snelling, 1969, Fair-Rite Rods Datasheet]
 
+Effective Radius of Solenoid
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Current distribution in the wire of a solenoid is not uniform at low frequency due to path-length variation and strain. Therefore, there can be an error in inductance calculations. Knigth investigated effective radius of coils and gave formulas and numerical algorithms for the effective radius for solid rectangular and round wire :cite:`knight:2000low`. 
