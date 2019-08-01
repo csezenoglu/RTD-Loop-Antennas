@@ -24,6 +24,7 @@ Loop Antennas
    special-chapters/fundamental-limit
    special-chapters/lossy-medium
    special-chapters/msw
+   special-chapters/mutual-inductance
 
 .. toctree::
    :caption: Appendices
@@ -34,6 +35,7 @@ Loop Antennas
    appendices/zreferences
    dictionary/index
    appendices/useful-links
+   appendices/journals
 
 .. note::
     
