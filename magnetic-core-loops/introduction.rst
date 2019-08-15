@@ -4,6 +4,10 @@
 Introduction
 ************
 
+The insertion of a ferromagnetic core into a coil increases its self-inductance and effective resistance due to the increase of flux :cite:`burgess:1946iron`.
+
+A ferrite core in the loop that tends to increase the magnetic flux, the magnetic field, the open-circuit voltage, and in turn the antenna efficiency of the loop. 
+
 Ferrite core electrically small loops are often used for receiving signals, such as in radios and pagers, where the signal to noise ratio is much important than efficiency. 
 
 .. figure:: ../img/effect-of-the-ferrite-rod.png

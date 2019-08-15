@@ -33,6 +33,7 @@ Loop Antennas
    
    appendices/nomenclature
    appendices/zreferences
+   appendices/fingerprints
    dictionary/index
    appendices/useful-links
    appendices/journals

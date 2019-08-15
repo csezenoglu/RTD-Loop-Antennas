@@ -14,3 +14,5 @@ Magnetic Core Loops
    demagnetization-factor
    induced-voltage
    core-loss
+   radiation-resistance
+   relative-effective-permeability

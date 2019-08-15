@@ -140,3 +140,16 @@ Chen et al. evaluated, using exact general formulas, the fluxmetric D_f and magn
 Chen et. al. calculated numerically fluxmetric and magnetometric demagnetizing factors, D_f and D_m, for cylinders along the axial direction as functions of material susceptibility \chi and the ratio l_r/d_r of length to diameter. The results have an accuracy better than 0.1% [Chen et. al., 2006].
 
 Note: Sintered magnet demagnetization curves and demagnetization force for magnets are given by Tokyoferrite Corporation [Tokyo Ferrite, 2017].
+
+.. burası tamam, diğer kısımlar gözden geçirilecek
+
+Demagnetization factor of a prolate spheroid was given by :cite:`burgess:1946iron`
+
+.. math::
+        :class: math-accordion
+
+        D_F = \frac{1-e_1^2}{e_1^2} \left( \frac{1}{2e_1} \ln{\frac{1+e_1}{1-e_1}} - 1 \right)
+
+.. container:: math-panel
+
+        - :math:`e_1 = \sqrt{1-l_r/d_r}`

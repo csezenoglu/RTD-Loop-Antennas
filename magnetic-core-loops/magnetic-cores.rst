@@ -87,3 +87,27 @@ Magneto-mechanical Effect
 -------------------------
 
 Magneto-mechanical effect (i.e., mechanical stress) causes characteristics deterioration that decrease of permeability of electrical steel sheets used in electric machines :cite:`rasilo:2019equivalent`. Aydin et al., investigated magneto-mechanical modeling of electrical steel sheets and compared two models based on simplified multiscale and Helmholtz free energy approach :cite:`aydin:2017magneto`. A testing device of magneto-mechanical effects in steel sheets was designed :cite:`aydin:2019rotational` and then equivalent strain and stress approach was proposed for modeling permeability change in ferromagnetic materials due to mechanical loadings :cite:`rasilo:2019equivalent`.
+
+Dust Core (Mass Core)
+---------------------
+
+The powder cores (dust core or mass core) produced by compressing the insulated magnetic powder are easy to form and are expected to be useful for the reduction of components with cores; however, there are energy loss or core loss issues. Pure iron powder, the raw material of powder cores, has more compressibility and higher saturated magnetic flux density than alloy powders :cite:`hojo:2017dust`.
+
+The effective magnetic permeability of an iron powder core consisting of uniformly spherical iron particles with magnetic permeability :math:`\mu_r` and conductivity :math:`\sigma` (CGS) was given by :cite:`burgess:1946iron`
+
+.. math::
+	:class: math-accordion
+
+	\mu_e = \frac{(\mu+2)+2V_c (\mu-1)}{(\mu+2)- V_c (\mu-1)}
+
+.. container:: math-panel
+
+	- :math:`V_c`: Fractional volume of the iron [m :sup:`3`]
+
+For a cubical arrangement of the spheres in contact, the value of :math:`V_c` is :math:`\pi/6 = 0.52`, while the closest packaged formation is :math:`\sqrt 2 \pi / 6 = 0.74`. Therefore, in cores having a :math:`V_c` value greater than 0.74, the particles cannot be spherical and generally have irregularities distributed randomly, so that the core is still magnetically isotropic.
+
+This equation was only valid for magnetostatic fields. In alternating fields, eddy currents are set up in the particles which introduce a power loss depending upon the particle size and frequency ,and therefore the effective permeability of the core would be a complex value that :math:`\mu_e = \mu_e' -j\mu_e''`. So, imaginary part of the effective permeability was given by :cite:`burgess:1946iron`
+
+.. math::
+
+	\mu_e'' = \frac{18\pi}{5} \frac{V_c \mu^2 \omega r^2 \sigma}{[(\mu+2)-V_c (\mu-1)]^2}

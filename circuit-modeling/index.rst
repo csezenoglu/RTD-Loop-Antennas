@@ -21,6 +21,7 @@ The operation of the antenna can be analyzed by using an equivalent circuit. The
 .. toctree::
 
 	complete-model
+	radiation-resistance
 	coil-resistance
 	coil-inductance
 	coil-capacitance
