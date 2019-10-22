@@ -153,3 +153,59 @@ Demagnetization factor of a prolate spheroid was given by :cite:`burgess:1946iro
 .. container:: math-panel
 
         - :math:`e_1 = \sqrt{1-l_r/d_r}`
+
+Demagnetization factor of a spheroidal ferrite core calculated as follows:
+
+.. math::
+
+        D_F = \frac{abc}{2} A
+
+where :math:`A` is elliptical integral and :math:`s=\xi, \eta, \zeta` ellipsoidal coordinates.
+
+.. math::
+
+        A &= \int_0^\infty \frac{ds}{(s+a^2)R_s} \\
+        R_s &= \sqrt{(s+a^2)(s+b^2)(s+c^2)}
+
+.. rubric:: Case 1: Prolate (a>b=c)
+
+A reduces to
+
+.. math::
+
+        A &= \int_0^\infty \frac{ds}{(s+b^2)(s+a^2)^{3/2}} \\
+        &= \frac{1}{a^3e^3}\left[ \ln{\frac{1+e}{1-e}} - 2e \right]
+
+where 
+
+.. math::
+
+        e=\sqrt{1-\frac{b^2}{a^2}}
+
+Thus
+
+.. math::
+
+        D_F = \frac{r_f^2}{2(l_f/r_f)^2 e^3}\left[ \ln{\frac{1+e}{1-e}} - 2e \right]
+
+.. rubric:: Case 2: Oblate (a<b=c)
+
+A reduces to
+
+.. math::
+
+        A &= \int_0^\infty \frac{ds}{(s+b^2)(s+a^2)^{3/2}} \\
+        &= \frac{2}{(b^2-a^2)^{3/2}}\left[ |e| - \arctan{|e|} \right]
+
+Thus
+
+.. math::
+
+        D_F = \frac{r_f^2}{(l_f/2)^2 |e|^3} \left[ |e| - \arctan{|e|} \right]
+
+
+.. rubric:: Case 3: Sphere (a=b=c)
+
+.. math::
+
+        D_F = \frac{1}{3}
