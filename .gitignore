@@ -8,6 +8,7 @@ _ignore/
 __pycache__
 *.pyc
 *.mo
+*.bak
 
 # Finder (MacOS) makes these automatically.
 .DS_Store
