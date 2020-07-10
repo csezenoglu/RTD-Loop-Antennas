@@ -575,7 +575,7 @@
 
 @TechReport{srsan3,
   author      = {Stanford Research Systems},
-  institution = {Stanford Research Systems Application Note 3},
+  institution = {Stanford Research Systems},
   title       = {About Lock-In Amplifiers},
   year        = {2013},
   type        = {Application Note 3},
