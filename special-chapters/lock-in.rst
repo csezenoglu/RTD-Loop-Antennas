@@ -63,6 +63,8 @@ Lock-in amplifier working principle
 Dual Phase Lock-in Amplifier Working principle
 ==============================================
 
+#The principal advantage of the dual-phase unit is that if the signal channel phase (but not its amplitude) changes then the magnitude display will remain constant, even though the X and Y outputs change. Hence, if the lock-in ampliﬁer is set to display vector magnitude R, changes in the signal phase will not affect the reading, and the instrument does not require the adjustment of the reference phase-shifter circuit. This capability is the main reason for the dual-phase instrument’s widespread use :cite:`Burdett2005`.
+
 #Dual-phase lock-in amplifier avoid the error caused by the phase shift circuit used in single phase lock-in amplifier, which can greatly improve the detection accuracy.
 
 #The principle of dual phase lock-in amplifier is shown in :numref:`schematic-dual-phase-lock-in-amplifier` The dual-phase lock-in amplifier has two phase orthogonal reference signals whose phase is 0 degrees and 90 degrees. The reference signal is always sine wave of the same frequency as the measured signal. Then the amplitude and phase of measured signal can be get accurately by doing multiplication related operation between the measured signal and two phase-orthogonal reference signals.
