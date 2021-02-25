@@ -7,6 +7,7 @@ Applications
 .. toctree::
 
     biomedical-implant
+    human-detection
     magnetometer
     marker-beacon
     radio-direction-finder
