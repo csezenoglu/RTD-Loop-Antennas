@@ -49,7 +49,7 @@ Loop Antennas
 
 .. |Loop_Antennas| raw:: html
 
-   <a href="http://anibal.gyte.edu.tr/dosya/102/~saksoy/Loop%20Antennas/Loop%20Antennas.htm" target="_blank">Loop Antennas</a>
+   <a href="https://abl.gtu.edu.tr/dosya/102/~saksoy/Loop%20Antennas/Loop%20Antennas%20-%20Book.htm" target="_blank">Loop Antennas</a>
 
 .. Indices and tables
 .. ==================

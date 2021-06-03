@@ -65,6 +65,8 @@ locale_dirs = ['locale/']   # path is example but recommended.
 gettext_uuid = True
 gettext_compact = False
 
+bibtex_bibfiles = ["references.bib"]
+
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
 #today = ''
